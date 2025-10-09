@@ -2,10 +2,12 @@ require 'open-uri'
 require 'nokogiri'
 require 'json'
 
-url = "https://icehogs.com/standings"
+# ✅ Source: Griffins Hockey site
+url = "https://griffinshockey.com/standings"
 html = URI.open(url, "User-Agent" => "Mozilla/5.0").read
 doc = Nokogiri::HTML(html)
 
+# ✅ Normalize and split lines
 lines = doc.text.gsub("\u00a0", " ").gsub("\t", " ").split("\n").map(&:strip).reject(&:empty?)
 timestamp = Time.now.strftime("%Y-%m-%d %H:%M:%S")
 File.write("raw.html", html)
@@ -27,17 +29,13 @@ lines.each_with_index do |line, i|
   end
 
   next unless in_pacific
+  next if line.include?("GP") && line.include?("PTS") # skip header
 
   debug_log << "📄 Line #{i}: #{line.inspect}"
   debug_log << "→ Contains digits? #{line.match?(/\d/)}"
   debug_log << "→ Length: #{line.length}"
 
-  if line.include?("GP") && line.include?("PTS")
-    debug_log << "🛑 Skipped header line"
-    next
-  end
-
-  tokens = line.gsub("\u00a0", " ").gsub("\t", " ").split(/\s+/)
+  tokens = line.split(/\s+/)
   debug_log << "→ Token count: #{tokens.size}"
 
   if tokens.size >= 8
