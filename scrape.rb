@@ -7,7 +7,8 @@ html = URI.open(url, "User-Agent" => "Mozilla/5.0").read
 doc = Nokogiri::HTML(html)
 
 lines = doc.text.gsub("\u00a0", " ").split("\n").map(&:strip).reject(&:empty?)
-File.write("debug.txt", lines.join("\n"))
+timestamp = Time.now.strftime("%Y-%m-%d %H:%M:%S")
+File.write("debug.txt", "Scraped at #{timestamp}\n\n" + lines.join("\n"))
 
 divisions = []
 current_division = nil
