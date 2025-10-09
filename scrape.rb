@@ -6,7 +6,6 @@ url = "https://ontarioreign.com/standings"
 html = URI.open(url, "User-Agent" => "Mozilla/5.0").read
 doc = Nokogiri::HTML(html)
 
-# Extract all visible text
 text = doc.text.gsub("\u00a0", " ")  # replace non-breaking spaces
 File.write("debug.txt", text || "⚠️ No text extracted")
 
@@ -14,7 +13,7 @@ File.write("debug.txt", text || "⚠️ No text extracted")
 blocks = text.scan(/(Pacific|Atlantic|North|Central) Division\s+GP GR W L OTL SOL PTS PCT RW ROW GF GA STK P10 PIM\s+(.*?)(?=(?:Pacific|Atlantic|North|Central) Division|$)/m)
 
 standings = blocks.map do |division, block|
-  teams = block.scan(/^([A-Za-z\/\s\-]+?)\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+-\d+-\d+-\d+\s+\d+/)
+  teams = block.scan(/^(.+?)\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+-\d+-\d+-\d+\s+\d+/)
   {
     division: division,
     teams: teams.map { |name| { team: name.strip } }
