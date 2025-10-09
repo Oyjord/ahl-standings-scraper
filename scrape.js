@@ -6,28 +6,38 @@ const fs = require('fs');
   const page = await browser.newPage();
   await page.goto('https://theahl.com/stats/standings', { waitUntil: 'domcontentloaded' });
 
-  // ✅ Wait for the table to appear
+  // ✅ Save raw HTML for inspection
+  const html = await page.content();
+  fs.writeFileSync('raw.html', html);
+  console.log(`✅ Saved raw.html with ${html.length} characters`);
+
+  const debug = [];
+
+  // ✅ Try to wait for any table to appear
   try {
-    await page.waitForSelector('table.standings-table tbody tr', { timeout: 10000 });
+    await page.waitForSelector('table', { timeout: 15000 });
+    debug.push("✅ Table element found");
   } catch (err) {
-    fs.writeFileSync('debug.txt', `❌ Table not found: ${err.message}`);
+    debug.push(`❌ Table not found: ${err.message}`);
+    fs.writeFileSync('debug.txt', debug.join('\n'));
     console.log("❌ Table not found");
     await browser.close();
     return;
   }
 
-  // ✅ Extract all rows
-  const rows = await page.$$eval('table.standings-table tbody tr', trs =>
+  // ✅ Extract all rows from any table
+  const rows = await page.$$eval('table tbody tr', trs =>
     trs.map(tr => Array.from(tr.querySelectorAll('td')).map(td => td.textContent.trim()))
   );
 
-  // ✅ Log row count and first few rows
-  let debug = [`✅ Total rows scraped: ${rows.length}`];
-  rows.slice(0, 5).forEach((row, i) => {
+  debug.push(`✅ Found ${rows.length} table rows`);
+
+  // ✅ Log first 10 rows for inspection
+  rows.slice(0, 10).forEach((row, i) => {
     debug.push(`Row ${i}: ${JSON.stringify(row)}`);
   });
 
-  // ✅ Filter Pacific Division
+  // ✅ Filter Pacific Division rows
   const pacific = rows
     .filter(row => row[1] === 'Pacific')
     .map(row => ({
