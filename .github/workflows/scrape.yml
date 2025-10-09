@@ -18,10 +18,10 @@ jobs:
         run: gem install ferrum nokogiri
       - name: Run scraper
         run: ruby scrape.rb
-      - name: Commit results
-        run: |
+     - name: Commit results
+       run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add standings.json
+          git add standings.json debug.html
           git commit -m "Update standings"
           git push
