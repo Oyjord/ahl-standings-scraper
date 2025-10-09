@@ -3,7 +3,7 @@
   "teams": [
     {
       "team": "Hartford Wolf Pack",
-      "division": "Atlantic",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -14,7 +14,7 @@
     },
     {
       "team": "Springfield Thunderbirds",
-      "division": "North",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -25,7 +25,7 @@
     },
     {
       "team": "Charlotte Checkers",
-      "division": "Central",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -36,7 +36,7 @@
     },
     {
       "team": "Hershey Bears",
-      "division": "Pacific",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -47,7 +47,7 @@
     },
     {
       "team": "Bridgeport Islanders",
-      "division": "?",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -58,7 +58,7 @@
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
-      "division": "?",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -69,7 +69,7 @@
     },
     {
       "team": "Lehigh Valley Phantoms",
-      "division": "?",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -80,7 +80,7 @@
     },
     {
       "team": "Providence Bruins",
-      "division": "?",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -91,7 +91,7 @@
     },
     {
       "team": "Laval Rocket",
-      "division": "Atlantic",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -102,7 +102,7 @@
     },
     {
       "team": "Belleville Senators",
-      "division": "North",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -113,7 +113,7 @@
     },
     {
       "team": "Utica Comets",
-      "division": "Central",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -124,7 +124,7 @@
     },
     {
       "team": "Cleveland Monsters",
-      "division": "Pacific",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -135,7 +135,7 @@
     },
     {
       "team": "Toronto Marlies",
-      "division": "?",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -146,7 +146,7 @@
     },
     {
       "team": "Syracuse Crunch",
-      "division": "?",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -157,7 +157,7 @@
     },
     {
       "team": "Rochester Americans",
-      "division": "?",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -168,7 +168,7 @@
     },
     {
       "team": "Milwaukee Admirals",
-      "division": "Atlantic",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -179,7 +179,7 @@
     },
     {
       "team": "Iowa Wild",
-      "division": "North",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -190,7 +190,7 @@
     },
     {
       "team": "Texas Stars",
-      "division": "Central",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -201,7 +201,7 @@
     },
     {
       "team": "Rockford IceHogs",
-      "division": "Pacific",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -212,7 +212,7 @@
     },
     {
       "team": "Chicago Wolves",
-      "division": "?",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -223,7 +223,7 @@
     },
     {
       "team": "Grand Rapids Griffins",
-      "division": "?",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -234,7 +234,7 @@
     },
     {
       "team": "Manitoba Moose",
-      "division": "?",
+      "division": "Other",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -245,7 +245,7 @@
     },
     {
       "team": "Coachella Valley Firebirds",
-      "division": "Atlantic",
+      "division": "Pacific",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -256,7 +256,7 @@
     },
     {
       "team": "Calgary Wranglers",
-      "division": "North",
+      "division": "Pacific",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -267,7 +267,7 @@
     },
     {
       "team": "Abbotsford Canucks",
-      "division": "Central",
+      "division": "Pacific",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -289,7 +289,7 @@
     },
     {
       "team": "Colorado Eagles",
-      "division": "?",
+      "division": "Pacific",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -300,7 +300,7 @@
     },
     {
       "team": "Tucson Roadrunners",
-      "division": "?",
+      "division": "Pacific",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -311,7 +311,7 @@
     },
     {
       "team": "San Jose Barracuda",
-      "division": "?",
+      "division": "Pacific",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -322,7 +322,7 @@
     },
     {
       "team": "San Diego Gulls",
-      "division": "?",
+      "division": "Pacific",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -333,7 +333,7 @@
     },
     {
       "team": "Ontario Reign",
-      "division": "?",
+      "division": "Pacific",
       "gp": 0,
       "gr": 72,
       "w": 0,
@@ -344,7 +344,7 @@
     },
     {
       "team": "Bakersfield Condors",
-      "division": "?",
+      "division": "Pacific",
       "gp": 0,
       "gr": 72,
       "w": 0,
