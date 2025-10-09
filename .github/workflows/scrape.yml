@@ -29,5 +29,5 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add standings.json debug.txt
-          git diff --cached --quiet || git commit -m "Update Ontario Reign standings"
+          git commit -m "Update Ontario Reign standings at $(date)" || echo "No changes to commit"
           git push
