@@ -1,3 +1,5 @@
+Scraped at 2025-10-09 21:00:27
+
 function OptanonWrapper() {}
 Ontario Reign | Standings
 window.dataLayer = window.dataLayer || [];
