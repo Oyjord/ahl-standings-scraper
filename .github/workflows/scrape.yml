@@ -1,8 +1,8 @@
-name: Scrape AHL Standings
+name: Scrape Ontario Reign Standings
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 * * * *'  # every hour
   workflow_dispatch:
 
 jobs:
@@ -13,28 +13,21 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser libnss3 libgconf-2-4 libxi6 libxcursor1 libxss1 libxcomposite1 libasound2 libxtst6 libatk1.0-0 libgtk-3-0
-
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
 
-      - name: Install Bundler and dependencies
-        run: |
-          gem install bundler
-          bundle install
+      - name: Install Nokogiri
+        run: gem install nokogiri
 
       - name: Run scraper
-        run: bundle exec ruby scrape.rb
+        run: ruby scrape.rb
 
       - name: Commit results
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add standings.json debug.html
-          git diff --cached --quiet || git commit -m "Update AHL standings"
+          git add standings.json debug.json
+          git diff --cached --quiet || git commit -m "Update Ontario Reign standings"
           git push
