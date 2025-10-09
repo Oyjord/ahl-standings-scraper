@@ -6,10 +6,8 @@ url = "https://ontarioreign.com/standings"
 html = URI.open(url, "User-Agent" => "Mozilla/5.0").read
 doc = Nokogiri::HTML(html)
 
-# Dump raw HTML for inspection
 File.write("raw.html", html)
 
-# Normalize and split lines
 lines = doc.text.gsub("\u00a0", " ").split("\n").map(&:strip)
 timestamp = Time.now.strftime("%Y-%m-%d %H:%M:%S")
 
@@ -43,7 +41,7 @@ lines.each_with_index do |line, i|
     next
   end
 
-  tokens = line.split("\t")
+  tokens = line.split(/\s+/)
   debug_log << "→ Token count: #{tokens.size}"
 
   if tokens.size >= 8
