@@ -27,7 +27,7 @@ lines.each do |line|
 
   next unless in_pacific
 
-  debug_log << "Line: #{line.inspect}"
+  debug_log << "📄 Raw line: #{line.inspect}"
 
   if line.include?("GP") && line.include?("PTS")
     debug_log << "🛑 Skipped header line"
