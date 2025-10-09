@@ -11,13 +11,18 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
 
-      - name: Install dependencies
-        run: gem install ferrum nokogiri
+      - name: Install Ruby gems
+        run: gem install capybara selenium-webdriver nokogiri json
 
       - name: Run scraper
         run: ruby scrape.rb
