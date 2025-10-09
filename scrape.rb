@@ -41,7 +41,7 @@ lines.each_with_index do |line, i|
     next
   end
 
-  tokens = line.split(/\s+/)
+  tokens = line.gsub("\u00a0", " ").gsub("\t", " ").split(/\s+/)
   debug_log << "→ Token count: #{tokens.size}"
 
   if tokens.size >= 8
