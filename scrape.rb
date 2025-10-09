@@ -1,42 +1,26 @@
-require "bundler/setup"
-require "capybara"
-require "capybara/dsl"
-require "nokogiri"
-require "json"
+require 'nokogiri'
+require 'open-uri'
+require 'json'
 
-Capybara.default_driver = :selenium_chrome_headless
-Capybara.default_max_wait_time = 15
+url = "https://ontarioreign.com/standings"
+html = URI.open(url, "User-Agent" => "Mozilla/5.0").read
+doc = Nokogiri::HTML(html)
 
-class Scraper
-  include Capybara::DSL
+# Extract semantic content block
+raw = doc.at('script[type="application/ld+json"]')&.text
+File.write("debug.json", raw) if raw
 
-  def run
-    visit("https://www.flashscore.com/hockey/usa/ahl/standings/#/hUM5YvA6/standings/overall/")
-    page.has_css?("div.table__row")  # wait for standings to load
+# Fallback: parse visible text
+text = doc.text
+divisions = text.scan(/(Pacific|Atlantic|North|Central) Division\s+GP GR W L OTL SOL PTS PCT RW ROW GF GA STK P10 PIM\s+(.*?)\s+(?=(?:Pacific|Atlantic|North|Central) Division|$)/m)
 
-    html = page.html
-    File.write("debug.html", html)
-
-    doc = Nokogiri::HTML(html)
-    rows = doc.css("div.table__row")
-    puts "📊 Found #{rows.size} rows"
-
-    teams = rows.map do |row|
-      cols = row.css("div.table__cell").map(&:text).map(&:strip)
-      next unless cols.size >= 8
-      {
-        team: cols[1],
-        gp: cols[2].to_i,
-        w: cols[3].to_i,
-        l: cols[4].to_i,
-        ot: cols[5].to_i,
-        pts: cols[7].to_i
-      }
-    end.compact
-
-    File.write("standings.json", JSON.pretty_generate(teams))
-    puts "✅ Parsed #{teams.size} teams"
-  end
+standings = divisions.map do |division, block|
+  teams = block.scan(/([A-Za-z\/\s\-]+)\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+/)
+  {
+    division: division,
+    teams: teams.map { |name| { team: name.strip } }
+  }
 end
 
-Scraper.new.run
+File.write("standings.json", JSON.pretty_generate(standings))
+puts "✅ Parsed #{standings.sum { |d| d[:teams].size }} teams"
