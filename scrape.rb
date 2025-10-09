@@ -1,7 +1,8 @@
-require 'capybara'
-require 'capybara/dsl'
-require 'nokogiri'
-require 'json'
+require "bundler/setup"
+require "capybara"
+require "capybara/dsl"
+require "nokogiri"
+require "json"
 
 Capybara.default_driver = :selenium_chrome_headless
 Capybara.default_max_wait_time = 15
@@ -11,10 +12,15 @@ class Scraper
 
   def run
     visit("https://theahl.com/stats/standings")
-    page.has_css?("table.standings-table")  # waits up to 15s
+    unless page.has_css?("table.standings-table")
+      puts "❌ Table not found"
+      File.write("debug.html", page.html)
+      return
+    end
 
     html = page.html
     File.write("debug.html", html)
+    puts "📄 Saved debug.html for inspection"
 
     doc = Nokogiri::HTML(html)
     rows = doc.css("table.standings-table tbody tr")
