@@ -6,10 +6,9 @@ url = "https://ontarioreign.com/standings"
 html = URI.open(url, "User-Agent" => "Mozilla/5.0").read
 doc = Nokogiri::HTML(html)
 
-File.write("raw.html", html)
-
-lines = doc.text.gsub("\u00a0", " ").split("\n").map(&:strip)
+lines = doc.text.gsub("\u00a0", " ").split("\n").map(&:strip).reject(&:empty?)
 timestamp = Time.now.strftime("%Y-%m-%d %H:%M:%S")
+File.write("raw.html", html)
 
 debug_log = ["Scraped at #{timestamp}", "📊 Total lines scraped: #{lines.size}", ""]
 pacific = []
@@ -32,7 +31,6 @@ lines.each_with_index do |line, i|
   next unless in_pacific
 
   debug_log << "📄 [Pacific] Line #{i}: #{line.inspect}"
-  debug_log << "→ Contains tab? #{line.include?("\t")}"
   debug_log << "→ Contains digits? #{line.match?(/\d/)}"
   debug_log << "→ Length: #{line.length}"
 
