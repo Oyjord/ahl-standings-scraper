@@ -10,16 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
+
       - name: Install dependencies
         run: gem install ferrum nokogiri
+
       - name: Run scraper
         run: ruby scrape.rb
-    - name: Commit results
-      run: |
+
+      - name: Commit results
+        run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add standings.json debug.html
