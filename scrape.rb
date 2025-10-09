@@ -4,11 +4,17 @@ require 'json'
 
 browser = Ferrum::Browser.new
 browser.goto("https://theahl.com/stats/standings")
-browser.network.wait_for_idle
-sleep 5  # crude wait for JS to render
+
+# Wait up to 15 seconds for the table to appear
+unless browser.at_css("table.standings-table", wait: 15)
+  puts "❌ Table not found after waiting"
+  File.write("debug.html", browser.body)
+  browser.quit
+  exit
+end
 
 html = browser.body
-File.write("debug.html", html)  # fallback for inspection
+File.write("debug.html", html)
 puts "📄 Saved debug.html for inspection"
 
 doc = Nokogiri::HTML(html)
@@ -21,7 +27,6 @@ rows.each_with_index do |row, i|
   cols = row.css("td").map(&:text).map(&:strip)
   puts "🔍 Row #{i}: #{cols.inspect}"
 
-  # Loosen guard: only skip if critical columns are missing
   next unless cols[0] && cols[1] && cols[2] && cols[3] && cols[4] && cols[5]
 
   teams << {
