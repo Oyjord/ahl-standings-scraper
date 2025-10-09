@@ -1,17 +1,20 @@
 require 'open-uri'
+require 'nokogiri'
 require 'json'
 
 url = "https://ontarioreign.com/standings"
 html = URI.open(url, "User-Agent" => "Mozilla/5.0").read
+doc = Nokogiri::HTML(html)
+text = doc.text.gsub("\u00a0", " ")  # replace non-breaking spaces
 
-# Extract semantic block
-raw = html[/Ontario Reign \| Standings Standings(.*?)The official website/m, 1]
-File.write("debug.txt", raw) if raw
+# Save full text for inspection
+File.write("debug.txt", text)
 
-divisions = raw.scan(/(Pacific|Atlantic|North|Central) Division\s+GP GR W L OTL SOL PTS PCT RW ROW GF GA STK P10 PIM\s+(.*?)(?=(?:Pacific|Atlantic|North|Central) Division|$)/m)
+# Match each division block
+blocks = text.scan(/(Pacific|Atlantic|North|Central) Division\s+GP GR W L OTL SOL PTS PCT RW ROW GF GA STK P10 PIM\s+(.*?)(?=(?:Pacific|Atlantic|North|Central) Division|$)/m)
 
-standings = divisions.map do |division, block|
-  teams = block.scan(/([A-Za-z\/\s\-]+?)\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+-\d+-\d+-\d+\s+\d+/)
+standings = blocks.map do |division, block|
+  teams = block.scan(/^([A-Za-z\/\s\-]+?)\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+-\d+-\d+-\d+\s+\d+/)
   {
     division: division,
     teams: teams.map { |name| { team: name.strip } }
