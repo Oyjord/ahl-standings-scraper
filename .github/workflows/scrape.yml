@@ -22,7 +22,9 @@ jobs:
           ruby-version: '3.2'
 
       - name: Install Ruby gems
-        run: gem install capybara selenium-webdriver nokogiri json
+        run: |
+          gem install bundler
+          bundle install
 
       - name: Run scraper
         run: ruby scrape.rb
