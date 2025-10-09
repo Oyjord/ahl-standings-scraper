@@ -17,8 +17,6 @@ parsed = 0
 skipped = 0
 
 lines.each_with_index do |line, i|
-  debug_log << "Line #{i}: #{line.inspect}"
-
   if line == "Pacific Division"
     in_pacific = true
     debug_log << "🔍 Entered Pacific Division block at line #{i}"
@@ -29,17 +27,11 @@ lines.each_with_index do |line, i|
   end
 
   next unless in_pacific
+  next if line.include?("GP") && line.include?("PTS") # skip header
 
-  debug_log << "📄 [Pacific] Line #{i}: #{line.inspect}"
-  debug_log << "→ Contains digits? #{line.match?(/\d/)}"
-  debug_log << "→ Length: #{line.length}"
+  debug_log << "📄 Line #{i}: #{line.inspect}"
 
-  if line.include?("GP") && line.include?("PTS")
-    debug_log << "🛑 Skipped header line"
-    next
-  end
-
-  tokens = line.gsub("\u00a0", " ").gsub("\t", " ").split(/\s+/)
+  tokens = line.split(/\s+/)
   debug_log << "→ Token count: #{tokens.size}"
 
   if tokens.size >= 8
