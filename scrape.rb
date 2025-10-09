@@ -6,8 +6,15 @@ browser = Ferrum::Browser.new
 browser.goto("https://theahl.com/stats/standings")
 
 # Wait up to 15 seconds for the table to appear
-unless browser.at_css("table.standings-table", wait: 15)
-  puts "❌ Table not found after waiting"
+max_wait = 15
+start_time = Time.now
+
+until browser.at_css("table.standings-table") || Time.now - start_time > max_wait
+  sleep 1
+end
+
+unless browser.at_css("table.standings-table")
+  puts "❌ Table not found after #{max_wait} seconds"
   File.write("debug.html", browser.body)
   browser.quit
   exit
