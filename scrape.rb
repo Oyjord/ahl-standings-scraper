@@ -1,51 +1,41 @@
-require 'ferrum'
+require 'capybara'
+require 'capybara/dsl'
 require 'nokogiri'
 require 'json'
 
-browser = Ferrum::Browser.new
-browser.goto("https://theahl.com/stats/standings")
+Capybara.default_driver = :selenium_chrome_headless
+Capybara.default_max_wait_time = 15
 
-# Wait up to 15 seconds for the table to appear
-max_wait = 15
-start_time = Time.now
+class Scraper
+  include Capybara::DSL
 
-until browser.at_css("table.standings-table") || Time.now - start_time > max_wait
-  sleep 1
+  def run
+    visit("https://theahl.com/stats/standings")
+    page.has_css?("table.standings-table")  # waits up to 15s
+
+    html = page.html
+    File.write("debug.html", html)
+
+    doc = Nokogiri::HTML(html)
+    rows = doc.css("table.standings-table tbody tr")
+    puts "📊 Found #{rows.size} rows"
+
+    teams = rows.map do |row|
+      cols = row.css("td").map(&:text).map(&:strip)
+      next unless cols.size >= 6
+      {
+        team: cols[0],
+        gp: cols[1].to_i,
+        w: cols[2].to_i,
+        l: cols[3].to_i,
+        ot: cols[4].to_i,
+        pts: cols[5].to_i
+      }
+    end.compact
+
+    File.write("standings.json", JSON.pretty_generate(teams))
+    puts "✅ Parsed #{teams.size} teams"
+  end
 end
 
-unless browser.at_css("table.standings-table")
-  puts "❌ Table not found after #{max_wait} seconds"
-  File.write("debug.html", browser.body)
-  browser.quit
-  exit
-end
-
-html = browser.body
-File.write("debug.html", html)
-puts "📄 Saved debug.html for inspection"
-
-doc = Nokogiri::HTML(html)
-rows = doc.css("table.standings-table tbody tr")
-puts "📊 Found #{rows.size} rows in standings table"
-
-teams = []
-
-rows.each_with_index do |row, i|
-  cols = row.css("td").map(&:text).map(&:strip)
-  puts "🔍 Row #{i}: #{cols.inspect}"
-
-  next unless cols[0] && cols[1] && cols[2] && cols[3] && cols[4] && cols[5]
-
-  teams << {
-    team: cols[0],
-    gp: cols[1].to_i,
-    w: cols[2].to_i,
-    l: cols[3].to_i,
-    ot: cols[4].to_i,
-    pts: cols[5].to_i
-  }
-end
-
-puts "✅ Parsed #{teams.size} teams"
-File.write("standings.json", JSON.pretty_generate(teams))
-browser.quit
+Scraper.new.run
