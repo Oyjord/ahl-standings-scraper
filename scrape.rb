@@ -6,28 +6,34 @@ url = "https://ontarioreign.com/standings"
 html = URI.open(url, "User-Agent" => "Mozilla/5.0").read
 doc = Nokogiri::HTML(html)
 
-lines = doc.text.gsub("\u00a0", " ").split("\n").map(&:strip).reject(&:empty?)
+# Dump raw HTML for inspection
+File.write("raw.html", html)
+
+# Normalize and split lines
+lines = doc.text.gsub("\u00a0", " ").split("\n").map(&:strip)
 timestamp = Time.now.strftime("%Y-%m-%d %H:%M:%S")
 
-debug_log = ["Scraped at #{timestamp}", ""]
+debug_log = ["Scraped at #{timestamp}", "📊 Total lines scraped: #{lines.size}", ""]
 pacific = []
 in_pacific = false
 parsed = 0
 skipped = 0
 
-lines.each do |line|
+lines.each_with_index do |line, i|
+  debug_log << "Line #{i}: #{line.inspect}"
+
   if line == "Pacific Division"
     in_pacific = true
-    debug_log << "🔍 Entered Pacific Division block"
+    debug_log << "🔍 Entered Pacific Division block at line #{i}"
     next
   elsif line =~ /Division$/ && line != "Pacific Division"
     in_pacific = false
-    debug_log << "🚪 Exited Pacific Division block"
+    debug_log << "🚪 Exited Pacific Division block at line #{i}"
   end
 
   next unless in_pacific
 
-  debug_log << "📄 Raw line: #{line.inspect}"
+  debug_log << "📄 [Pacific] Line #{i}: #{line.inspect}"
   debug_log << "→ Contains tab? #{line.include?("\t")}"
   debug_log << "→ Contains digits? #{line.match?(/\d/)}"
   debug_log << "→ Length: #{line.length}"
