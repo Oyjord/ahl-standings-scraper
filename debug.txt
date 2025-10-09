@@ -1,4 +1,4 @@
-Scraped at 2025-10-09 21:43:54
+Scraped at 2025-10-09 21:45:46
 
 function OptanonWrapper() {}
 Ontario Reign | Standings
