@@ -11,20 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install Chrome
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser
-
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
 
       - name: Install Ruby gems
-        run: |
-          gem install bundler
-          bundle install
+        run: gem install nokogiri
 
       - name: Run scraper
         run: ruby scrape.rb
@@ -34,5 +27,5 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add standings.json debug.html
-          git diff --cached --quiet || git commit -m "Update standings"
+          git diff --cached --quiet || git commit -m "Update AHL standings"
           git push
