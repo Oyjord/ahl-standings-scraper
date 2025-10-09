@@ -31,29 +31,35 @@ const fs = require('fs');
   );
 
   debug.push(`✅ Found ${rows.length} table rows`);
-
-  // ✅ Log first 10 rows for inspection
   rows.slice(0, 10).forEach((row, i) => {
     debug.push(`Row ${i}: ${JSON.stringify(row)}`);
   });
 
-  // ✅ Parse all teams with division tagging
+  // ✅ Division ID to name mapping
+  const divisionMap = {
+    "1": "Atlantic",
+    "2": "North",
+    "3": "Central",
+    "4": "Pacific"
+  };
+
+  // ✅ Parse all teams with correct indexes
   const teams = rows
     .map(row => {
-      if (row.length < 19) return null; // skip malformed rows
+      if (row.length < 19) return null;
       return {
-        team: row[4],
-        division: row[1],
-        gp: parseInt(row[5]),
-        gr: parseInt(row[6]),
-        w: parseInt(row[7]),
-        l: parseInt(row[8]),
-        otl: parseInt(row[9]),
-        sol: parseInt(row[10]),
+        team: row[3],                          // Full team name
+        division: divisionMap[row[1]] || "?", // Division name from ID
+        gp: parseInt(row[4]),
+        gr: parseInt(row[5]),
+        w: parseInt(row[6]),
+        l: parseInt(row[7]),
+        otl: parseInt(row[8]),
+        sol: parseInt(row[9]),
         pts: parseInt(row[18])
       };
     })
-    .filter(team => team && team.team); // skip nulls and blanks
+    .filter(team => team && team.team);
 
   debug.push(`✅ Parsed ${teams.length} teams across all divisions`);
   fs.writeFileSync('debug.txt', debug.join('\n'));
