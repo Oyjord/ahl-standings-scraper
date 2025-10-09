@@ -2,25 +2,34 @@ name: Scrape AHL Standings
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
+    - cron: '0 * * * *'  # Runs every hour
   workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser libnss3 libgconf-2-4 libxi6 libxcursor1 libxss1 libxcomposite1 libasound2 libxtst6 libatk1.0-0 libgtk-3-0
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
 
-      - name: Install Ruby gems
-        run: gem install nokogiri
+      - name: Install Bundler and dependencies
+        run: |
+          gem install bundler
+          bundle install
 
       - name: Run scraper
-        run: ruby scrape.rb
+        run: bundle exec ruby scrape.rb
 
       - name: Commit results
         run: |
