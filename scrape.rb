@@ -24,10 +24,10 @@ lines.each do |line|
   next unless in_pacific
 
   tokens = line.split(/\s+/)
-  next unless tokens.size >= 20  # team name + 19 stats
+  next unless tokens.size >= 21  # team name + 20 stats
 
-  stats = tokens.last(19)
-  name = tokens[0..(tokens.size - 20)].join(" ")
+  stats = tokens.last(20)
+  name = tokens[0..(tokens.size - 21)].join(" ")
   pacific << {
     team: name,
     gp: stats[0].to_i,
