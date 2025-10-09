@@ -7,14 +7,29 @@ const fs = require('fs');
   await page.goto('https://theahl.com/stats/standings', { waitUntil: 'domcontentloaded' });
 
   // ✅ Wait for the table to appear
-  await page.waitForSelector('table.standings-table tbody tr', { timeout: 10000 });
+  try {
+    await page.waitForSelector('table.standings-table tbody tr', { timeout: 10000 });
+  } catch (err) {
+    fs.writeFileSync('debug.txt', `❌ Table not found: ${err.message}`);
+    console.log("❌ Table not found");
+    await browser.close();
+    return;
+  }
 
+  // ✅ Extract all rows
   const rows = await page.$$eval('table.standings-table tbody tr', trs =>
     trs.map(tr => Array.from(tr.querySelectorAll('td')).map(td => td.textContent.trim()))
   );
 
+  // ✅ Log row count and first few rows
+  let debug = [`✅ Total rows scraped: ${rows.length}`];
+  rows.slice(0, 5).forEach((row, i) => {
+    debug.push(`Row ${i}: ${JSON.stringify(row)}`);
+  });
+
+  // ✅ Filter Pacific Division
   const pacific = rows
-    .filter(row => row[1] === 'Pacific') // Division column
+    .filter(row => row[1] === 'Pacific')
     .map(row => ({
       team: row[0],
       gp: parseInt(row[2]),
@@ -26,8 +41,9 @@ const fs = require('fs');
       pts: parseInt(row[8])
     }));
 
+  debug.push(`✅ Pacific teams found: ${pacific.length}`);
+  fs.writeFileSync('debug.txt', debug.join('\n'));
   fs.writeFileSync('standings.json', JSON.stringify({ division: 'Pacific Division', teams: pacific }, null, 2));
-  fs.writeFileSync('debug.txt', `✅ Total rows scraped: ${rows.length}\n✅ Pacific teams: ${pacific.length}`);
   console.log(`✅ Parsed ${pacific.length} Pacific Division teams`);
 
   await browser.close();
