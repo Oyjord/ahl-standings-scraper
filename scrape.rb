@@ -28,6 +28,9 @@ lines.each do |line|
   next unless in_pacific
 
   debug_log << "📄 Raw line: #{line.inspect}"
+  debug_log << "→ Contains tab? #{line.include?("\t")}"
+  debug_log << "→ Contains digits? #{line.match?(/\d/)}"
+  debug_log << "→ Length: #{line.length}"
 
   if line.include?("GP") && line.include?("PTS")
     debug_log << "🛑 Skipped header line"
