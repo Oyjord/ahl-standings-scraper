@@ -7,7 +7,7 @@ html = URI.open(url, "User-Agent" => "Mozilla/5.0").read
 doc = Nokogiri::HTML(html)
 
 # Normalize tabs and non-breaking spaces
-lines = doc.text.gsub("\u00a0", " ").gsub("\t", "\t").split("\n").map(&:strip).reject(&:empty?)
+lines = doc.text.gsub("\u00a0", " ").split("\n").map(&:strip).reject(&:empty?)
 timestamp = Time.now.strftime("%Y-%m-%d %H:%M:%S")
 File.write("debug.txt", "Scraped at #{timestamp}\n\n" + lines.join("\n"))
 
