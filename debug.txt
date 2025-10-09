@@ -1,3 +1,13 @@
-❌ Table not found: page.waitForSelector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator('table.standings-table tbody tr') to be visible
+✅ Table element found
+✅ Found 36 table rows
+Row 0: []
+Row 1: ["17","1","HFD","Hartford Wolf Pack","0","72","0","0","0","0","0","0.000","","0","0","0","","0-0-0-0","0"]
+Row 2: ["26","2","SPR","Springfield Thunderbirds","0","72","0","0","0","0","0","0.000","","0","0","0","","0-0-0-0","0"]
+Row 3: ["27","3","CLT","Charlotte Checkers","0","72","0","0","0","0","0","0.000","","0","0","0","","0-0-0-0","0"]
+Row 4: ["28","4","HER","Hershey Bears","0","72","0","0","0","0","0","0.000","","0","0","0","","0-0-0-0","0"]
+Row 5: ["29","5","BRI","Bridgeport Islanders","0","72","0","0","0","0","0","0.000","","0","0","0","","0-0-0-0","0"]
+Row 6: ["30","6","WBS","Wilkes-Barre/Scranton Penguins","0","72","0","0","0","0","0","0.000","","0","0","0","","0-0-0-0","0"]
+Row 7: ["31","7","LV","Lehigh Valley Phantoms","0","72","0","0","0","0","0","0.000","","0","0","0","","0-0-0-0","0"]
+Row 8: ["32","8","PRO","Providence Bruins","0","72","0","0","0","0","0","0.000","","0","0","0","","0-0-0-0","0"]
+Row 9: []
+✅ Pacific teams found: 0
