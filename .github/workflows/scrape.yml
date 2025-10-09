@@ -1,33 +1,35 @@
-name: Scrape Ontario Reign Standings
+name: Scrape AHL Standings
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 * * * *'  # every hour
-  workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          ruby-version: '3.2'
+          node-version: '20'
 
-      - name: Install Nokogiri
-        run: gem install nokogiri
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright browsers
+        run: npx playwright install
 
       - name: Run scraper
-        run: ruby scrape.rb
+        run: npm run scrape
 
-      - name: Commit results
+      - name: Commit updated standings
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add standings.json debug.txt
-          git commit -m "Update Ontario Reign standings at $(date)" || echo "No changes to commit"
+          git commit -m "Update standings"
           git push
