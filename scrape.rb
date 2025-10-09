@@ -22,12 +22,13 @@ lines.each do |line|
   end
 
   next unless in_pacific
+  next if line.start_with?("GP GR W L OTL SOL") # skip header
 
   tokens = line.split(/\s+/)
-  next unless tokens.size >= 21  # team name + 20 stats
+  next unless tokens.size >= 8  # team name + 7 stats
 
-  stats = tokens.last(20)
-  name = tokens[0..(tokens.size - 21)].join(" ")
+  stats = tokens.last(7)
+  name = tokens[0..(tokens.size - 8)].join(" ")
   pacific << {
     team: name,
     gp: stats[0].to_i,
@@ -36,19 +37,7 @@ lines.each do |line|
     l: stats[3].to_i,
     otl: stats[4].to_i,
     sol: stats[5].to_i,
-    pts: stats[6].to_i,
-    pct: stats[7].to_f,
-    rw: stats[8].to_i,
-    row: stats[9].to_i,
-    gf: stats[10].to_i,
-    ga: stats[11].to_i,
-    diff: stats[12].to_i,
-    home: stats[13],
-    away: stats[14],
-    stk: stats[15],
-    p10: stats[16],
-    pim: stats[17].to_i,
-    rank: stats[18].to_i
+    pts: stats[6].to_i
   }
 end
 
