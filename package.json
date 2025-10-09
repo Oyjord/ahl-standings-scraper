@@ -1,0 +1,11 @@
+{
+  "name": "ahl-standings-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes Pacific Division AHL standings using Playwright",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.43.0"
+  }
+}
