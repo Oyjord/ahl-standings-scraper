@@ -1,35 +1,42 @@
-require 'nokogiri'
-require 'open-uri'
-require 'json'
+require "bundler/setup"
+require "capybara"
+require "capybara/dsl"
+require "nokogiri"
+require "json"
 
-url = "https://www.flashscore.com/hockey/usa/ahl/standings/#/hUM5YvA6/standings/overall/"
-html = URI.open(url, "User-Agent" => "Mozilla/5.0").read
-File.write("debug.html", html)
-puts "📄 Saved debug.html for inspection"
+Capybara.default_driver = :selenium_chrome_headless
+Capybara.default_max_wait_time = 15
 
-doc = Nokogiri::HTML(html)
+class Scraper
+  include Capybara::DSL
 
-# Flashscore uses dynamic class names, so we target by structure
-rows = doc.css("div.table__row--group")
-puts "📊 Found #{rows.size} rows"
+  def run
+    visit("https://www.flashscore.com/hockey/usa/ahl/standings/#/hUM5YvA6/standings/overall/")
+    page.has_css?("div.table__row")  # wait for standings to load
 
-teams = []
+    html = page.html
+    File.write("debug.html", html)
 
-rows.each_with_index do |row, i|
-  cols = row.css("div.table__cell").map(&:text).map(&:strip)
-  puts "🔍 Row #{i}: #{cols.inspect}"
+    doc = Nokogiri::HTML(html)
+    rows = doc.css("div.table__row")
+    puts "📊 Found #{rows.size} rows"
 
-  next unless cols.size >= 8
+    teams = rows.map do |row|
+      cols = row.css("div.table__cell").map(&:text).map(&:strip)
+      next unless cols.size >= 8
+      {
+        team: cols[1],
+        gp: cols[2].to_i,
+        w: cols[3].to_i,
+        l: cols[4].to_i,
+        ot: cols[5].to_i,
+        pts: cols[7].to_i
+      }
+    end.compact
 
-  teams << {
-    team: cols[1],
-    gp: cols[2].to_i,
-    w: cols[3].to_i,
-    l: cols[4].to_i,
-    ot: cols[5].to_i,
-    pts: cols[7].to_i
-  }
+    File.write("standings.json", JSON.pretty_generate(teams))
+    puts "✅ Parsed #{teams.size} teams"
+  end
 end
 
-puts "✅ Parsed #{teams.size} teams"
-File.write("standings.json", JSON.pretty_generate(teams))
+Scraper.new.run
