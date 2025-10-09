@@ -6,7 +6,7 @@ url = "https://ontarioreign.com/standings"
 html = URI.open(url, "User-Agent" => "Mozilla/5.0").read
 doc = Nokogiri::HTML(html)
 
-lines = doc.text.gsub("\u00a0", " ").split("\n").map(&:strip).reject(&:empty?)
+lines = doc.text.gsub("\u00a0", " ").gsub("\t", " ").split("\n").map(&:strip).reject(&:empty?)
 timestamp = Time.now.strftime("%Y-%m-%d %H:%M:%S")
 File.write("debug.txt", "Scraped at #{timestamp}\n\n" + lines.join("\n"))
 
@@ -22,7 +22,7 @@ lines.each do |line|
   end
 
   next unless in_pacific
-  next if line.include?("GP GR W L OTL SOL") # skip header
+  next if line.include?("GP GR W L OTL SOL PTS") # skip header
 
   tokens = line.split(/\s+/)
   next unless tokens.size >= 8  # team name + 7 stats
