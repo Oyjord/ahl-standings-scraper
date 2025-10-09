@@ -8,12 +8,21 @@ browser.network.wait_for_idle
 sleep 5  # crude wait for JS to render
 
 html = browser.body
+File.write("debug.html", html)  # fallback for inspection
+puts "📄 Saved debug.html for inspection"
+
 doc = Nokogiri::HTML(html)
+rows = doc.css("table.standings-table tbody tr")
+puts "📊 Found #{rows.size} rows in standings table"
 
 teams = []
-doc.css("table.standings-table tbody tr").each do |row|
-  cols = row.css("td").map(&:text)
-  next unless cols.size >= 6
+
+rows.each_with_index do |row, i|
+  cols = row.css("td").map(&:text).map(&:strip)
+  puts "🔍 Row #{i}: #{cols.inspect}"
+
+  # Loosen guard: only skip if critical columns are missing
+  next unless cols[0] && cols[1] && cols[2] && cols[3] && cols[4] && cols[5]
 
   teams << {
     team: cols[0],
@@ -25,5 +34,6 @@ doc.css("table.standings-table tbody tr").each do |row|
   }
 end
 
+puts "✅ Parsed #{teams.size} teams"
 File.write("standings.json", JSON.pretty_generate(teams))
 browser.quit
