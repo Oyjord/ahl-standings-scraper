@@ -15,6 +15,8 @@ raw_pacific = []
 in_pacific = false
 
 lines.each_with_index do |line, i|
+  debug_log << "Line #{i}: #{line.inspect}"
+
   if line == "Pacific Division"
     in_pacific = true
     debug_log << "🔍 Entered Pacific Division block at line #{i}"
@@ -24,11 +26,12 @@ lines.each_with_index do |line, i|
     debug_log << "🚪 Exited Pacific Division block at line #{i}"
   end
 
-  next unless in_pacific
-  next if line.include?("GP") && line.include?("PTS") # skip header
+  debug_log << "→ In Pacific? #{in_pacific}"
 
-  debug_log << "📄 Line #{i}: #{line.inspect}"
-  raw_pacific << line
+  if in_pacific
+    debug_log << "📄 [Pacific] Line #{i}: #{line.inspect}"
+    raw_pacific << line
+  end
 end
 
 debug_log << "✅ Final count: #{raw_pacific.size} raw lines captured"
