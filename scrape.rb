@@ -21,10 +21,10 @@ lines.each do |line|
     teams = []
   else
     tokens = line.split(/\s+/)
-    next unless tokens.size >= 18  # team name + 17 stats
+    next unless tokens.size >= 20  # team name + 19 stats
 
-    stats = tokens.last(17)
-    name = tokens[0..(tokens.size - 18)].join(" ")
+    stats = tokens.last(19)
+    name = tokens[0..(tokens.size - 20)].join(" ")
     teams << {
       team: name,
       gp: stats[0].to_i,
@@ -39,9 +39,13 @@ lines.each do |line|
       row: stats[9].to_i,
       gf: stats[10].to_i,
       ga: stats[11].to_i,
-      stk: stats[12],
-      p10: stats[13].to_i,
-      pim: stats[14].to_i
+      diff: stats[12].to_i,
+      home: stats[13],
+      away: stats[14],
+      stk: stats[15],
+      p10: stats[16],
+      pim: stats[17].to_i,
+      rank: stats[18].to_i
     }
   end
 end
