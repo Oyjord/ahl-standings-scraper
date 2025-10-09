@@ -36,31 +36,48 @@ const fs = require('fs');
   });
 
   // ✅ Division ID to name mapping
-  const divisionMap = {
-    "1": "Atlantic",
-    "2": "North",
-    "3": "Central",
-    "4": "Pacific"
-  };
+ const divisionMap = {
+  "1": "Atlantic",
+  "2": "North",
+  "3": "Central",
+  "4": "Pacific"
+};
 
-  // ✅ Parse all teams with correct indexes
-  const teams = rows
-    .map(row => {
-      if (row.length < 19) return null;
-      return {
-        team: row[3],                          // Full team name
-        division: divisionMap[row[1]] || "?", // Division name from ID
-        gp: parseInt(row[4]),
-        gr: parseInt(row[5]),
-        w: parseInt(row[6]),
-        l: parseInt(row[7]),
-        otl: parseInt(row[8]),
-        sol: parseInt(row[9]),
-        pts: parseInt(row[18])
-      };
-    })
-    .filter(team => team && team.team);
+// ✅ Add this helper function right here
+function getDivision(teamName) {
+  const pacific = [
+    "Ontario Reign",
+    "San Diego Gulls",
+    "Coachella Valley Firebirds",
+    "Bakersfield Condors",
+    "Henderson Silver Knights",
+    "San Jose Barracuda",
+    "Colorado Eagles",
+    "Abbotsford Canucks",
+    "Calgary Wranglers",
+    "Tucson Roadrunners"
+  ];
+  return pacific.includes(teamName) ? "Pacific" : "Other";
+}
 
+// ✅ Then use it inside your parser
+const teams = rows
+  .map(row => {
+    if (row.length < 19) return null;
+    return {
+      team: row[3],
+      division: getDivision(row[3]),  // 👈 Use helper here
+      gp: parseInt(row[4]),
+      gr: parseInt(row[5]),
+      w: parseInt(row[6]),
+      l: parseInt(row[7]),
+      otl: parseInt(row[8]),
+      sol: parseInt(row[9]),
+      pts: parseInt(row[18])
+    };
+  })
+  .filter(team => team && team.team);
+  
   debug.push(`✅ Parsed ${teams.length} teams across all divisions`);
   fs.writeFileSync('debug.txt', debug.join('\n'));
   fs.writeFileSync('standings.json', JSON.stringify({ division: 'All Divisions', teams }, null, 2));
