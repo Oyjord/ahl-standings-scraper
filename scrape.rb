@@ -22,7 +22,7 @@ lines.each do |line|
   end
 
   next unless in_pacific
-  next if line.start_with?("GP GR W L OTL SOL") # skip header
+  next if line.include?("GP GR W L OTL SOL")
 
   tokens = line.split(/\s+/)
   next unless tokens.size >= 8  # team name + 7 stats
