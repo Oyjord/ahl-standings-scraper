@@ -15,17 +15,34 @@ teams = []
 
 lines.each do |line|
   if line =~ /^(Pacific|Atlantic|North|Central) Division$/
-    # Save previous division
     divisions << { division: current_division, teams: teams } if current_division
     current_division = line
     teams = []
   elsif line =~ /^\D+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+-\d+-\d+-\d+\s+\d+$/
-    team_name = line[/^(.+?)\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+-\d+-\d+-\d+\s+\d+$/, 1]
-    teams << { team: team_name.strip }
+    parts = line.split(/\s+/)
+    name = parts[0..(parts.size - 16)].join(" ")
+    stats = parts.last(16)
+    teams << {
+      team: name,
+      gp: stats[0].to_i,
+      gr: stats[1].to_i,
+      w: stats[2].to_i,
+      l: stats[3].to_i,
+      otl: stats[4].to_i,
+      sol: stats[5].to_i,
+      pts: stats[6].to_i,
+      pct: stats[7].to_f,
+      rw: stats[8].to_i,
+      row: stats[9].to_i,
+      gf: stats[10].to_i,
+      ga: stats[11].to_i,
+      stk: stats[12],
+      p10: stats[13].to_i,
+      pim: stats[14].to_i
+    }
   end
 end
 
-# Add final division
 divisions << { division: current_division, teams: teams } if current_division
 
 File.write("standings.json", JSON.pretty_generate(divisions))
