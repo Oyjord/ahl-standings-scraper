@@ -26,10 +26,15 @@ lines.each do |line|
   end
 
   next unless in_pacific
-  next if line.include?("GP") && line.include?("PTS") # skip header
+
+  debug_log << "Line: #{line.inspect}"
+
+  if line.include?("GP") && line.include?("PTS")
+    debug_log << "🛑 Skipped header line"
+    next
+  end
 
   tokens = line.split("\t")
-  debug_log << "Line: #{line}"
   debug_log << "→ Token count: #{tokens.size}"
 
   if tokens.size >= 8
