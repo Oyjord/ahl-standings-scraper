@@ -3,7 +3,7 @@ name: Scrape AHL Standings
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'  # every hour
+    - cron: '30 * * * *'  # every 30
 
 jobs:
   scrape:
