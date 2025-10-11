@@ -2,17 +2,6 @@
   "division": "All Divisions",
   "teams": [
     {
-      "team": "Hartford Wolf Pack",
-      "division": "Other",
-      "gp": 0,
-      "gr": 72,
-      "w": 0,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 0
-    },
-    {
       "team": "Springfield Thunderbirds",
       "division": "Other",
       "gp": 0,
@@ -21,10 +10,21 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 0
+      "pts": 4
     },
     {
       "team": "Charlotte Checkers",
+      "division": "Other",
+      "gp": 0,
+      "gr": 72,
+      "w": 0,
+      "l": 0,
+      "otl": 0,
+      "sol": 0,
+      "pts": 2
+    },
+    {
+      "team": "Hartford Wolf Pack",
       "division": "Other",
       "gp": 0,
       "gr": 72,
@@ -90,6 +90,17 @@
       "pts": 0
     },
     {
+      "team": "Cleveland Monsters",
+      "division": "Other",
+      "gp": 2,
+      "gr": 70,
+      "w": 2,
+      "l": 0,
+      "otl": 0,
+      "sol": 0,
+      "pts": 35
+    },
+    {
       "team": "Rochester Americans",
       "division": "Other",
       "gp": 1,
@@ -98,18 +109,18 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 22
+      "pts": 24
     },
     {
-      "team": "Cleveland Monsters",
+      "team": "Utica Comets",
       "division": "Other",
-      "gp": 1,
-      "gr": 71,
-      "w": 1,
-      "l": 0,
-      "otl": 0,
+      "gp": 2,
+      "gr": 70,
+      "w": 0,
+      "l": 1,
+      "otl": 1,
       "sol": 0,
-      "pts": 35
+      "pts": 31
     },
     {
       "team": "Toronto Marlies",
@@ -120,18 +131,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 28
-    },
-    {
-      "team": "Utica Comets",
-      "division": "Other",
-      "gp": 1,
-      "gr": 71,
-      "w": 0,
-      "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 31
+      "pts": 30
     },
     {
       "team": "Laval Rocket",
@@ -310,6 +310,28 @@
       "pts": 15
     },
     {
+      "team": "Bakersfield Condors",
+      "division": "Pacific",
+      "gp": 0,
+      "gr": 72,
+      "w": 0,
+      "l": 0,
+      "otl": 0,
+      "sol": 0,
+      "pts": 0
+    },
+    {
+      "team": "San Jose Barracuda",
+      "division": "Pacific",
+      "gp": 0,
+      "gr": 72,
+      "w": 0,
+      "l": 0,
+      "otl": 0,
+      "sol": 0,
+      "pts": 0
+    },
+    {
       "team": "Calgary Wranglers",
       "division": "Pacific",
       "gp": 1,
@@ -330,28 +352,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 8
-    },
-    {
-      "team": "San Jose Barracuda",
-      "division": "Pacific",
-      "gp": 0,
-      "gr": 72,
-      "w": 0,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 0
-    },
-    {
-      "team": "Bakersfield Condors",
-      "division": "Pacific",
-      "gp": 0,
-      "gr": 72,
-      "w": 0,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 0
     }
   ]
 }
