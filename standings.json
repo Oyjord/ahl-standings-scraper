@@ -10,7 +10,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 24
+      "pts": 28
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
@@ -21,7 +21,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 4
+      "pts": 8
     },
     {
       "team": "Charlotte Checkers",
@@ -32,7 +32,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 10
+      "pts": 14
     },
     {
       "team": "Providence Bruins",
@@ -43,7 +43,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 17
+      "pts": 19
     },
     {
       "team": "Bridgeport Islanders",
@@ -54,7 +54,7 @@
       "l": 0,
       "otl": 1,
       "sol": 0,
-      "pts": 18
+      "pts": 24
     },
     {
       "team": "Hartford Wolf Pack",
@@ -153,7 +153,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 15
+      "pts": 21
     },
     {
       "team": "Belleville Senators",
@@ -164,7 +164,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 21
+      "pts": 27
     },
     {
       "team": "Grand Rapids Griffins",
@@ -197,7 +197,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 15
+      "pts": 19
     },
     {
       "team": "Rockford IceHogs",
