@@ -266,6 +266,17 @@
       "pts": 8
     },
     {
+      "team": "Ontario Reign",
+      "division": "Pacific",
+      "gp": 2,
+      "gr": 70,
+      "w": 1,
+      "l": 0,
+      "otl": 1,
+      "sol": 0,
+      "pts": 29
+    },
+    {
       "team": "San Diego Gulls",
       "division": "Pacific",
       "gp": 1,
@@ -290,24 +301,13 @@
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 1,
-      "gr": 71,
+      "gp": 2,
+      "gr": 70,
       "w": 1,
-      "l": 0,
+      "l": 1,
       "otl": 0,
       "sol": 0,
       "pts": 33
-    },
-    {
-      "team": "Ontario Reign",
-      "division": "Pacific",
-      "gp": 1,
-      "gr": 71,
-      "w": 0,
-      "l": 0,
-      "otl": 1,
-      "sol": 0,
-      "pts": 29
     },
     {
       "team": "Henderson Silver Knights",
