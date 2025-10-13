@@ -178,6 +178,17 @@
       "pts": 23
     },
     {
+      "team": "Rockford IceHogs",
+      "division": "Other",
+      "gp": 2,
+      "gr": 70,
+      "w": 2,
+      "l": 0,
+      "otl": 0,
+      "sol": 0,
+      "pts": 21
+    },
+    {
       "team": "Chicago Wolves",
       "division": "Other",
       "gp": 1,
@@ -195,17 +206,6 @@
       "gr": 70,
       "w": 1,
       "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 19
-    },
-    {
-      "team": "Rockford IceHogs",
-      "division": "Other",
-      "gp": 1,
-      "gr": 71,
-      "w": 1,
-      "l": 0,
       "otl": 0,
       "sol": 0,
       "pts": 19
@@ -235,13 +235,13 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 1,
-      "gr": 71,
+      "gp": 2,
+      "gr": 70,
       "w": 0,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 43
+      "pts": 45
     },
     {
       "team": "Colorado Eagles",
