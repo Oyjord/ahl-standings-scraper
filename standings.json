@@ -57,6 +57,17 @@
       "pts": 14
     },
     {
+      "team": "Hershey Bears",
+      "division": "Other",
+      "gp": 2,
+      "gr": 70,
+      "w": 0,
+      "l": 1,
+      "otl": 1,
+      "sol": 0,
+      "pts": 45
+    },
+    {
       "team": "Hartford Wolf Pack",
       "division": "Other",
       "gp": 1,
@@ -79,15 +90,15 @@
       "pts": 12
     },
     {
-      "team": "Hershey Bears",
+      "team": "Syracuse Crunch",
       "division": "Other",
-      "gp": 1,
-      "gr": 71,
-      "w": 0,
-      "l": 1,
+      "gp": 2,
+      "gr": 70,
+      "w": 2,
+      "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 45
+      "pts": 30
     },
     {
       "team": "Cleveland Monsters",
@@ -99,17 +110,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 35
-    },
-    {
-      "team": "Syracuse Crunch",
-      "division": "Other",
-      "gp": 1,
-      "gr": 71,
-      "w": 1,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 30
     },
     {
       "team": "Toronto Marlies",
@@ -208,7 +208,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 17
+      "pts": 19
     },
     {
       "team": "Milwaukee Admirals",
@@ -241,7 +241,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 41
+      "pts": 43
     },
     {
       "team": "Colorado Eagles",
@@ -296,7 +296,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 23
+      "pts": 33
     },
     {
       "team": "Ontario Reign",
@@ -307,7 +307,7 @@
       "l": 0,
       "otl": 1,
       "sol": 0,
-      "pts": 25
+      "pts": 29
     },
     {
       "team": "Henderson Silver Knights",
