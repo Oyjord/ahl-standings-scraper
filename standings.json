@@ -90,6 +90,17 @@
       "pts": 23
     },
     {
+      "team": "Laval Rocket",
+      "division": "Other",
+      "gp": 3,
+      "gr": 69,
+      "w": 2,
+      "l": 1,
+      "otl": 0,
+      "sol": 0,
+      "pts": 34
+    },
+    {
       "team": "Rochester Americans",
       "division": "Other",
       "gp": 3,
@@ -121,17 +132,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 50
-    },
-    {
-      "team": "Laval Rocket",
-      "division": "Other",
-      "gp": 2,
-      "gr": 70,
-      "w": 1,
-      "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 34
     },
     {
       "team": "Toronto Marlies",
@@ -180,13 +180,13 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 2,
-      "gr": 70,
-      "w": 2,
+      "gp": 3,
+      "gr": 69,
+      "w": 3,
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 27
+      "pts": 38
     },
     {
       "team": "Chicago Wolves",
@@ -224,13 +224,13 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 2,
-      "gr": 70,
+      "gp": 3,
+      "gr": 69,
       "w": 0,
       "l": 2,
-      "otl": 0,
+      "otl": 1,
       "sol": 0,
-      "pts": 27
+      "pts": 38
     },
     {
       "team": "Iowa Wild",
@@ -257,10 +257,10 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 2,
-      "gr": 70,
+      "gp": 3,
+      "gr": 69,
       "w": 2,
-      "l": 0,
+      "l": 1,
       "otl": 0,
       "sol": 0,
       "pts": 35
