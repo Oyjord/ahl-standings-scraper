@@ -92,13 +92,13 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 3,
-      "gr": 69,
-      "w": 2,
+      "gp": 4,
+      "gr": 68,
+      "w": 3,
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 60
+      "pts": 62
     },
     {
       "team": "Rochester Americans",
@@ -257,13 +257,13 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 3,
-      "gr": 69,
+      "gp": 4,
+      "gr": 68,
       "w": 2,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 55
+      "pts": 57
     },
     {
       "team": "Henderson Silver Knights",
