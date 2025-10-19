@@ -54,7 +54,7 @@
       "l": 1,
       "otl": 1,
       "sol": 0,
-      "pts": 60
+      "pts": 64
     },
     {
       "team": "Bridgeport Islanders",
@@ -76,7 +76,7 @@
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 17
+      "pts": 19
     },
     {
       "team": "Hartford Wolf Pack",
@@ -90,6 +90,17 @@
       "pts": 33
     },
     {
+      "team": "Syracuse Crunch",
+      "division": "Other",
+      "gp": 4,
+      "gr": 68,
+      "w": 4,
+      "l": 0,
+      "otl": 0,
+      "sol": 0,
+      "pts": 46
+    },
+    {
       "team": "Laval Rocket",
       "division": "Other",
       "gp": 4,
@@ -99,17 +110,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 62
-    },
-    {
-      "team": "Syracuse Crunch",
-      "division": "Other",
-      "gp": 3,
-      "gr": 69,
-      "w": 3,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 46
     },
     {
       "team": "Cleveland Monsters",
@@ -142,7 +142,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 49
+      "pts": 57
     },
     {
       "team": "Utica Comets",
@@ -153,18 +153,18 @@
       "l": 2,
       "otl": 1,
       "sol": 0,
-      "pts": 59
+      "pts": 76
     },
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 3,
-      "gr": 69,
+      "gp": 4,
+      "gr": 68,
       "w": 0,
-      "l": 2,
+      "l": 3,
       "otl": 1,
       "sol": 0,
-      "pts": 49
+      "pts": 51
     },
     {
       "team": "Grand Rapids Griffins",
@@ -186,7 +186,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 62
+      "pts": 69
     },
     {
       "team": "Chicago Wolves",
@@ -197,7 +197,7 @@
       "l": 0,
       "otl": 1,
       "sol": 0,
-      "pts": 54
+      "pts": 59
     },
     {
       "team": "Milwaukee Admirals",
@@ -252,7 +252,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 42
+      "pts": 46
     },
     {
       "team": "Henderson Silver Knights",
@@ -296,7 +296,7 @@
       "l": 1,
       "otl": 1,
       "sol": 0,
-      "pts": 39
+      "pts": 45
     },
     {
       "team": "San Diego Gulls",
