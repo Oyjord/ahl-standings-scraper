@@ -46,17 +46,6 @@
       "pts": 63
     },
     {
-      "team": "Hershey Bears",
-      "division": "Other",
-      "gp": 3,
-      "gr": 69,
-      "w": 1,
-      "l": 1,
-      "otl": 1,
-      "sol": 0,
-      "pts": 64
-    },
-    {
       "team": "Bridgeport Islanders",
       "division": "Other",
       "gp": 4,
@@ -68,15 +57,26 @@
       "pts": 75
     },
     {
+      "team": "Hershey Bears",
+      "division": "Other",
+      "gp": 4,
+      "gr": 68,
+      "w": 1,
+      "l": 2,
+      "otl": 1,
+      "sol": 0,
+      "pts": 68
+    },
+    {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 2,
-      "gr": 70,
-      "w": 0,
+      "gp": 3,
+      "gr": 69,
+      "w": 1,
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 19
+      "pts": 23
     },
     {
       "team": "Hartford Wolf Pack",
@@ -246,13 +246,13 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 3,
-      "gr": 69,
+      "gp": 4,
+      "gr": 68,
       "w": 3,
-      "l": 0,
+      "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 50
+      "pts": 62
     },
     {
       "team": "Henderson Silver Knights",
@@ -264,6 +264,17 @@
       "otl": 1,
       "sol": 0,
       "pts": 38
+    },
+    {
+      "team": "Ontario Reign",
+      "division": "Pacific",
+      "gp": 4,
+      "gr": 68,
+      "w": 2,
+      "l": 1,
+      "otl": 1,
+      "sol": 0,
+      "pts": 53
     },
     {
       "team": "Abbotsford Canucks",
@@ -285,18 +296,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 45
-    },
-    {
-      "team": "Ontario Reign",
-      "division": "Pacific",
-      "gp": 3,
-      "gr": 69,
-      "w": 1,
-      "l": 1,
-      "otl": 1,
-      "sol": 0,
-      "pts": 51
+      "pts": 56
     },
     {
       "team": "San Diego Gulls",
@@ -318,7 +318,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 38
+      "pts": 44
     },
     {
       "team": "San Jose Barracuda",
@@ -340,7 +340,7 @@
       "l": 2,
       "otl": 1,
       "sol": 0,
-      "pts": 52
+      "pts": 61
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -351,7 +351,7 @@
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 18
+      "pts": 26
     }
   ]
 }
