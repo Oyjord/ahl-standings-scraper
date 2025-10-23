@@ -246,9 +246,9 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 4,
-      "gr": 68,
-      "w": 3,
+      "gp": 5,
+      "gr": 67,
+      "w": 4,
       "l": 1,
       "otl": 0,
       "sol": 0,
@@ -310,6 +310,17 @@
       "pts": 57
     },
     {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 4,
+      "gr": 68,
+      "w": 1,
+      "l": 2,
+      "otl": 1,
+      "sol": 0,
+      "pts": 40
+    },
+    {
       "team": "Calgary Wranglers",
       "division": "Pacific",
       "gp": 4,
@@ -323,10 +334,10 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 2,
-      "gr": 70,
+      "gp": 3,
+      "gr": 69,
       "w": 1,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
       "pts": 18
@@ -334,24 +345,13 @@
     {
       "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 2,
-      "gr": 70,
+      "gp": 3,
+      "gr": 69,
       "w": 1,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
       "pts": 42
-    },
-    {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 3,
-      "gr": 69,
-      "w": 0,
-      "l": 2,
-      "otl": 1,
-      "sol": 0,
-      "pts": 40
     }
   ]
 }
