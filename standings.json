@@ -252,7 +252,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 64
+      "pts": 70
     },
     {
       "team": "Henderson Silver Knights",
@@ -329,7 +329,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 8
+      "pts": 18
     },
     {
       "team": "San Jose Barracuda",
@@ -340,7 +340,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 36
+      "pts": 42
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -351,7 +351,7 @@
       "l": 2,
       "otl": 1,
       "sol": 0,
-      "pts": 38
+      "pts": 40
     }
   ]
 }
