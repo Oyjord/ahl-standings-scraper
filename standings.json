@@ -180,13 +180,24 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 5,
-      "gr": 67,
+      "gp": 6,
+      "gr": 66,
       "w": 4,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
       "pts": 93
+    },
+    {
+      "team": "Milwaukee Admirals",
+      "division": "Other",
+      "gp": 3,
+      "gr": 69,
+      "w": 2,
+      "l": 0,
+      "otl": 1,
+      "sol": 0,
+      "pts": 79
     },
     {
       "team": "Chicago Wolves",
@@ -198,17 +209,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 63
-    },
-    {
-      "team": "Milwaukee Admirals",
-      "division": "Other",
-      "gp": 2,
-      "gr": 70,
-      "w": 1,
-      "l": 0,
-      "otl": 1,
-      "sol": 0,
-      "pts": 55
     },
     {
       "team": "Manitoba Moose",
@@ -246,9 +246,9 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 5,
-      "gr": 67,
-      "w": 4,
+      "gp": 6,
+      "gr": 66,
+      "w": 5,
       "l": 1,
       "otl": 0,
       "sol": 0,
@@ -257,13 +257,24 @@
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 4,
-      "gr": 68,
-      "w": 2,
+      "gp": 5,
+      "gr": 67,
+      "w": 3,
       "l": 1,
       "otl": 1,
       "sol": 0,
-      "pts": 44
+      "pts": 46
+    },
+    {
+      "team": "Tucson Roadrunners",
+      "division": "Pacific",
+      "gp": 5,
+      "gr": 67,
+      "w": 3,
+      "l": 1,
+      "otl": 1,
+      "sol": 0,
+      "pts": 76
     },
     {
       "team": "Ontario Reign",
@@ -274,7 +285,7 @@
       "l": 1,
       "otl": 1,
       "sol": 0,
-      "pts": 55
+      "pts": 59
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -288,26 +299,15 @@
       "pts": 49
     },
     {
-      "team": "Tucson Roadrunners",
+      "team": "Bakersfield Condors",
       "division": "Pacific",
       "gp": 4,
       "gr": 68,
       "w": 2,
-      "l": 1,
-      "otl": 1,
-      "sol": 0,
-      "pts": 70
-    },
-    {
-      "team": "Bakersfield Condors",
-      "division": "Pacific",
-      "gp": 3,
-      "gr": 69,
-      "w": 2,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 52
+      "pts": 58
     },
     {
       "team": "Abbotsford Canucks",
@@ -318,7 +318,7 @@
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 63
+      "pts": 69
     },
     {
       "team": "Calgary Wranglers",
@@ -334,24 +334,24 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 3,
-      "gr": 69,
+      "gp": 4,
+      "gr": 68,
       "w": 1,
       "l": 2,
-      "otl": 0,
+      "otl": 1,
       "sol": 0,
       "pts": 22
     },
     {
       "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 3,
-      "gr": 69,
+      "gp": 4,
+      "gr": 68,
       "w": 1,
-      "l": 2,
+      "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 77
+      "pts": 91
     }
   ]
 }
