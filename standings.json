@@ -10,7 +10,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 52
+      "pts": 60
     },
     {
       "team": "Providence Bruins",
@@ -21,7 +21,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 35
+      "pts": 39
     },
     {
       "team": "Charlotte Checkers",
@@ -32,7 +32,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 43
+      "pts": 53
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -43,7 +43,7 @@
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 67
+      "pts": 71
     },
     {
       "team": "Bridgeport Islanders",
@@ -65,7 +65,7 @@
       "l": 2,
       "otl": 1,
       "sol": 0,
-      "pts": 68
+      "pts": 76
     },
     {
       "team": "Hartford Wolf Pack",
@@ -76,7 +76,7 @@
       "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 49
+      "pts": 53
     },
     {
       "team": "Springfield Thunderbirds",
@@ -87,7 +87,7 @@
       "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 27
+      "pts": 33
     },
     {
       "team": "Syracuse Crunch",
@@ -109,7 +109,7 @@
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 68
+      "pts": 80
     },
     {
       "team": "Rochester Americans",
@@ -120,7 +120,7 @@
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 81
+      "pts": 89
     },
     {
       "team": "Toronto Marlies",
@@ -164,7 +164,7 @@
       "l": 3,
       "otl": 1,
       "sol": 0,
-      "pts": 76
+      "pts": 78
     },
     {
       "team": "Grand Rapids Griffins",
@@ -175,7 +175,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 47
+      "pts": 49
     },
     {
       "team": "Rockford IceHogs",
@@ -219,7 +219,7 @@
       "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 31
+      "pts": 35
     },
     {
       "team": "Texas Stars",
