@@ -186,7 +186,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 77
+      "pts": 88
     },
     {
       "team": "Chicago Wolves",
@@ -208,7 +208,7 @@
       "l": 0,
       "otl": 1,
       "sol": 0,
-      "pts": 24
+      "pts": 40
     },
     {
       "team": "Manitoba Moose",
@@ -222,26 +222,26 @@
       "pts": 44
     },
     {
-      "team": "Texas Stars",
-      "division": "Other",
-      "gp": 4,
-      "gr": 68,
-      "w": 0,
-      "l": 3,
-      "otl": 1,
-      "sol": 0,
-      "pts": 57
-    },
-    {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 4,
-      "gr": 68,
-      "w": 0,
+      "gp": 5,
+      "gr": 67,
+      "w": 1,
       "l": 4,
       "otl": 0,
       "sol": 0,
       "pts": 78
+    },
+    {
+      "team": "Texas Stars",
+      "division": "Other",
+      "gp": 5,
+      "gr": 67,
+      "w": 0,
+      "l": 4,
+      "otl": 1,
+      "sol": 0,
+      "pts": 59
     },
     {
       "team": "Colorado Eagles",
@@ -252,7 +252,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 76
+      "pts": 93
     },
     {
       "team": "Henderson Silver Knights",
@@ -263,7 +263,7 @@
       "l": 1,
       "otl": 1,
       "sol": 0,
-      "pts": 38
+      "pts": 40
     },
     {
       "team": "Ontario Reign",
@@ -274,7 +274,7 @@
       "l": 1,
       "otl": 1,
       "sol": 0,
-      "pts": 53
+      "pts": 55
     },
     {
       "team": "Tucson Roadrunners",
@@ -285,7 +285,7 @@
       "l": 1,
       "otl": 1,
       "sol": 0,
-      "pts": 62
+      "pts": 66
     },
     {
       "team": "Bakersfield Condors",
@@ -296,7 +296,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 48
+      "pts": 52
     },
     {
       "team": "Abbotsford Canucks",
@@ -307,7 +307,7 @@
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 57
+      "pts": 59
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -318,7 +318,7 @@
       "l": 2,
       "otl": 1,
       "sol": 0,
-      "pts": 42
+      "pts": 49
     },
     {
       "team": "Calgary Wranglers",
@@ -329,7 +329,7 @@
       "l": 2,
       "otl": 1,
       "sol": 0,
-      "pts": 67
+      "pts": 78
     },
     {
       "team": "San Diego Gulls",
@@ -340,7 +340,7 @@
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 18
+      "pts": 20
     },
     {
       "team": "San Jose Barracuda",
@@ -351,7 +351,7 @@
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 42
+      "pts": 58
     }
   ]
 }
