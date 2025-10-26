@@ -15,13 +15,13 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 5,
-      "gr": 67,
-      "w": 5,
+      "gp": 6,
+      "gr": 66,
+      "w": 6,
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 41
+      "pts": 45
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -48,13 +48,13 @@
     {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 5,
-      "gr": 67,
+      "gp": 6,
+      "gr": 66,
       "w": 2,
-      "l": 2,
+      "l": 3,
       "otl": 1,
       "sol": 0,
-      "pts": 107
+      "pts": 109
     },
     {
       "team": "Hershey Bears",
@@ -131,7 +131,7 @@
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 68
+      "pts": 72
     },
     {
       "team": "Cleveland Monsters",
@@ -153,7 +153,7 @@
       "l": 3,
       "otl": 1,
       "sol": 0,
-      "pts": 66
+      "pts": 68
     },
     {
       "team": "Utica Comets",
