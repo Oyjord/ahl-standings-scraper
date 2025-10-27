@@ -125,13 +125,24 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 5,
-      "gr": 67,
+      "gp": 6,
+      "gr": 66,
       "w": 3,
       "l": 2,
       "otl": 0,
+      "sol": 1,
+      "pts": 82
+    },
+    {
+      "team": "Belleville Senators",
+      "division": "Other",
+      "gp": 7,
+      "gr": 65,
+      "w": 3,
+      "l": 3,
+      "otl": 1,
       "sol": 0,
-      "pts": 76
+      "pts": 72
     },
     {
       "team": "Cleveland Monsters",
@@ -143,17 +154,6 @@
       "otl": 1,
       "sol": 1,
       "pts": 70
-    },
-    {
-      "team": "Belleville Senators",
-      "division": "Other",
-      "gp": 6,
-      "gr": 66,
-      "w": 2,
-      "l": 3,
-      "otl": 1,
-      "sol": 0,
-      "pts": 72
     },
     {
       "team": "Utica Comets",
@@ -255,6 +255,17 @@
       "pts": 110
     },
     {
+      "team": "Ontario Reign",
+      "division": "Pacific",
+      "gp": 6,
+      "gr": 66,
+      "w": 4,
+      "l": 1,
+      "otl": 1,
+      "sol": 0,
+      "pts": 70
+    },
+    {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
       "gp": 6,
@@ -264,17 +275,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 52
-    },
-    {
-      "team": "Ontario Reign",
-      "division": "Pacific",
-      "gp": 5,
-      "gr": 67,
-      "w": 3,
-      "l": 1,
-      "otl": 1,
-      "sol": 0,
-      "pts": 59
     },
     {
       "team": "Tucson Roadrunners",
@@ -334,13 +334,13 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 5,
-      "gr": 67,
+      "gp": 6,
+      "gr": 66,
       "w": 2,
-      "l": 3,
+      "l": 4,
       "otl": 0,
       "sol": 0,
-      "pts": 69
+      "pts": 82
     },
     {
       "team": "San Diego Gulls",
