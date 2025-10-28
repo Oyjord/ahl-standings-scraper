@@ -167,6 +167,17 @@
       "pts": 88
     },
     {
+      "team": "Rockford IceHogs",
+      "division": "Other",
+      "gp": 8,
+      "gr": 64,
+      "w": 6,
+      "l": 2,
+      "otl": 0,
+      "sol": 0,
+      "pts": 135
+    },
+    {
       "team": "Grand Rapids Griffins",
       "division": "Other",
       "gp": 5,
@@ -178,26 +189,15 @@
       "pts": 60
     },
     {
-      "team": "Rockford IceHogs",
-      "division": "Other",
-      "gp": 7,
-      "gr": 65,
-      "w": 5,
-      "l": 2,
-      "otl": 0,
-      "sol": 0,
-      "pts": 107
-    },
-    {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 4,
-      "gr": 68,
+      "gp": 5,
+      "gr": 67,
       "w": 3,
-      "l": 0,
+      "l": 1,
       "otl": 1,
       "sol": 0,
-      "pts": 74
+      "pts": 120
     },
     {
       "team": "Milwaukee Admirals",
