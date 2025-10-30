@@ -310,6 +310,17 @@
       "pts": 100
     },
     {
+      "team": "San Diego Gulls",
+      "division": "Pacific",
+      "gp": 6,
+      "gr": 66,
+      "w": 2,
+      "l": 3,
+      "otl": 1,
+      "sol": 0,
+      "pts": 54
+    },
+    {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
       "gp": 6,
@@ -334,24 +345,13 @@
     {
       "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 5,
+      "gp": 6,
       "gr": 66,
       "w": 2,
-      "l": 3,
+      "l": 4,
       "otl": 0,
       "sol": 0,
       "pts": 103
-    },
-    {
-      "team": "San Diego Gulls",
-      "division": "Pacific",
-      "gp": 5,
-      "gr": 66,
-      "w": 1,
-      "l": 3,
-      "otl": 1,
-      "sol": 0,
-      "pts": 44
     }
   ]
 }
