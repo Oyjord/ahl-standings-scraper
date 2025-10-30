@@ -255,22 +255,11 @@
       "pts": 124
     },
     {
-      "team": "Ontario Reign",
-      "division": "Pacific",
-      "gp": 6,
-      "gr": 66,
-      "w": 4,
-      "l": 1,
-      "otl": 1,
-      "sol": 0,
-      "pts": 74
-    },
-    {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 6,
-      "gr": 66,
-      "w": 4,
+      "gp": 7,
+      "gr": 65,
+      "w": 5,
       "l": 1,
       "otl": 1,
       "sol": 0,
@@ -279,13 +268,24 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 7,
-      "gr": 65,
-      "w": 3,
+      "gp": 8,
+      "gr": 64,
+      "w": 4,
       "l": 2,
       "otl": 2,
       "sol": 0,
       "pts": 136
+    },
+    {
+      "team": "Ontario Reign",
+      "division": "Pacific",
+      "gp": 7,
+      "gr": 65,
+      "w": 4,
+      "l": 2,
+      "otl": 1,
+      "sol": 0,
+      "pts": 74
     },
     {
       "team": "Bakersfield Condors",
@@ -321,10 +321,21 @@
       "pts": 53
     },
     {
+      "team": "Abbotsford Canucks",
+      "division": "Pacific",
+      "gp": 8,
+      "gr": 64,
+      "w": 2,
+      "l": 5,
+      "otl": 0,
+      "sol": 1,
+      "pts": 105
+    },
+    {
       "team": "San Jose Barracuda",
       "division": "Pacific",
       "gp": 5,
-      "gr": 67,
+      "gr": 66,
       "w": 2,
       "l": 3,
       "otl": 0,
@@ -332,21 +343,10 @@
       "pts": 103
     },
     {
-      "team": "Abbotsford Canucks",
-      "division": "Pacific",
-      "gp": 7,
-      "gr": 65,
-      "w": 2,
-      "l": 5,
-      "otl": 0,
-      "sol": 0,
-      "pts": 105
-    },
-    {
       "team": "San Diego Gulls",
       "division": "Pacific",
       "gp": 5,
-      "gr": 67,
+      "gr": 66,
       "w": 1,
       "l": 3,
       "otl": 1,
