@@ -2,8 +2,11 @@ name: Scrape AHL Standings
 
 on:
   workflow_dispatch:
+  # Covers 4 PM to 11 PM PT (which is 23:00–06:59 UTC)
   schedule:
-    - cron: '*/15 16-23 * * *'
+    - cron: '*/15 23-23 * * *'  # 4 PM PT
+    - cron: '*/15 0-6 * * *'    # 5 PM to 11 PM PT
+
 
 jobs:
   scrape:
