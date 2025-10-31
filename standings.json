@@ -299,6 +299,17 @@
       "pts": 86
     },
     {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 7,
+      "gr": 65,
+      "w": 3,
+      "l": 3,
+      "otl": 1,
+      "sol": 0,
+      "pts": 57
+    },
+    {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
       "gp": 8,
@@ -312,24 +323,13 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 6,
-      "gr": 66,
+      "gp": 7,
+      "gr": 65,
       "w": 2,
       "l": 3,
-      "otl": 1,
+      "otl": 2,
       "sol": 0,
       "pts": 56
-    },
-    {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 6,
-      "gr": 66,
-      "w": 2,
-      "l": 3,
-      "otl": 1,
-      "sol": 0,
-      "pts": 57
     },
     {
       "team": "Abbotsford Canucks",
