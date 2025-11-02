@@ -255,6 +255,17 @@
       "pts": 130
     },
     {
+      "team": "Henderson Silver Knights",
+      "division": "Pacific",
+      "gp": 8,
+      "gr": 64,
+      "w": 6,
+      "l": 1,
+      "otl": 1,
+      "sol": 0,
+      "pts": 64
+    },
+    {
       "team": "Calgary Wranglers",
       "division": "Pacific",
       "gp": 9,
@@ -275,17 +286,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 113
-    },
-    {
-      "team": "Henderson Silver Knights",
-      "division": "Pacific",
-      "gp": 7,
-      "gr": 65,
-      "w": 5,
-      "l": 1,
-      "otl": 1,
-      "sol": 0,
-      "pts": 64
     },
     {
       "team": "Tucson Roadrunners",
@@ -345,13 +345,13 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 8,
-      "gr": 64,
+      "gp": 9,
+      "gr": 63,
       "w": 2,
-      "l": 5,
+      "l": 6,
       "otl": 0,
       "sol": 1,
-      "pts": 113
+      "pts": 115
     }
   ]
 }
