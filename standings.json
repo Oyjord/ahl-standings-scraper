@@ -246,9 +246,9 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 9,
-      "gr": 63,
-      "w": 7,
+      "gp": 10,
+      "gr": 62,
+      "w": 8,
       "l": 2,
       "otl": 0,
       "sol": 0,
@@ -268,10 +268,10 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 8,
-      "gr": 64,
+      "gp": 9,
+      "gr": 63,
       "w": 5,
-      "l": 2,
+      "l": 3,
       "otl": 1,
       "sol": 0,
       "pts": 113
@@ -285,7 +285,7 @@
       "l": 1,
       "otl": 1,
       "sol": 0,
-      "pts": 62
+      "pts": 64
     },
     {
       "team": "Tucson Roadrunners",
@@ -312,13 +312,24 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 7,
-      "gr": 65,
+      "gp": 8,
+      "gr": 64,
       "w": 3,
-      "l": 3,
+      "l": 4,
       "otl": 1,
       "sol": 0,
       "pts": 61
+    },
+    {
+      "team": "San Jose Barracuda",
+      "division": "Pacific",
+      "gp": 8,
+      "gr": 64,
+      "w": 3,
+      "l": 5,
+      "otl": 0,
+      "sol": 0,
+      "pts": 142
     },
     {
       "team": "San Diego Gulls",
@@ -341,17 +352,6 @@
       "otl": 0,
       "sol": 1,
       "pts": 113
-    },
-    {
-      "team": "San Jose Barracuda",
-      "division": "Pacific",
-      "gp": 7,
-      "gr": 65,
-      "w": 2,
-      "l": 5,
-      "otl": 0,
-      "sol": 0,
-      "pts": 142
     }
   ]
 }
