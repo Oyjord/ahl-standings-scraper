@@ -123,6 +123,17 @@
       "pts": 162
     },
     {
+      "team": "Toronto Marlies",
+      "division": "Other",
+      "gp": 9,
+      "gr": 63,
+      "w": 4,
+      "l": 4,
+      "otl": 0,
+      "sol": 1,
+      "pts": 106
+    },
+    {
       "team": "Belleville Senators",
       "division": "Other",
       "gp": 9,
@@ -145,17 +156,6 @@
       "pts": 104
     },
     {
-      "team": "Toronto Marlies",
-      "division": "Other",
-      "gp": 8,
-      "gr": 64,
-      "w": 3,
-      "l": 4,
-      "otl": 0,
-      "sol": 1,
-      "pts": 106
-    },
-    {
       "team": "Utica Comets",
       "division": "Other",
       "gp": 8,
@@ -169,21 +169,21 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 7,
-      "gr": 65,
-      "w": 7,
+      "gp": 8,
+      "gr": 64,
+      "w": 8,
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 102
+      "pts": 104
     },
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 9,
-      "gr": 63,
+      "gp": 10,
+      "gr": 62,
       "w": 6,
-      "l": 3,
+      "l": 4,
       "otl": 0,
       "sol": 0,
       "pts": 154
@@ -202,10 +202,10 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 7,
-      "gr": 65,
+      "gp": 8,
+      "gr": 64,
       "w": 4,
-      "l": 2,
+      "l": 3,
       "otl": 1,
       "sol": 0,
       "pts": 142
@@ -224,9 +224,9 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 8,
-      "gr": 64,
-      "w": 2,
+      "gp": 9,
+      "gr": 63,
+      "w": 3,
       "l": 5,
       "otl": 0,
       "sol": 1,
@@ -274,7 +274,7 @@
       "l": 1,
       "otl": 1,
       "sol": 0,
-      "pts": 64
+      "pts": 66
     },
     {
       "team": "Ontario Reign",
@@ -290,11 +290,11 @@
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 9,
-      "gr": 63,
+      "gp": 10,
+      "gr": 62,
       "w": 4,
       "l": 4,
-      "otl": 1,
+      "otl": 2,
       "sol": 0,
       "pts": 117
     },
