@@ -246,13 +246,24 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 10,
-      "gr": 62,
-      "w": 8,
+      "gp": 11,
+      "gr": 61,
+      "w": 9,
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 136
+      "pts": 138
+    },
+    {
+      "team": "Henderson Silver Knights",
+      "division": "Pacific",
+      "gp": 9,
+      "gr": 63,
+      "w": 7,
+      "l": 1,
+      "otl": 1,
+      "sol": 0,
+      "pts": 70
     },
     {
       "team": "Calgary Wranglers",
@@ -264,17 +275,6 @@
       "otl": 2,
       "sol": 0,
       "pts": 179
-    },
-    {
-      "team": "Henderson Silver Knights",
-      "division": "Pacific",
-      "gp": 8,
-      "gr": 64,
-      "w": 6,
-      "l": 1,
-      "otl": 1,
-      "sol": 0,
-      "pts": 70
     },
     {
       "team": "Ontario Reign",
@@ -334,21 +334,21 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 7,
-      "gr": 65,
+      "gp": 8,
+      "gr": 64,
       "w": 2,
-      "l": 3,
+      "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 58
+      "pts": 62
     },
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 9,
-      "gr": 63,
+      "gp": 10,
+      "gr": 62,
       "w": 2,
-      "l": 6,
+      "l": 7,
       "otl": 0,
       "sol": 1,
       "pts": 127
