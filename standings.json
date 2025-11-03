@@ -252,7 +252,7 @@
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 130
+      "pts": 136
     },
     {
       "team": "Calgary Wranglers",
@@ -274,7 +274,7 @@
       "l": 1,
       "otl": 1,
       "sol": 0,
-      "pts": 66
+      "pts": 70
     },
     {
       "team": "Ontario Reign",
@@ -340,7 +340,7 @@
       "l": 3,
       "otl": 2,
       "sol": 0,
-      "pts": 56
+      "pts": 58
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 6,
       "otl": 0,
       "sol": 1,
-      "pts": 115
+      "pts": 127
     }
   ]
 }
