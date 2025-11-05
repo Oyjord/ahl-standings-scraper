@@ -279,9 +279,9 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 9,
-      "gr": 63,
-      "w": 5,
+      "gp": 10,
+      "gr": 62,
+      "w": 6,
       "l": 3,
       "otl": 1,
       "sol": 0,
@@ -310,6 +310,17 @@
       "pts": 115
     },
     {
+      "team": "San Jose Barracuda",
+      "division": "Pacific",
+      "gp": 9,
+      "gr": 63,
+      "w": 3,
+      "l": 5,
+      "otl": 1,
+      "sol": 0,
+      "pts": 148
+    },
+    {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
       "gp": 8,
@@ -319,17 +330,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 61
-    },
-    {
-      "team": "San Jose Barracuda",
-      "division": "Pacific",
-      "gp": 8,
-      "gr": 64,
-      "w": 3,
-      "l": 5,
-      "otl": 0,
-      "sol": 0,
-      "pts": 148
     },
     {
       "team": "San Diego Gulls",
