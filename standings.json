@@ -246,21 +246,21 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 11,
-      "gr": 61,
+      "gp": 12,
+      "gr": 60,
       "w": 9,
       "l": 2,
       "otl": 0,
-      "sol": 0,
+      "sol": 1,
       "pts": 153
     },
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 9,
-      "gr": 63,
+      "gp": 10,
+      "gr": 62,
       "w": 7,
-      "l": 1,
+      "l": 2,
       "otl": 1,
       "sol": 0,
       "pts": 81
@@ -299,6 +299,28 @@
       "pts": 117
     },
     {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 9,
+      "gr": 63,
+      "w": 4,
+      "l": 4,
+      "otl": 1,
+      "sol": 0,
+      "pts": 70
+    },
+    {
+      "team": "San Diego Gulls",
+      "division": "Pacific",
+      "gp": 9,
+      "gr": 63,
+      "w": 3,
+      "l": 4,
+      "otl": 2,
+      "sol": 0,
+      "pts": 97
+    },
+    {
       "team": "Bakersfield Condors",
       "division": "Pacific",
       "gp": 9,
@@ -319,28 +341,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 148
-    },
-    {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 8,
-      "gr": 64,
-      "w": 3,
-      "l": 4,
-      "otl": 1,
-      "sol": 0,
-      "pts": 70
-    },
-    {
-      "team": "San Diego Gulls",
-      "division": "Pacific",
-      "gp": 8,
-      "gr": 64,
-      "w": 2,
-      "l": 4,
-      "otl": 2,
-      "sol": 0,
-      "pts": 87
     },
     {
       "team": "Abbotsford Canucks",
