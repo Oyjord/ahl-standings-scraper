@@ -202,13 +202,24 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 8,
-      "gr": 64,
+      "gp": 9,
+      "gr": 63,
       "w": 4,
-      "l": 3,
+      "l": 4,
       "otl": 1,
       "sol": 0,
-      "pts": 142
+      "pts": 159
+    },
+    {
+      "team": "Iowa Wild",
+      "division": "Other",
+      "gp": 10,
+      "gr": 62,
+      "w": 4,
+      "l": 5,
+      "otl": 0,
+      "sol": 1,
+      "pts": 139
     },
     {
       "team": "Manitoba Moose",
@@ -220,17 +231,6 @@
       "otl": 2,
       "sol": 0,
       "pts": 79
-    },
-    {
-      "team": "Iowa Wild",
-      "division": "Other",
-      "gp": 9,
-      "gr": 63,
-      "w": 3,
-      "l": 5,
-      "otl": 0,
-      "sol": 1,
-      "pts": 124
     },
     {
       "team": "Texas Stars",
