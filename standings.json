@@ -70,10 +70,10 @@
     {
       "team": "Hartford Wolf Pack",
       "division": "Other",
-      "gp": 9,
-      "gr": 63,
+      "gp": 10,
+      "gr": 62,
       "w": 3,
-      "l": 4,
+      "l": 5,
       "otl": 2,
       "sol": 0,
       "pts": 151
@@ -112,6 +112,17 @@
       "pts": 191
     },
     {
+      "team": "Laval Rocket",
+      "division": "Other",
+      "gp": 11,
+      "gr": 61,
+      "w": 7,
+      "l": 4,
+      "otl": 0,
+      "sol": 0,
+      "pts": 181
+    },
+    {
       "team": "Toronto Marlies",
       "division": "Other",
       "gp": 11,
@@ -121,17 +132,6 @@
       "otl": 0,
       "sol": 1,
       "pts": 114
-    },
-    {
-      "team": "Laval Rocket",
-      "division": "Other",
-      "gp": 10,
-      "gr": 62,
-      "w": 6,
-      "l": 4,
-      "otl": 0,
-      "sol": 0,
-      "pts": 181
     },
     {
       "team": "Belleville Senators",
@@ -224,24 +224,24 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 10,
-      "gr": 62,
+      "gp": 11,
+      "gr": 61,
       "w": 3,
-      "l": 5,
+      "l": 6,
       "otl": 2,
       "sol": 0,
-      "pts": 83
+      "pts": 85
     },
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 8,
-      "gr": 64,
-      "w": 2,
+      "gp": 9,
+      "gr": 63,
+      "w": 3,
       "l": 5,
       "otl": 1,
       "sol": 0,
-      "pts": 83
+      "pts": 89
     },
     {
       "team": "Colorado Eagles",
@@ -252,7 +252,7 @@
       "l": 2,
       "otl": 0,
       "sol": 1,
-      "pts": 153
+      "pts": 161
     },
     {
       "team": "Henderson Silver Knights",
@@ -285,7 +285,7 @@
       "l": 3,
       "otl": 1,
       "sol": 0,
-      "pts": 115
+      "pts": 117
     },
     {
       "team": "Tucson Roadrunners",
@@ -318,7 +318,7 @@
       "l": 4,
       "otl": 1,
       "sol": 0,
-      "pts": 70
+      "pts": 72
     },
     {
       "team": "San Diego Gulls",
@@ -329,7 +329,7 @@
       "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 97
+      "pts": 105
     },
     {
       "team": "Bakersfield Condors",
@@ -351,7 +351,7 @@
       "l": 7,
       "otl": 0,
       "sol": 1,
-      "pts": 127
+      "pts": 135
     }
   ]
 }
