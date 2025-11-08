@@ -15,13 +15,13 @@
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 11,
-      "gr": 61,
+      "gp": 12,
+      "gr": 60,
       "w": 8,
-      "l": 2,
+      "l": 3,
       "otl": 1,
       "sol": 0,
-      "pts": 129
+      "pts": 139
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -35,26 +35,37 @@
       "pts": 186
     },
     {
+      "team": "Charlotte Checkers",
+      "division": "Other",
+      "gp": 10,
+      "gr": 62,
+      "w": 5,
+      "l": 4,
+      "otl": 1,
+      "sol": 0,
+      "pts": 137
+    },
+    {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 9,
-      "gr": 63,
+      "gp": 10,
+      "gr": 62,
       "w": 5,
-      "l": 3,
+      "l": 4,
       "otl": 1,
       "sol": 0,
       "pts": 143
     },
     {
-      "team": "Charlotte Checkers",
+      "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 9,
-      "gr": 63,
+      "gp": 11,
+      "gr": 61,
       "w": 4,
-      "l": 4,
+      "l": 6,
       "otl": 1,
       "sol": 0,
-      "pts": 123
+      "pts": 176
     },
     {
       "team": "Hartford Wolf Pack",
@@ -65,51 +76,51 @@
       "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 138
-    },
-    {
-      "team": "Bridgeport Islanders",
-      "division": "Other",
-      "gp": 10,
-      "gr": 62,
-      "w": 3,
-      "l": 6,
-      "otl": 1,
-      "sol": 0,
-      "pts": 174
+      "pts": 151
     },
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 9,
-      "gr": 63,
+      "gp": 10,
+      "gr": 62,
       "w": 1,
-      "l": 6,
+      "l": 7,
       "otl": 1,
       "sol": 1,
-      "pts": 101
+      "pts": 105
     },
     {
       "team": "Syracuse Crunch",
       "division": "Other",
-      "gp": 10,
-      "gr": 62,
+      "gp": 11,
+      "gr": 61,
       "w": 8,
-      "l": 2,
+      "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 165
+      "pts": 177
     },
     {
       "team": "Rochester Americans",
       "division": "Other",
-      "gp": 11,
-      "gr": 61,
-      "w": 7,
+      "gp": 12,
+      "gr": 60,
+      "w": 8,
       "l": 4,
       "otl": 0,
       "sol": 0,
-      "pts": 185
+      "pts": 191
+    },
+    {
+      "team": "Toronto Marlies",
+      "division": "Other",
+      "gp": 11,
+      "gr": 61,
+      "w": 6,
+      "l": 4,
+      "otl": 0,
+      "sol": 1,
+      "pts": 114
     },
     {
       "team": "Laval Rocket",
@@ -120,29 +131,18 @@
       "l": 4,
       "otl": 0,
       "sol": 0,
-      "pts": 170
-    },
-    {
-      "team": "Toronto Marlies",
-      "division": "Other",
-      "gp": 10,
-      "gr": 62,
-      "w": 5,
-      "l": 4,
-      "otl": 0,
-      "sol": 1,
-      "pts": 114
+      "pts": 181
     },
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 9,
-      "gr": 63,
+      "gp": 10,
+      "gr": 62,
       "w": 4,
-      "l": 4,
+      "l": 5,
       "otl": 1,
       "sol": 0,
-      "pts": 101
+      "pts": 103
     },
     {
       "team": "Cleveland Monsters",
@@ -158,9 +158,9 @@
     {
       "team": "Utica Comets",
       "division": "Other",
-      "gp": 8,
-      "gr": 64,
-      "w": 1,
+      "gp": 9,
+      "gr": 63,
+      "w": 2,
       "l": 6,
       "otl": 1,
       "sol": 0,
@@ -186,7 +186,7 @@
       "l": 4,
       "otl": 0,
       "sol": 0,
-      "pts": 175
+      "pts": 209
     },
     {
       "team": "Milwaukee Admirals",
@@ -197,7 +197,7 @@
       "l": 1,
       "otl": 2,
       "sol": 0,
-      "pts": 138
+      "pts": 150
     },
     {
       "team": "Chicago Wolves",
@@ -230,7 +230,7 @@
       "l": 5,
       "otl": 2,
       "sol": 0,
-      "pts": 81
+      "pts": 83
     },
     {
       "team": "Texas Stars",
@@ -241,7 +241,7 @@
       "l": 5,
       "otl": 1,
       "sol": 0,
-      "pts": 81
+      "pts": 83
     },
     {
       "team": "Colorado Eagles",
@@ -296,7 +296,7 @@
       "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 117
+      "pts": 121
     },
     {
       "team": "San Jose Barracuda",
