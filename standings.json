@@ -246,9 +246,9 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 12,
-      "gr": 60,
-      "w": 9,
+      "gp": 13,
+      "gr": 59,
+      "w": 10,
       "l": 2,
       "otl": 0,
       "sol": 1,
@@ -288,12 +288,23 @@
       "pts": 121
     },
     {
-      "team": "Tucson Roadrunners",
+      "team": "Coachella Valley Firebirds",
       "division": "Pacific",
       "gp": 10,
       "gr": 62,
-      "w": 4,
+      "w": 5,
       "l": 4,
+      "otl": 1,
+      "sol": 0,
+      "pts": 76
+    },
+    {
+      "team": "Tucson Roadrunners",
+      "division": "Pacific",
+      "gp": 11,
+      "gr": 61,
+      "w": 4,
+      "l": 5,
       "otl": 2,
       "sol": 0,
       "pts": 123
@@ -308,17 +319,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 158
-    },
-    {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 9,
-      "gr": 63,
-      "w": 4,
-      "l": 4,
-      "otl": 1,
-      "sol": 0,
-      "pts": 76
     },
     {
       "team": "San Diego Gulls",
@@ -345,10 +345,10 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 10,
-      "gr": 62,
+      "gp": 11,
+      "gr": 61,
       "w": 2,
-      "l": 7,
+      "l": 8,
       "otl": 0,
       "sol": 1,
       "pts": 135
