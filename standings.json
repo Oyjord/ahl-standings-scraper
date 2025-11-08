@@ -4,13 +4,13 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 10,
-      "gr": 62,
-      "w": 9,
+      "gp": 11,
+      "gr": 61,
+      "w": 10,
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 98
+      "pts": 114
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
@@ -134,6 +134,17 @@
       "pts": 114
     },
     {
+      "team": "Cleveland Monsters",
+      "division": "Other",
+      "gp": 9,
+      "gr": 63,
+      "w": 3,
+      "l": 2,
+      "otl": 3,
+      "sol": 1,
+      "pts": 129
+    },
+    {
       "team": "Belleville Senators",
       "division": "Other",
       "gp": 10,
@@ -143,17 +154,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 103
-    },
-    {
-      "team": "Cleveland Monsters",
-      "division": "Other",
-      "gp": 8,
-      "gr": 64,
-      "w": 3,
-      "l": 2,
-      "otl": 2,
-      "sol": 1,
-      "pts": 115
     },
     {
       "team": "Utica Comets",
@@ -268,13 +268,13 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 11,
-      "gr": 61,
+      "gp": 12,
+      "gr": 60,
       "w": 6,
-      "l": 3,
+      "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 189
+      "pts": 215
     },
     {
       "team": "Ontario Reign",
@@ -286,6 +286,17 @@
       "otl": 1,
       "sol": 0,
       "pts": 125
+    },
+    {
+      "team": "San Jose Barracuda",
+      "division": "Pacific",
+      "gp": 11,
+      "gr": 61,
+      "w": 5,
+      "l": 5,
+      "otl": 1,
+      "sol": 0,
+      "pts": 172
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -330,17 +341,6 @@
       "otl": 2,
       "sol": 0,
       "pts": 123
-    },
-    {
-      "team": "San Jose Barracuda",
-      "division": "Pacific",
-      "gp": 10,
-      "gr": 62,
-      "w": 4,
-      "l": 5,
-      "otl": 1,
-      "sol": 0,
-      "pts": 158
     },
     {
       "team": "Abbotsford Canucks",
