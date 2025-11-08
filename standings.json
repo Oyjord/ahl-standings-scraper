@@ -180,20 +180,20 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 10,
-      "gr": 62,
+      "gp": 11,
+      "gr": 61,
       "w": 6,
       "l": 4,
-      "otl": 0,
+      "otl": 1,
       "sol": 0,
       "pts": 220
     },
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 7,
-      "gr": 65,
-      "w": 4,
+      "gp": 8,
+      "gr": 64,
+      "w": 5,
       "l": 1,
       "otl": 2,
       "sol": 0,
@@ -263,7 +263,7 @@
       "l": 2,
       "otl": 1,
       "sol": 0,
-      "pts": 81
+      "pts": 83
     },
     {
       "team": "Calgary Wranglers",
@@ -285,7 +285,7 @@
       "l": 3,
       "otl": 1,
       "sol": 0,
-      "pts": 117
+      "pts": 121
     },
     {
       "team": "Tucson Roadrunners",
@@ -296,7 +296,7 @@
       "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 121
+      "pts": 123
     },
     {
       "team": "San Jose Barracuda",
@@ -318,7 +318,7 @@
       "l": 4,
       "otl": 1,
       "sol": 0,
-      "pts": 72
+      "pts": 76
     },
     {
       "team": "San Diego Gulls",
@@ -329,7 +329,7 @@
       "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 105
+      "pts": 113
     },
     {
       "team": "Bakersfield Condors",
