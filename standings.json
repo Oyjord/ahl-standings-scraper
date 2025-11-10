@@ -178,6 +178,17 @@
       "pts": 112
     },
     {
+      "team": "Rockford IceHogs",
+      "division": "Other",
+      "gp": 13,
+      "gr": 59,
+      "w": 7,
+      "l": 5,
+      "otl": 1,
+      "sol": 0,
+      "pts": 245
+    },
+    {
       "team": "Milwaukee Admirals",
       "division": "Other",
       "gp": 9,
@@ -200,17 +211,6 @@
       "pts": 215
     },
     {
-      "team": "Rockford IceHogs",
-      "division": "Other",
-      "gp": 12,
-      "gr": 60,
-      "w": 6,
-      "l": 5,
-      "otl": 1,
-      "sol": 0,
-      "pts": 245
-    },
-    {
       "team": "Manitoba Moose",
       "division": "Other",
       "gp": 12,
@@ -224,10 +224,10 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 11,
-      "gr": 61,
+      "gp": 12,
+      "gr": 60,
       "w": 4,
-      "l": 6,
+      "l": 7,
       "otl": 0,
       "sol": 1,
       "pts": 191
