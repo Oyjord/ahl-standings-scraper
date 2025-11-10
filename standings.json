@@ -46,6 +46,17 @@
       "pts": 152
     },
     {
+      "team": "Hershey Bears",
+      "division": "Other",
+      "gp": 11,
+      "gr": 61,
+      "w": 6,
+      "l": 4,
+      "otl": 1,
+      "sol": 0,
+      "pts": 145
+    },
+    {
       "team": "Bridgeport Islanders",
       "division": "Other",
       "gp": 12,
@@ -55,17 +66,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 188
-    },
-    {
-      "team": "Hershey Bears",
-      "division": "Other",
-      "gp": 10,
-      "gr": 62,
-      "w": 5,
-      "l": 4,
-      "otl": 1,
-      "sol": 0,
-      "pts": 143
     },
     {
       "team": "Hartford Wolf Pack",
@@ -114,13 +114,13 @@
     {
       "team": "Rochester Americans",
       "division": "Other",
-      "gp": 12,
-      "gr": 60,
+      "gp": 13,
+      "gr": 59,
       "w": 8,
-      "l": 4,
+      "l": 5,
       "otl": 0,
       "sol": 0,
-      "pts": 191
+      "pts": 197
     },
     {
       "team": "Toronto Marlies",
@@ -169,13 +169,13 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 8,
-      "gr": 64,
+      "gp": 9,
+      "gr": 63,
       "w": 8,
       "l": 0,
       "otl": 0,
-      "sol": 0,
-      "pts": 108
+      "sol": 1,
+      "pts": 112
     },
     {
       "team": "Milwaukee Admirals",
@@ -189,6 +189,17 @@
       "pts": 184
     },
     {
+      "team": "Chicago Wolves",
+      "division": "Other",
+      "gp": 11,
+      "gr": 61,
+      "w": 6,
+      "l": 4,
+      "otl": 1,
+      "sol": 0,
+      "pts": 215
+    },
+    {
       "team": "Rockford IceHogs",
       "division": "Other",
       "gp": 12,
@@ -198,17 +209,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 243
-    },
-    {
-      "team": "Chicago Wolves",
-      "division": "Other",
-      "gp": 10,
-      "gr": 62,
-      "w": 5,
-      "l": 4,
-      "otl": 1,
-      "sol": 0,
-      "pts": 215
     },
     {
       "team": "Manitoba Moose",
