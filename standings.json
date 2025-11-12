@@ -299,6 +299,17 @@
       "pts": 221
     },
     {
+      "team": "San Jose Barracuda",
+      "division": "Pacific",
+      "gp": 12,
+      "gr": 60,
+      "w": 6,
+      "l": 5,
+      "otl": 1,
+      "sol": 0,
+      "pts": 176
+    },
+    {
       "team": "Bakersfield Condors",
       "division": "Pacific",
       "gp": 12,
@@ -321,17 +332,6 @@
       "pts": 142
     },
     {
-      "team": "San Jose Barracuda",
-      "division": "Pacific",
-      "gp": 11,
-      "gr": 61,
-      "w": 5,
-      "l": 5,
-      "otl": 1,
-      "sol": 0,
-      "pts": 176
-    },
-    {
       "team": "San Diego Gulls",
       "division": "Pacific",
       "gp": 11,
@@ -345,10 +345,10 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 12,
-      "gr": 60,
+      "gp": 13,
+      "gr": 59,
       "w": 2,
-      "l": 8,
+      "l": 9,
       "otl": 0,
       "sol": 2,
       "pts": 150
