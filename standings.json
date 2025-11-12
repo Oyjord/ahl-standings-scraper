@@ -90,6 +90,17 @@
       "pts": 113
     },
     {
+      "team": "Syracuse Crunch",
+      "division": "Other",
+      "gp": 13,
+      "gr": 59,
+      "w": 9,
+      "l": 4,
+      "otl": 0,
+      "sol": 0,
+      "pts": 198
+    },
+    {
       "team": "Laval Rocket",
       "division": "Other",
       "gp": 12,
@@ -99,17 +110,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 195
-    },
-    {
-      "team": "Syracuse Crunch",
-      "division": "Other",
-      "gp": 12,
-      "gr": 60,
-      "w": 8,
-      "l": 4,
-      "otl": 0,
-      "sol": 0,
-      "pts": 194
     },
     {
       "team": "Rochester Americans",
@@ -158,13 +158,13 @@
     {
       "team": "Utica Comets",
       "division": "Other",
-      "gp": 10,
-      "gr": 62,
+      "gp": 11,
+      "gr": 61,
       "w": 2,
-      "l": 7,
+      "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 145
+      "pts": 149
     },
     {
       "team": "Grand Rapids Griffins",
@@ -285,7 +285,7 @@
       "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 215
+      "pts": 221
     },
     {
       "team": "Bakersfield Condors",
