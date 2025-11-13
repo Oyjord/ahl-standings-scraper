@@ -257,13 +257,24 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 13,
-      "gr": 59,
+      "gp": 14,
+      "gr": 58,
       "w": 8,
-      "l": 4,
+      "l": 5,
       "otl": 1,
       "sol": 0,
       "pts": 152
+    },
+    {
+      "team": "Calgary Wranglers",
+      "division": "Pacific",
+      "gp": 14,
+      "gr": 58,
+      "w": 7,
+      "l": 5,
+      "otl": 2,
+      "sol": 0,
+      "pts": 236
     },
     {
       "team": "Henderson Silver Knights",
@@ -286,17 +297,6 @@
       "otl": 2,
       "sol": 0,
       "pts": 137
-    },
-    {
-      "team": "Calgary Wranglers",
-      "division": "Pacific",
-      "gp": 13,
-      "gr": 59,
-      "w": 6,
-      "l": 5,
-      "otl": 2,
-      "sol": 0,
-      "pts": 236
     },
     {
       "team": "San Jose Barracuda",
