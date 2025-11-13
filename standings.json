@@ -2,6 +2,17 @@
   "division": "All Divisions",
   "teams": [
     {
+      "team": "Providence Bruins",
+      "division": "Other",
+      "gp": 12,
+      "gr": 60,
+      "w": 11,
+      "l": 1,
+      "otl": 0,
+      "sol": 0,
+      "pts": 120
+    },
+    {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
       "gp": 14,
@@ -11,17 +22,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 158
-    },
-    {
-      "team": "Providence Bruins",
-      "division": "Other",
-      "gp": 11,
-      "gr": 61,
-      "w": 10,
-      "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 120
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -70,11 +70,11 @@
     {
       "team": "Hartford Wolf Pack",
       "division": "Other",
-      "gp": 11,
-      "gr": 61,
+      "gp": 12,
+      "gr": 60,
       "w": 3,
       "l": 6,
-      "otl": 2,
+      "otl": 3,
       "sol": 0,
       "pts": 171
     },
@@ -114,10 +114,10 @@
     {
       "team": "Rochester Americans",
       "division": "Other",
-      "gp": 13,
-      "gr": 59,
+      "gp": 14,
+      "gr": 58,
       "w": 8,
-      "l": 5,
+      "l": 6,
       "otl": 0,
       "sol": 0,
       "pts": 203
@@ -136,9 +136,9 @@
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 12,
-      "gr": 60,
-      "w": 5,
+      "gp": 13,
+      "gr": 59,
+      "w": 6,
       "l": 6,
       "otl": 1,
       "sol": 0,
@@ -191,13 +191,13 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 13,
-      "gr": 59,
+      "gp": 14,
+      "gr": 58,
       "w": 7,
-      "l": 5,
+      "l": 6,
       "otl": 1,
       "sol": 0,
-      "pts": 245
+      "pts": 249
     },
     {
       "team": "Chicago Wolves",
@@ -213,13 +213,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 12,
-      "gr": 60,
-      "w": 4,
+      "gp": 13,
+      "gr": 59,
+      "w": 5,
       "l": 6,
       "otl": 2,
       "sol": 0,
-      "pts": 95
+      "pts": 105
     },
     {
       "team": "Iowa Wild",
@@ -263,7 +263,7 @@
       "l": 4,
       "otl": 1,
       "sol": 0,
-      "pts": 139
+      "pts": 146
     },
     {
       "team": "Henderson Silver Knights",
@@ -296,7 +296,7 @@
       "l": 5,
       "otl": 2,
       "sol": 0,
-      "pts": 221
+      "pts": 232
     },
     {
       "team": "San Jose Barracuda",
