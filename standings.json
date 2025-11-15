@@ -246,9 +246,9 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 14,
-      "gr": 58,
-      "w": 11,
+      "gp": 15,
+      "gr": 57,
+      "w": 12,
       "l": 2,
       "otl": 0,
       "sol": 1,
@@ -318,15 +318,15 @@
       "l": 5,
       "otl": 2,
       "sol": 0,
-      "pts": 171
+      "pts": 173
     },
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 12,
-      "gr": 60,
+      "gp": 13,
+      "gr": 59,
       "w": 5,
-      "l": 5,
+      "l": 6,
       "otl": 2,
       "sol": 0,
       "pts": 148
