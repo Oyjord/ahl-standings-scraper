@@ -35,6 +35,17 @@
       "pts": 196
     },
     {
+      "team": "Charlotte Checkers",
+      "division": "Other",
+      "gp": 12,
+      "gr": 60,
+      "w": 7,
+      "l": 4,
+      "otl": 1,
+      "sol": 0,
+      "pts": 172
+    },
+    {
       "team": "Hershey Bears",
       "division": "Other",
       "gp": 12,
@@ -44,17 +55,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 157
-    },
-    {
-      "team": "Charlotte Checkers",
-      "division": "Other",
-      "gp": 11,
-      "gr": 61,
-      "w": 6,
-      "l": 4,
-      "otl": 1,
-      "sol": 0,
-      "pts": 172
     },
     {
       "team": "Bridgeport Islanders",
@@ -180,10 +180,10 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 10,
-      "gr": 62,
+      "gp": 11,
+      "gr": 61,
       "w": 7,
-      "l": 1,
+      "l": 2,
       "otl": 2,
       "sol": 0,
       "pts": 220
@@ -200,6 +200,17 @@
       "pts": 249
     },
     {
+      "team": "Manitoba Moose",
+      "division": "Other",
+      "gp": 14,
+      "gr": 58,
+      "w": 6,
+      "l": 6,
+      "otl": 2,
+      "sol": 0,
+      "pts": 111
+    },
+    {
       "team": "Chicago Wolves",
       "division": "Other",
       "gp": 12,
@@ -211,23 +222,12 @@
       "pts": 243
     },
     {
-      "team": "Manitoba Moose",
+      "team": "Iowa Wild",
       "division": "Other",
       "gp": 13,
       "gr": 59,
-      "w": 5,
-      "l": 6,
-      "otl": 2,
-      "sol": 0,
-      "pts": 111
-    },
-    {
-      "team": "Iowa Wild",
-      "division": "Other",
-      "gp": 12,
-      "gr": 60,
       "w": 4,
-      "l": 7,
+      "l": 8,
       "otl": 0,
       "sol": 1,
       "pts": 203
