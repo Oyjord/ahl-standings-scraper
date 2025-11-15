@@ -310,15 +310,26 @@
       "pts": 137
     },
     {
-      "team": "Bakersfield Condors",
+      "team": "San Diego Gulls",
       "division": "Pacific",
       "gp": 12,
       "gr": 60,
       "w": 5,
-      "l": 5,
-      "otl": 2,
+      "l": 4,
+      "otl": 3,
       "sol": 0,
-      "pts": 173
+      "pts": 134
+    },
+    {
+      "team": "Bakersfield Condors",
+      "division": "Pacific",
+      "gp": 13,
+      "gr": 59,
+      "w": 5,
+      "l": 5,
+      "otl": 3,
+      "sol": 0,
+      "pts": 181
     },
     {
       "team": "Tucson Roadrunners",
@@ -330,17 +341,6 @@
       "otl": 2,
       "sol": 0,
       "pts": 148
-    },
-    {
-      "team": "San Diego Gulls",
-      "division": "Pacific",
-      "gp": 11,
-      "gr": 61,
-      "w": 4,
-      "l": 4,
-      "otl": 3,
-      "sol": 0,
-      "pts": 134
     },
     {
       "team": "Abbotsford Canucks",
