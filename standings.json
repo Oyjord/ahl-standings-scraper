@@ -147,13 +147,13 @@
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 9,
-      "gr": 63,
+      "gp": 10,
+      "gr": 62,
       "w": 3,
-      "l": 2,
+      "l": 3,
       "otl": 3,
       "sol": 1,
-      "pts": 143
+      "pts": 147
     },
     {
       "team": "Utica Comets",
@@ -189,37 +189,37 @@
       "pts": 228
     },
     {
-      "team": "Rockford IceHogs",
-      "division": "Other",
-      "gp": 14,
-      "gr": 58,
-      "w": 7,
-      "l": 6,
-      "otl": 1,
-      "sol": 0,
-      "pts": 256
-    },
-    {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 14,
-      "gr": 58,
-      "w": 6,
+      "gp": 15,
+      "gr": 57,
+      "w": 7,
       "l": 6,
       "otl": 2,
       "sol": 0,
-      "pts": 122
+      "pts": 154
     },
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 12,
-      "gr": 60,
-      "w": 6,
+      "gp": 13,
+      "gr": 59,
+      "w": 7,
       "l": 4,
       "otl": 2,
       "sol": 0,
       "pts": 257
+    },
+    {
+      "team": "Rockford IceHogs",
+      "division": "Other",
+      "gp": 15,
+      "gr": 57,
+      "w": 7,
+      "l": 7,
+      "otl": 1,
+      "sol": 0,
+      "pts": 319
     },
     {
       "team": "Iowa Wild",
@@ -252,7 +252,7 @@
       "l": 2,
       "otl": 0,
       "sol": 1,
-      "pts": 184
+      "pts": 186
     },
     {
       "team": "Ontario Reign",
@@ -263,7 +263,7 @@
       "l": 5,
       "otl": 1,
       "sol": 0,
-      "pts": 156
+      "pts": 160
     },
     {
       "team": "Calgary Wranglers",
@@ -296,7 +296,7 @@
       "l": 5,
       "otl": 1,
       "sol": 1,
-      "pts": 193
+      "pts": 199
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -318,7 +318,7 @@
       "l": 4,
       "otl": 3,
       "sol": 0,
-      "pts": 143
+      "pts": 156
     },
     {
       "team": "Bakersfield Condors",
@@ -340,7 +340,7 @@
       "l": 6,
       "otl": 2,
       "sol": 0,
-      "pts": 154
+      "pts": 156
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 9,
       "otl": 0,
       "sol": 2,
-      "pts": 168
+      "pts": 177
     }
   ]
 }
