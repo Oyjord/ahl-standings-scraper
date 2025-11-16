@@ -15,24 +15,35 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 13,
-      "gr": 59,
+      "gp": 14,
+      "gr": 58,
       "w": 12,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 128
+      "pts": 130
     },
     {
       "team": "Lehigh Valley Phantoms",
+      "division": "Other",
+      "gp": 15,
+      "gr": 57,
+      "w": 9,
+      "l": 4,
+      "otl": 1,
+      "sol": 1,
+      "pts": 210
+    },
+    {
+      "team": "Hershey Bears",
       "division": "Other",
       "gp": 14,
       "gr": 58,
       "w": 9,
       "l": 4,
-      "otl": 0,
-      "sol": 1,
-      "pts": 200
+      "otl": 1,
+      "sol": 0,
+      "pts": 175
     },
     {
       "team": "Charlotte Checkers",
@@ -44,17 +55,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 180
-    },
-    {
-      "team": "Hershey Bears",
-      "division": "Other",
-      "gp": 13,
-      "gr": 59,
-      "w": 8,
-      "l": 4,
-      "otl": 1,
-      "sol": 0,
-      "pts": 167
     },
     {
       "team": "Bridgeport Islanders",
@@ -90,6 +90,17 @@
       "pts": 153
     },
     {
+      "team": "Laval Rocket",
+      "division": "Other",
+      "gp": 15,
+      "gr": 57,
+      "w": 10,
+      "l": 5,
+      "otl": 0,
+      "sol": 0,
+      "pts": 252
+    },
+    {
       "team": "Rochester Americans",
       "division": "Other",
       "gp": 16,
@@ -99,17 +110,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 236
-    },
-    {
-      "team": "Laval Rocket",
-      "division": "Other",
-      "gp": 14,
-      "gr": 58,
-      "w": 9,
-      "l": 5,
-      "otl": 0,
-      "sol": 0,
-      "pts": 246
     },
     {
       "team": "Syracuse Crunch",
@@ -153,7 +153,7 @@
       "l": 3,
       "otl": 3,
       "sol": 1,
-      "pts": 147
+      "pts": 153
     },
     {
       "team": "Utica Comets",
@@ -208,7 +208,7 @@
       "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 257
+      "pts": 267
     },
     {
       "team": "Rockford IceHogs",
@@ -219,7 +219,7 @@
       "l": 7,
       "otl": 1,
       "sol": 0,
-      "pts": 319
+      "pts": 325
     },
     {
       "team": "Iowa Wild",
@@ -241,7 +241,7 @@
       "l": 7,
       "otl": 1,
       "sol": 0,
-      "pts": 105
+      "pts": 107
     },
     {
       "team": "Colorado Eagles",
