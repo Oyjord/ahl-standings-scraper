@@ -263,7 +263,7 @@
       "l": 5,
       "otl": 2,
       "sol": 0,
-      "pts": 252
+      "pts": 258
     },
     {
       "team": "Ontario Reign",
@@ -296,7 +296,7 @@
       "l": 5,
       "otl": 1,
       "sol": 0,
-      "pts": 98
+      "pts": 104
     },
     {
       "team": "San Diego Gulls",
@@ -340,7 +340,7 @@
       "l": 5,
       "otl": 2,
       "sol": 0,
-      "pts": 195
+      "pts": 209
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 10,
       "otl": 0,
       "sol": 2,
-      "pts": 207
+      "pts": 209
     }
   ]
 }
