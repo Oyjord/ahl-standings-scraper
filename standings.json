@@ -213,12 +213,12 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 15,
-      "gr": 57,
+      "gp": 16,
+      "gr": 56,
       "w": 7,
       "l": 7,
       "otl": 1,
-      "sol": 0,
+      "sol": 1,
       "pts": 327
     },
     {
@@ -235,9 +235,9 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 11,
-      "gr": 61,
-      "w": 3,
+      "gp": 12,
+      "gr": 60,
+      "w": 4,
       "l": 7,
       "otl": 1,
       "sol": 0,
@@ -263,7 +263,7 @@
       "l": 5,
       "otl": 2,
       "sol": 0,
-      "pts": 248
+      "pts": 252
     },
     {
       "team": "Ontario Reign",
@@ -296,7 +296,7 @@
       "l": 5,
       "otl": 1,
       "sol": 0,
-      "pts": 96
+      "pts": 98
     },
     {
       "team": "San Diego Gulls",
@@ -340,7 +340,7 @@
       "l": 5,
       "otl": 2,
       "sol": 0,
-      "pts": 193
+      "pts": 195
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 10,
       "otl": 0,
       "sol": 2,
-      "pts": 205
+      "pts": 207
     }
   ]
 }
