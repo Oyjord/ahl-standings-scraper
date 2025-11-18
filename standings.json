@@ -70,24 +70,24 @@
     {
       "team": "Hartford Wolf Pack",
       "division": "Other",
-      "gp": 14,
-      "gr": 58,
-      "w": 3,
+      "gp": 15,
+      "gr": 57,
+      "w": 4,
       "l": 7,
       "otl": 4,
       "sol": 0,
-      "pts": 199
+      "pts": 213
     },
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 14,
-      "gr": 58,
+      "gp": 15,
+      "gr": 57,
       "w": 2,
       "l": 10,
-      "otl": 1,
+      "otl": 2,
       "sol": 1,
-      "pts": 153
+      "pts": 163
     },
     {
       "team": "Laval Rocket",
