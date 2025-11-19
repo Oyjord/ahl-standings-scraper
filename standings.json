@@ -112,6 +112,17 @@
       "pts": 236
     },
     {
+      "team": "Belleville Senators",
+      "division": "Other",
+      "gp": 16,
+      "gr": 56,
+      "w": 9,
+      "l": 6,
+      "otl": 1,
+      "sol": 0,
+      "pts": 166
+    },
+    {
       "team": "Syracuse Crunch",
       "division": "Other",
       "gp": 15,
@@ -123,26 +134,15 @@
       "pts": 221
     },
     {
-      "team": "Belleville Senators",
+      "team": "Toronto Marlies",
       "division": "Other",
       "gp": 15,
       "gr": 57,
-      "w": 8,
-      "l": 6,
-      "otl": 1,
-      "sol": 0,
-      "pts": 160
-    },
-    {
-      "team": "Toronto Marlies",
-      "division": "Other",
-      "gp": 14,
-      "gr": 58,
       "w": 6,
-      "l": 6,
+      "l": 7,
       "otl": 1,
       "sol": 1,
-      "pts": 136
+      "pts": 146
     },
     {
       "team": "Cleveland Monsters",
