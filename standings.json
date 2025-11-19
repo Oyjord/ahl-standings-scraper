@@ -224,24 +224,24 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 14,
-      "gr": 58,
-      "w": 4,
+      "gp": 15,
+      "gr": 57,
+      "w": 5,
       "l": 9,
       "otl": 0,
       "sol": 1,
-      "pts": 217
+      "pts": 219
     },
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 12,
-      "gr": 60,
+      "gp": 13,
+      "gr": 59,
       "w": 4,
-      "l": 7,
+      "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 121
+      "pts": 125
     },
     {
       "team": "Colorado Eagles",
@@ -263,7 +263,7 @@
       "l": 6,
       "otl": 2,
       "sol": 0,
-      "pts": 258
+      "pts": 260
     },
     {
       "team": "Henderson Silver Knights",
@@ -329,7 +329,7 @@
       "l": 5,
       "otl": 3,
       "sol": 0,
-      "pts": 217
+      "pts": 219
     },
     {
       "team": "Tucson Roadrunners",
