@@ -26,13 +26,13 @@
     {
       "team": "Lehigh Valley Phantoms",
       "division": "Other",
-      "gp": 15,
-      "gr": 57,
-      "w": 9,
+      "gp": 16,
+      "gr": 56,
+      "w": 10,
       "l": 4,
       "otl": 1,
       "sol": 1,
-      "pts": 218
+      "pts": 222
     },
     {
       "team": "Hershey Bears",
@@ -92,21 +92,32 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 15,
-      "gr": 57,
+      "gp": 16,
+      "gr": 56,
       "w": 10,
-      "l": 5,
+      "l": 6,
       "otl": 0,
       "sol": 0,
-      "pts": 269
+      "pts": 273
     },
     {
-      "team": "Rochester Americans",
+      "team": "Syracuse Crunch",
       "division": "Other",
       "gp": 16,
       "gr": 56,
       "w": 10,
       "l": 6,
+      "otl": 0,
+      "sol": 0,
+      "pts": 230
+    },
+    {
+      "team": "Rochester Americans",
+      "division": "Other",
+      "gp": 17,
+      "gr": 55,
+      "w": 10,
+      "l": 7,
       "otl": 0,
       "sol": 0,
       "pts": 246
@@ -121,17 +132,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 166
-    },
-    {
-      "team": "Syracuse Crunch",
-      "division": "Other",
-      "gp": 15,
-      "gr": 57,
-      "w": 9,
-      "l": 6,
-      "otl": 0,
-      "sol": 0,
-      "pts": 228
     },
     {
       "team": "Toronto Marlies",
@@ -175,7 +175,7 @@
       "l": 0,
       "otl": 0,
       "sol": 1,
-      "pts": 120
+      "pts": 133
     },
     {
       "team": "Milwaukee Admirals",
@@ -219,7 +219,7 @@
       "l": 7,
       "otl": 1,
       "sol": 1,
-      "pts": 329
+      "pts": 336
     },
     {
       "team": "Iowa Wild",
@@ -307,7 +307,7 @@
       "l": 5,
       "otl": 1,
       "sol": 1,
-      "pts": 201
+      "pts": 203
     },
     {
       "team": "Coachella Valley Firebirds",
