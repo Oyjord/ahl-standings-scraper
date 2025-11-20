@@ -169,9 +169,9 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 11,
-      "gr": 61,
-      "w": 10,
+      "gp": 12,
+      "gr": 60,
+      "w": 11,
       "l": 0,
       "otl": 0,
       "sol": 1,
@@ -213,13 +213,13 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 16,
-      "gr": 56,
+      "gp": 17,
+      "gr": 55,
       "w": 7,
-      "l": 7,
+      "l": 8,
       "otl": 1,
       "sol": 1,
-      "pts": 336
+      "pts": 338
     },
     {
       "team": "Iowa Wild",
