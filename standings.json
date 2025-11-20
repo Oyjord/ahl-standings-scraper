@@ -255,6 +255,17 @@
       "pts": 188
     },
     {
+      "team": "San Jose Barracuda",
+      "division": "Pacific",
+      "gp": 15,
+      "gr": 57,
+      "w": 8,
+      "l": 5,
+      "otl": 1,
+      "sol": 1,
+      "pts": 209
+    },
+    {
       "team": "Calgary Wranglers",
       "division": "Pacific",
       "gp": 17,
@@ -299,15 +310,15 @@
       "pts": 225
     },
     {
-      "team": "San Jose Barracuda",
+      "team": "San Diego Gulls",
       "division": "Pacific",
       "gp": 14,
       "gr": 58,
-      "w": 7,
-      "l": 5,
-      "otl": 1,
-      "sol": 1,
-      "pts": 209
+      "w": 6,
+      "l": 4,
+      "otl": 4,
+      "sol": 0,
+      "pts": 186
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -319,17 +330,6 @@
       "otl": 2,
       "sol": 0,
       "pts": 209
-    },
-    {
-      "team": "San Diego Gulls",
-      "division": "Pacific",
-      "gp": 13,
-      "gr": 59,
-      "w": 6,
-      "l": 4,
-      "otl": 3,
-      "sol": 0,
-      "pts": 186
     },
     {
       "team": "Tucson Roadrunners",
