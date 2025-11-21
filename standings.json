@@ -37,9 +37,9 @@
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 14,
-      "gr": 58,
-      "w": 9,
+      "gp": 15,
+      "gr": 57,
+      "w": 10,
       "l": 4,
       "otl": 1,
       "sol": 0,
@@ -147,13 +147,13 @@
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 11,
-      "gr": 61,
+      "gp": 12,
+      "gr": 60,
       "w": 4,
-      "l": 3,
+      "l": 4,
       "otl": 3,
       "sol": 1,
-      "pts": 166
+      "pts": 168
     },
     {
       "team": "Utica Comets",
