@@ -197,7 +197,7 @@
       "l": 2,
       "otl": 2,
       "sol": 0,
-      "pts": 228
+      "pts": 230
     },
     {
       "team": "Chicago Wolves",
@@ -219,7 +219,7 @@
       "l": 8,
       "otl": 1,
       "sol": 1,
-      "pts": 356
+      "pts": 358
     },
     {
       "team": "Iowa Wild",
@@ -241,7 +241,7 @@
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 154
+      "pts": 156
     },
     {
       "team": "Colorado Eagles",
@@ -285,7 +285,7 @@
       "l": 5,
       "otl": 1,
       "sol": 0,
-      "pts": 108
+      "pts": 112
     },
     {
       "team": "Ontario Reign",
@@ -307,7 +307,7 @@
       "l": 5,
       "otl": 3,
       "sol": 0,
-      "pts": 227
+      "pts": 231
     },
     {
       "team": "San Diego Gulls",
@@ -351,7 +351,7 @@
       "l": 11,
       "otl": 0,
       "sol": 2,
-      "pts": 209
+      "pts": 215
     }
   ]
 }
