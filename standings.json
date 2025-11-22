@@ -200,6 +200,17 @@
       "pts": 230
     },
     {
+      "team": "Rockford IceHogs",
+      "division": "Other",
+      "gp": 18,
+      "gr": 54,
+      "w": 8,
+      "l": 8,
+      "otl": 1,
+      "sol": 1,
+      "pts": 358
+    },
+    {
       "team": "Chicago Wolves",
       "division": "Other",
       "gp": 15,
@@ -209,17 +220,6 @@
       "otl": 3,
       "sol": 0,
       "pts": 271
-    },
-    {
-      "team": "Rockford IceHogs",
-      "division": "Other",
-      "gp": 17,
-      "gr": 55,
-      "w": 7,
-      "l": 8,
-      "otl": 1,
-      "sol": 1,
-      "pts": 358
     },
     {
       "team": "Iowa Wild",
@@ -235,11 +235,11 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 13,
-      "gr": 59,
+      "gp": 14,
+      "gr": 58,
       "w": 4,
       "l": 8,
-      "otl": 1,
+      "otl": 2,
       "sol": 0,
       "pts": 156
     },
@@ -263,7 +263,7 @@
       "l": 5,
       "otl": 1,
       "sol": 1,
-      "pts": 213
+      "pts": 237
     },
     {
       "team": "Calgary Wranglers",
@@ -296,7 +296,7 @@
       "l": 6,
       "otl": 1,
       "sol": 0,
-      "pts": 164
+      "pts": 166
     },
     {
       "team": "Bakersfield Condors",
@@ -307,7 +307,7 @@
       "l": 5,
       "otl": 3,
       "sol": 0,
-      "pts": 231
+      "pts": 235
     },
     {
       "team": "San Diego Gulls",
@@ -318,7 +318,7 @@
       "l": 4,
       "otl": 4,
       "sol": 0,
-      "pts": 188
+      "pts": 190
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -329,7 +329,7 @@
       "l": 5,
       "otl": 2,
       "sol": 0,
-      "pts": 213
+      "pts": 215
     },
     {
       "team": "Tucson Roadrunners",
@@ -351,7 +351,7 @@
       "l": 11,
       "otl": 0,
       "sol": 2,
-      "pts": 227
+      "pts": 249
     }
   ]
 }
