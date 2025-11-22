@@ -98,7 +98,7 @@
       "l": 6,
       "otl": 0,
       "sol": 0,
-      "pts": 275
+      "pts": 294
     },
     {
       "team": "Syracuse Crunch",
@@ -131,7 +131,7 @@
       "l": 6,
       "otl": 2,
       "sol": 0,
-      "pts": 168
+      "pts": 187
     },
     {
       "team": "Toronto Marlies",
@@ -142,7 +142,7 @@
       "l": 7,
       "otl": 1,
       "sol": 1,
-      "pts": 146
+      "pts": 159
     },
     {
       "team": "Cleveland Monsters",
@@ -178,6 +178,17 @@
       "pts": 135
     },
     {
+      "team": "Manitoba Moose",
+      "division": "Other",
+      "gp": 17,
+      "gr": 55,
+      "w": 9,
+      "l": 6,
+      "otl": 2,
+      "sol": 0,
+      "pts": 166
+    },
+    {
       "team": "Milwaukee Admirals",
       "division": "Other",
       "gp": 13,
@@ -187,17 +198,6 @@
       "otl": 2,
       "sol": 0,
       "pts": 230
-    },
-    {
-      "team": "Manitoba Moose",
-      "division": "Other",
-      "gp": 16,
-      "gr": 56,
-      "w": 8,
-      "l": 6,
-      "otl": 2,
-      "sol": 0,
-      "pts": 162
     },
     {
       "team": "Rockford IceHogs",
@@ -213,13 +213,13 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 15,
-      "gr": 57,
+      "gp": 16,
+      "gr": 56,
       "w": 7,
-      "l": 5,
+      "l": 6,
       "otl": 3,
       "sol": 0,
-      "pts": 271
+      "pts": 277
     },
     {
       "team": "Iowa Wild",
@@ -230,7 +230,7 @@
       "l": 9,
       "otl": 0,
       "sol": 1,
-      "pts": 219
+      "pts": 230
     },
     {
       "team": "Texas Stars",
