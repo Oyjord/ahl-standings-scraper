@@ -92,13 +92,13 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 17,
-      "gr": 55,
-      "w": 11,
+      "gp": 18,
+      "gr": 54,
+      "w": 12,
       "l": 6,
       "otl": 0,
       "sol": 0,
-      "pts": 294
+      "pts": 313
     },
     {
       "team": "Syracuse Crunch",
@@ -125,13 +125,13 @@
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 17,
-      "gr": 55,
+      "gp": 18,
+      "gr": 54,
       "w": 9,
-      "l": 6,
+      "l": 7,
       "otl": 2,
       "sol": 0,
-      "pts": 187
+      "pts": 218
     },
     {
       "team": "Toronto Marlies",
@@ -142,7 +142,7 @@
       "l": 7,
       "otl": 1,
       "sol": 1,
-      "pts": 159
+      "pts": 161
     },
     {
       "team": "Cleveland Monsters",
@@ -230,7 +230,7 @@
       "l": 9,
       "otl": 0,
       "sol": 1,
-      "pts": 230
+      "pts": 232
     },
     {
       "team": "Texas Stars",
