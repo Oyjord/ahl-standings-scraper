@@ -197,15 +197,15 @@
       "l": 2,
       "otl": 2,
       "sol": 0,
-      "pts": 241
+      "pts": 243
     },
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 18,
-      "gr": 54,
+      "gp": 19,
+      "gr": 53,
       "w": 8,
-      "l": 8,
+      "l": 9,
       "otl": 1,
       "sol": 1,
       "pts": 371
@@ -222,6 +222,17 @@
       "pts": 277
     },
     {
+      "team": "Texas Stars",
+      "division": "Other",
+      "gp": 15,
+      "gr": 57,
+      "w": 5,
+      "l": 8,
+      "otl": 2,
+      "sol": 0,
+      "pts": 171
+    },
+    {
       "team": "Iowa Wild",
       "division": "Other",
       "gp": 16,
@@ -231,17 +242,6 @@
       "otl": 0,
       "sol": 1,
       "pts": 254
-    },
-    {
-      "team": "Texas Stars",
-      "division": "Other",
-      "gp": 14,
-      "gr": 58,
-      "w": 4,
-      "l": 8,
-      "otl": 2,
-      "sol": 0,
-      "pts": 171
     },
     {
       "team": "Colorado Eagles",
@@ -263,7 +263,7 @@
       "l": 5,
       "otl": 1,
       "sol": 1,
-      "pts": 254
+      "pts": 258
     },
     {
       "team": "Ontario Reign",
@@ -318,7 +318,7 @@
       "l": 6,
       "otl": 3,
       "sol": 0,
-      "pts": 258
+      "pts": 260
     },
     {
       "team": "San Diego Gulls",
@@ -351,7 +351,7 @@
       "l": 12,
       "otl": 0,
       "sol": 2,
-      "pts": 266
+      "pts": 274
     }
   ]
 }
