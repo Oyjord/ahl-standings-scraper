@@ -255,6 +255,17 @@
       "pts": 194
     },
     {
+      "team": "San Jose Barracuda",
+      "division": "Pacific",
+      "gp": 17,
+      "gr": 55,
+      "w": 10,
+      "l": 5,
+      "otl": 1,
+      "sol": 1,
+      "pts": 270
+    },
+    {
       "team": "Ontario Reign",
       "division": "Pacific",
       "gp": 17,
@@ -264,17 +275,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 198
-    },
-    {
-      "team": "San Jose Barracuda",
-      "division": "Pacific",
-      "gp": 16,
-      "gr": 56,
-      "w": 9,
-      "l": 5,
-      "otl": 1,
-      "sol": 1,
-      "pts": 270
     },
     {
       "team": "Calgary Wranglers",
@@ -345,11 +345,11 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 17,
-      "gr": 55,
+      "gp": 18,
+      "gr": 54,
       "w": 3,
       "l": 12,
-      "otl": 0,
+      "otl": 1,
       "sol": 2,
       "pts": 284
     }
