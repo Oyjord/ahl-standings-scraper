@@ -191,13 +191,13 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 13,
-      "gr": 59,
+      "gp": 14,
+      "gr": 58,
       "w": 9,
-      "l": 2,
+      "l": 3,
       "otl": 2,
       "sol": 0,
-      "pts": 243
+      "pts": 245
     },
     {
       "team": "Rockford IceHogs",
@@ -246,13 +246,13 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 16,
-      "gr": 56,
+      "gp": 17,
+      "gr": 55,
       "w": 12,
-      "l": 3,
+      "l": 4,
       "otl": 0,
       "sol": 1,
-      "pts": 188
+      "pts": 194
     },
     {
       "team": "San Jose Barracuda",
@@ -266,6 +266,17 @@
       "pts": 258
     },
     {
+      "team": "Henderson Silver Knights",
+      "division": "Pacific",
+      "gp": 16,
+      "gr": 56,
+      "w": 9,
+      "l": 6,
+      "otl": 1,
+      "sol": 0,
+      "pts": 125
+    },
+    {
       "team": "Ontario Reign",
       "division": "Pacific",
       "gp": 16,
@@ -274,7 +285,7 @@
       "l": 6,
       "otl": 1,
       "sol": 0,
-      "pts": 187
+      "pts": 194
     },
     {
       "team": "Calgary Wranglers",
@@ -285,7 +296,7 @@
       "l": 7,
       "otl": 2,
       "sol": 0,
-      "pts": 267
+      "pts": 275
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -299,17 +310,6 @@
       "pts": 219
     },
     {
-      "team": "Henderson Silver Knights",
-      "division": "Pacific",
-      "gp": 15,
-      "gr": 57,
-      "w": 8,
-      "l": 6,
-      "otl": 1,
-      "sol": 0,
-      "pts": 123
-    },
-    {
       "team": "Bakersfield Condors",
       "division": "Pacific",
       "gp": 16,
@@ -318,7 +318,7 @@
       "l": 6,
       "otl": 3,
       "sol": 0,
-      "pts": 260
+      "pts": 269
     },
     {
       "team": "San Diego Gulls",
@@ -329,14 +329,14 @@
       "l": 4,
       "otl": 5,
       "sol": 0,
-      "pts": 203
+      "pts": 207
     },
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 14,
-      "gr": 58,
-      "w": 6,
+      "gp": 15,
+      "gr": 57,
+      "w": 7,
       "l": 6,
       "otl": 2,
       "sol": 0,
