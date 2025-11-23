@@ -197,7 +197,7 @@
       "l": 2,
       "otl": 2,
       "sol": 0,
-      "pts": 239
+      "pts": 241
     },
     {
       "team": "Rockford IceHogs",
@@ -208,7 +208,7 @@
       "l": 8,
       "otl": 1,
       "sol": 1,
-      "pts": 367
+      "pts": 371
     },
     {
       "team": "Chicago Wolves",
@@ -241,7 +241,7 @@
       "l": 8,
       "otl": 2,
       "sol": 0,
-      "pts": 165
+      "pts": 171
     },
     {
       "team": "Colorado Eagles",
@@ -263,7 +263,7 @@
       "l": 5,
       "otl": 1,
       "sol": 1,
-      "pts": 252
+      "pts": 254
     },
     {
       "team": "Ontario Reign",
@@ -285,7 +285,7 @@
       "l": 7,
       "otl": 2,
       "sol": 0,
-      "pts": 262
+      "pts": 267
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -307,7 +307,7 @@
       "l": 6,
       "otl": 1,
       "sol": 0,
-      "pts": 119
+      "pts": 123
     },
     {
       "team": "Bakersfield Condors",
@@ -318,7 +318,7 @@
       "l": 6,
       "otl": 3,
       "sol": 0,
-      "pts": 256
+      "pts": 258
     },
     {
       "team": "San Diego Gulls",
@@ -329,7 +329,7 @@
       "l": 4,
       "otl": 5,
       "sol": 0,
-      "pts": 198
+      "pts": 203
     },
     {
       "team": "Tucson Roadrunners",
@@ -351,7 +351,7 @@
       "l": 12,
       "otl": 0,
       "sol": 2,
-      "pts": 264
+      "pts": 266
     }
   ]
 }
