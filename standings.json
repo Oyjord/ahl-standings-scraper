@@ -136,13 +136,13 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 16,
-      "gr": 56,
-      "w": 7,
+      "gp": 17,
+      "gr": 55,
+      "w": 8,
       "l": 7,
       "otl": 1,
       "sol": 1,
-      "pts": 175
+      "pts": 183
     },
     {
       "team": "Cleveland Monsters",
@@ -235,13 +235,13 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 16,
-      "gr": 56,
+      "gp": 17,
+      "gr": 55,
       "w": 5,
-      "l": 10,
+      "l": 11,
       "otl": 0,
       "sol": 1,
-      "pts": 256
+      "pts": 260
     },
     {
       "team": "Colorado Eagles",
@@ -252,7 +252,7 @@
       "l": 4,
       "otl": 0,
       "sol": 1,
-      "pts": 194
+      "pts": 198
     },
     {
       "team": "San Jose Barracuda",
@@ -318,7 +318,7 @@
       "l": 5,
       "otl": 2,
       "sol": 0,
-      "pts": 228
+      "pts": 230
     },
     {
       "team": "San Diego Gulls",
@@ -340,7 +340,7 @@
       "l": 6,
       "otl": 2,
       "sol": 0,
-      "pts": 160
+      "pts": 162
     },
     {
       "team": "Abbotsford Canucks",
