@@ -125,13 +125,13 @@
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 18,
-      "gr": 54,
-      "w": 9,
+      "gp": 19,
+      "gr": 53,
+      "w": 10,
       "l": 7,
       "otl": 2,
       "sol": 0,
-      "pts": 218
+      "pts": 224
     },
     {
       "team": "Toronto Marlies",
@@ -180,13 +180,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 17,
-      "gr": 55,
+      "gp": 18,
+      "gr": 54,
       "w": 9,
-      "l": 6,
+      "l": 7,
       "otl": 2,
       "sol": 0,
-      "pts": 166
+      "pts": 178
     },
     {
       "team": "Milwaukee Admirals",
