@@ -169,9 +169,9 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 14,
-      "gr": 58,
-      "w": 12,
+      "gp": 15,
+      "gr": 57,
+      "w": 13,
       "l": 1,
       "otl": 0,
       "sol": 1,
@@ -224,10 +224,10 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 15,
-      "gr": 57,
+      "gp": 16,
+      "gr": 56,
       "w": 5,
-      "l": 8,
+      "l": 9,
       "otl": 2,
       "sol": 0,
       "pts": 177
