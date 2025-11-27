@@ -257,24 +257,24 @@
     {
       "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 17,
-      "gr": 55,
-      "w": 10,
+      "gp": 18,
+      "gr": 54,
+      "w": 11,
       "l": 5,
       "otl": 1,
       "sol": 1,
-      "pts": 270
+      "pts": 276
     },
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 19,
-      "gr": 53,
+      "gp": 20,
+      "gr": 52,
       "w": 10,
-      "l": 7,
+      "l": 8,
       "otl": 2,
       "sol": 0,
-      "pts": 286
+      "pts": 292
     },
     {
       "team": "Ontario Reign",
