@@ -191,9 +191,9 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 14,
-      "gr": 58,
-      "w": 9,
+      "gp": 15,
+      "gr": 57,
+      "w": 10,
       "l": 3,
       "otl": 2,
       "sol": 0,
@@ -235,10 +235,10 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 17,
-      "gr": 55,
+      "gp": 18,
+      "gr": 54,
       "w": 5,
-      "l": 11,
+      "l": 12,
       "otl": 0,
       "sol": 1,
       "pts": 313
@@ -299,6 +299,17 @@
       "pts": 125
     },
     {
+      "team": "San Diego Gulls",
+      "division": "Pacific",
+      "gp": 17,
+      "gr": 55,
+      "w": 7,
+      "l": 5,
+      "otl": 5,
+      "sol": 0,
+      "pts": 207
+    },
+    {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
       "gp": 16,
@@ -321,23 +332,12 @@
       "pts": 273
     },
     {
-      "team": "San Diego Gulls",
-      "division": "Pacific",
-      "gp": 16,
-      "gr": 56,
-      "w": 6,
-      "l": 5,
-      "otl": 5,
-      "sol": 0,
-      "pts": 207
-    },
-    {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 16,
-      "gr": 56,
+      "gp": 17,
+      "gr": 55,
       "w": 7,
-      "l": 7,
+      "l": 8,
       "otl": 2,
       "sol": 0,
       "pts": 166
