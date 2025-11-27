@@ -125,13 +125,13 @@
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 19,
-      "gr": 53,
+      "gp": 20,
+      "gr": 52,
       "w": 10,
-      "l": 7,
+      "l": 8,
       "otl": 2,
       "sol": 0,
-      "pts": 234
+      "pts": 236
     },
     {
       "team": "Toronto Marlies",
@@ -169,9 +169,9 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 15,
-      "gr": 57,
-      "w": 13,
+      "gp": 16,
+      "gr": 56,
+      "w": 14,
       "l": 1,
       "otl": 0,
       "sol": 1,
@@ -180,13 +180,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 18,
-      "gr": 54,
-      "w": 9,
+      "gp": 19,
+      "gr": 53,
+      "w": 10,
       "l": 7,
       "otl": 2,
       "sol": 0,
-      "pts": 186
+      "pts": 190
     },
     {
       "team": "Milwaukee Admirals",
@@ -197,37 +197,37 @@
       "l": 3,
       "otl": 2,
       "sol": 0,
-      "pts": 270
+      "pts": 286
+    },
+    {
+      "team": "Chicago Wolves",
+      "division": "Other",
+      "gp": 17,
+      "gr": 55,
+      "w": 8,
+      "l": 6,
+      "otl": 3,
+      "sol": 0,
+      "pts": 287
     },
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 19,
-      "gr": 53,
+      "gp": 20,
+      "gr": 52,
       "w": 8,
-      "l": 9,
+      "l": 10,
       "otl": 1,
       "sol": 1,
       "pts": 381
     },
     {
-      "team": "Chicago Wolves",
-      "division": "Other",
-      "gp": 16,
-      "gr": 56,
-      "w": 7,
-      "l": 6,
-      "otl": 3,
-      "sol": 0,
-      "pts": 285
-    },
-    {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 16,
-      "gr": 56,
+      "gp": 17,
+      "gr": 55,
       "w": 5,
-      "l": 9,
+      "l": 10,
       "otl": 2,
       "sol": 0,
       "pts": 199
@@ -241,7 +241,7 @@
       "l": 11,
       "otl": 0,
       "sol": 1,
-      "pts": 291
+      "pts": 313
     },
     {
       "team": "Colorado Eagles",
@@ -274,7 +274,7 @@
       "l": 7,
       "otl": 2,
       "sol": 0,
-      "pts": 284
+      "pts": 286
     },
     {
       "team": "Ontario Reign",
