@@ -54,18 +54,18 @@
       "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 194
+      "pts": 200
     },
     {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 17,
-      "gr": 55,
+      "gp": 18,
+      "gr": 54,
       "w": 6,
-      "l": 9,
+      "l": 10,
       "otl": 1,
       "sol": 1,
-      "pts": 246
+      "pts": 259
     },
     {
       "team": "Hartford Wolf Pack",
@@ -81,13 +81,13 @@
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 17,
-      "gr": 55,
-      "w": 4,
+      "gp": 18,
+      "gr": 54,
+      "w": 5,
       "l": 10,
       "otl": 2,
       "sol": 1,
-      "pts": 183
+      "pts": 194
     },
     {
       "team": "Syracuse Crunch",
@@ -142,7 +142,7 @@
       "l": 8,
       "otl": 1,
       "sol": 1,
-      "pts": 193
+      "pts": 195
     },
     {
       "team": "Cleveland Monsters",
