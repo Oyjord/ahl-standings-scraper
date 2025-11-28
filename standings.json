@@ -35,6 +35,17 @@
       "pts": 234
     },
     {
+      "team": "Charlotte Checkers",
+      "division": "Other",
+      "gp": 16,
+      "gr": 56,
+      "w": 10,
+      "l": 4,
+      "otl": 2,
+      "sol": 0,
+      "pts": 209
+    },
+    {
       "team": "Hershey Bears",
       "division": "Other",
       "gp": 17,
@@ -44,17 +55,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 250
-    },
-    {
-      "team": "Charlotte Checkers",
-      "division": "Other",
-      "gp": 15,
-      "gr": 57,
-      "w": 9,
-      "l": 4,
-      "otl": 2,
-      "sol": 0,
-      "pts": 200
     },
     {
       "team": "Bridgeport Islanders",
@@ -136,13 +136,13 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 18,
-      "gr": 54,
+      "gp": 19,
+      "gr": 53,
       "w": 8,
-      "l": 8,
+      "l": 9,
       "otl": 1,
       "sol": 1,
-      "pts": 195
+      "pts": 214
     },
     {
       "team": "Cleveland Monsters",
@@ -340,7 +340,7 @@
       "l": 8,
       "otl": 2,
       "sol": 0,
-      "pts": 166
+      "pts": 174
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 12,
       "otl": 1,
       "sol": 2,
-      "pts": 284
+      "pts": 288
     }
   ]
 }
