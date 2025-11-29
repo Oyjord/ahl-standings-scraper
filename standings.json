@@ -178,6 +178,17 @@
       "pts": 204
     },
     {
+      "team": "Milwaukee Admirals",
+      "division": "Other",
+      "gp": 16,
+      "gr": 56,
+      "w": 11,
+      "l": 3,
+      "otl": 2,
+      "sol": 0,
+      "pts": 317
+    },
+    {
       "team": "Manitoba Moose",
       "division": "Other",
       "gp": 19,
@@ -187,17 +198,6 @@
       "otl": 2,
       "sol": 0,
       "pts": 190
-    },
-    {
-      "team": "Milwaukee Admirals",
-      "division": "Other",
-      "gp": 15,
-      "gr": 57,
-      "w": 10,
-      "l": 3,
-      "otl": 2,
-      "sol": 0,
-      "pts": 317
     },
     {
       "team": "Chicago Wolves",
@@ -213,13 +213,13 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 20,
-      "gr": 52,
+      "gp": 21,
+      "gr": 51,
       "w": 8,
       "l": 10,
-      "otl": 1,
+      "otl": 2,
       "sol": 1,
-      "pts": 400
+      "pts": 402
     },
     {
       "team": "Texas Stars",
@@ -296,7 +296,7 @@
       "l": 6,
       "otl": 1,
       "sol": 0,
-      "pts": 127
+      "pts": 129
     },
     {
       "team": "San Diego Gulls",
@@ -307,7 +307,7 @@
       "l": 5,
       "otl": 5,
       "sol": 0,
-      "pts": 209
+      "pts": 213
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -318,7 +318,7 @@
       "l": 5,
       "otl": 3,
       "sol": 0,
-      "pts": 236
+      "pts": 238
     },
     {
       "team": "Bakersfield Condors",
