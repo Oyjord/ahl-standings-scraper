@@ -266,6 +266,17 @@
       "pts": 288
     },
     {
+      "team": "Ontario Reign",
+      "division": "Pacific",
+      "gp": 18,
+      "gr": 54,
+      "w": 11,
+      "l": 6,
+      "otl": 1,
+      "sol": 0,
+      "pts": 204
+    },
+    {
       "team": "Calgary Wranglers",
       "division": "Pacific",
       "gp": 20,
@@ -275,17 +286,6 @@
       "otl": 2,
       "sol": 0,
       "pts": 292
-    },
-    {
-      "team": "Ontario Reign",
-      "division": "Pacific",
-      "gp": 17,
-      "gr": 55,
-      "w": 10,
-      "l": 6,
-      "otl": 1,
-      "sol": 0,
-      "pts": 204
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -301,10 +301,10 @@
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 16,
-      "gr": 56,
+      "gp": 17,
+      "gr": 55,
       "w": 9,
-      "l": 6,
+      "l": 7,
       "otl": 1,
       "sol": 0,
       "pts": 131
