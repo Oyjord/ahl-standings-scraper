@@ -43,7 +43,7 @@
       "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 209
+      "pts": 215
     },
     {
       "team": "Hershey Bears",
@@ -142,7 +142,7 @@
       "l": 9,
       "otl": 1,
       "sol": 1,
-      "pts": 214
+      "pts": 224
     },
     {
       "team": "Cleveland Monsters",
@@ -191,24 +191,24 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 19,
-      "gr": 53,
+      "gp": 20,
+      "gr": 52,
       "w": 10,
-      "l": 7,
+      "l": 8,
       "otl": 2,
       "sol": 0,
-      "pts": 190
+      "pts": 198
     },
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 17,
-      "gr": 55,
-      "w": 8,
+      "gp": 18,
+      "gr": 54,
+      "w": 9,
       "l": 6,
       "otl": 3,
       "sol": 0,
-      "pts": 287
+      "pts": 291
     },
     {
       "team": "Rockford IceHogs",
@@ -252,7 +252,7 @@
       "l": 4,
       "otl": 0,
       "sol": 1,
-      "pts": 232
+      "pts": 240
     },
     {
       "team": "San Jose Barracuda",
@@ -263,7 +263,7 @@
       "l": 6,
       "otl": 1,
       "sol": 1,
-      "pts": 288
+      "pts": 292
     },
     {
       "team": "Ontario Reign",
