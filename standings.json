@@ -43,7 +43,7 @@
       "l": 6,
       "otl": 1,
       "sol": 0,
-      "pts": 277
+      "pts": 283
     },
     {
       "team": "Charlotte Checkers",
@@ -109,7 +109,7 @@
       "l": 6,
       "otl": 0,
       "sol": 0,
-      "pts": 327
+      "pts": 329
     },
     {
       "team": "Rochester Americans",
@@ -178,6 +178,17 @@
       "pts": 211
     },
     {
+      "team": "Manitoba Moose",
+      "division": "Other",
+      "gp": 21,
+      "gr": 51,
+      "w": 11,
+      "l": 8,
+      "otl": 2,
+      "sol": 0,
+      "pts": 205
+    },
+    {
       "team": "Milwaukee Admirals",
       "division": "Other",
       "gp": 16,
@@ -186,28 +197,17 @@
       "l": 3,
       "otl": 2,
       "sol": 0,
-      "pts": 319
-    },
-    {
-      "team": "Manitoba Moose",
-      "division": "Other",
-      "gp": 20,
-      "gr": 52,
-      "w": 10,
-      "l": 8,
-      "otl": 2,
-      "sol": 0,
-      "pts": 205
+      "pts": 323
     },
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 18,
-      "gr": 54,
+      "gp": 19,
+      "gr": 53,
       "w": 9,
       "l": 6,
       "otl": 3,
-      "sol": 0,
+      "sol": 1,
       "pts": 298
     },
     {
