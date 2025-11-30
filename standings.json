@@ -224,9 +224,9 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 17,
-      "gr": 55,
-      "w": 5,
+      "gp": 18,
+      "gr": 54,
+      "w": 6,
       "l": 10,
       "otl": 2,
       "sol": 0,
@@ -290,10 +290,10 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 17,
-      "gr": 55,
+      "gp": 18,
+      "gr": 54,
       "w": 9,
-      "l": 5,
+      "l": 6,
       "otl": 3,
       "sol": 0,
       "pts": 248
@@ -334,10 +334,10 @@
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 18,
-      "gr": 54,
+      "gp": 19,
+      "gr": 53,
       "w": 8,
-      "l": 8,
+      "l": 9,
       "otl": 2,
       "sol": 0,
       "pts": 192
@@ -345,9 +345,9 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 19,
-      "gr": 53,
-      "w": 3,
+      "gp": 20,
+      "gr": 52,
+      "w": 4,
       "l": 13,
       "otl": 1,
       "sol": 2,
