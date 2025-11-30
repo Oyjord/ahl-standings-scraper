@@ -2,6 +2,17 @@
   "division": "All Divisions",
   "teams": [
     {
+      "team": "Providence Bruins",
+      "division": "Other",
+      "gp": 19,
+      "gr": 53,
+      "w": 16,
+      "l": 3,
+      "otl": 0,
+      "sol": 0,
+      "pts": 173
+    },
+    {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
       "gp": 21,
@@ -11,17 +22,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 262
-    },
-    {
-      "team": "Providence Bruins",
-      "division": "Other",
-      "gp": 18,
-      "gr": 54,
-      "w": 15,
-      "l": 3,
-      "otl": 0,
-      "sol": 0,
-      "pts": 165
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -43,7 +43,7 @@
       "l": 6,
       "otl": 1,
       "sol": 0,
-      "pts": 275
+      "pts": 277
     },
     {
       "team": "Charlotte Checkers",
@@ -109,7 +109,7 @@
       "l": 6,
       "otl": 0,
       "sol": 0,
-      "pts": 325
+      "pts": 327
     },
     {
       "team": "Rochester Americans",
@@ -125,13 +125,13 @@
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 21,
-      "gr": 51,
+      "gp": 22,
+      "gr": 50,
       "w": 10,
-      "l": 9,
+      "l": 10,
       "otl": 2,
       "sol": 0,
-      "pts": 240
+      "pts": 246
     },
     {
       "team": "Toronto Marlies",
@@ -175,7 +175,7 @@
       "l": 1,
       "otl": 0,
       "sol": 1,
-      "pts": 204
+      "pts": 211
     },
     {
       "team": "Milwaukee Admirals",
@@ -186,7 +186,7 @@
       "l": 3,
       "otl": 2,
       "sol": 0,
-      "pts": 317
+      "pts": 319
     },
     {
       "team": "Manitoba Moose",
@@ -197,7 +197,7 @@
       "l": 8,
       "otl": 2,
       "sol": 0,
-      "pts": 198
+      "pts": 205
     },
     {
       "team": "Chicago Wolves",
@@ -208,7 +208,7 @@
       "l": 6,
       "otl": 3,
       "sol": 0,
-      "pts": 291
+      "pts": 298
     },
     {
       "team": "Rockford IceHogs",
@@ -219,7 +219,7 @@
       "l": 10,
       "otl": 2,
       "sol": 1,
-      "pts": 402
+      "pts": 404
     },
     {
       "team": "Texas Stars",
@@ -241,7 +241,7 @@
       "l": 13,
       "otl": 0,
       "sol": 1,
-      "pts": 340
+      "pts": 347
     },
     {
       "team": "Colorado Eagles",
