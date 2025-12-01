@@ -224,13 +224,13 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 18,
-      "gr": 54,
-      "w": 6,
+      "gp": 19,
+      "gr": 53,
+      "w": 7,
       "l": 10,
       "otl": 2,
       "sol": 0,
-      "pts": 215
+      "pts": 217
     },
     {
       "team": "Iowa Wild",
@@ -268,10 +268,10 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 18,
-      "gr": 54,
+      "gp": 19,
+      "gr": 53,
       "w": 11,
-      "l": 6,
+      "l": 7,
       "otl": 1,
       "sol": 0,
       "pts": 210
