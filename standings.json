@@ -37,10 +37,10 @@
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 18,
-      "gr": 54,
+      "gp": 19,
+      "gr": 53,
       "w": 11,
-      "l": 6,
+      "l": 7,
       "otl": 1,
       "sol": 0,
       "pts": 285
@@ -90,6 +90,17 @@
       "pts": 196
     },
     {
+      "team": "Laval Rocket",
+      "division": "Other",
+      "gp": 20,
+      "gr": 52,
+      "w": 14,
+      "l": 6,
+      "otl": 0,
+      "sol": 0,
+      "pts": 329
+    },
+    {
       "team": "Syracuse Crunch",
       "division": "Other",
       "gp": 20,
@@ -99,17 +110,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 285
-    },
-    {
-      "team": "Laval Rocket",
-      "division": "Other",
-      "gp": 19,
-      "gr": 53,
-      "w": 13,
-      "l": 6,
-      "otl": 0,
-      "sol": 0,
-      "pts": 329
     },
     {
       "team": "Rochester Americans",
@@ -230,7 +230,7 @@
       "l": 10,
       "otl": 2,
       "sol": 0,
-      "pts": 211
+      "pts": 215
     },
     {
       "team": "Iowa Wild",
@@ -274,7 +274,7 @@
       "l": 6,
       "otl": 1,
       "sol": 0,
-      "pts": 204
+      "pts": 210
     },
     {
       "team": "Calgary Wranglers",
