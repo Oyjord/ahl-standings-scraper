@@ -43,7 +43,7 @@
       "l": 6,
       "otl": 1,
       "sol": 0,
-      "pts": 283
+      "pts": 285
     },
     {
       "team": "Charlotte Checkers",
@@ -169,13 +169,13 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 17,
-      "gr": 55,
-      "w": 15,
+      "gp": 18,
+      "gr": 54,
+      "w": 16,
       "l": 1,
       "otl": 0,
       "sol": 1,
-      "pts": 211
+      "pts": 213
     },
     {
       "team": "Manitoba Moose",
@@ -191,13 +191,13 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 16,
-      "gr": 56,
+      "gp": 17,
+      "gr": 55,
       "w": 11,
-      "l": 3,
+      "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 323
+      "pts": 329
     },
     {
       "team": "Chicago Wolves",
@@ -213,13 +213,13 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 21,
-      "gr": 51,
-      "w": 8,
+      "gp": 22,
+      "gr": 50,
+      "w": 9,
       "l": 10,
       "otl": 2,
       "sol": 1,
-      "pts": 404
+      "pts": 408
     },
     {
       "team": "Texas Stars",
@@ -235,10 +235,10 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 19,
-      "gr": 53,
+      "gp": 20,
+      "gr": 52,
       "w": 5,
-      "l": 13,
+      "l": 14,
       "otl": 0,
       "sol": 1,
       "pts": 347
