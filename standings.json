@@ -4,13 +4,13 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 19,
-      "gr": 53,
+      "gp": 20,
+      "gr": 52,
       "w": 16,
-      "l": 3,
+      "l": 4,
       "otl": 0,
       "sol": 0,
-      "pts": 179
+      "pts": 181
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
@@ -92,13 +92,13 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 20,
-      "gr": 52,
-      "w": 14,
+      "gp": 21,
+      "gr": 51,
+      "w": 15,
       "l": 6,
       "otl": 0,
       "sol": 0,
-      "pts": 339
+      "pts": 341
     },
     {
       "team": "Syracuse Crunch",
