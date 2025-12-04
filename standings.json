@@ -180,9 +180,9 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 21,
-      "gr": 51,
-      "w": 11,
+      "gp": 22,
+      "gr": 50,
+      "w": 12,
       "l": 8,
       "otl": 2,
       "sol": 0,
@@ -191,9 +191,9 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 17,
-      "gr": 55,
-      "w": 11,
+      "gp": 18,
+      "gr": 54,
+      "w": 12,
       "l": 4,
       "otl": 2,
       "sol": 0,
@@ -202,10 +202,10 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 19,
-      "gr": 53,
+      "gp": 20,
+      "gr": 52,
       "w": 9,
-      "l": 6,
+      "l": 7,
       "otl": 3,
       "sol": 1,
       "pts": 308
@@ -230,15 +230,15 @@
       "l": 10,
       "otl": 2,
       "sol": 0,
-      "pts": 217
+      "pts": 219
     },
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 20,
-      "gr": 52,
+      "gp": 21,
+      "gr": 51,
       "w": 5,
-      "l": 14,
+      "l": 15,
       "otl": 0,
       "sol": 1,
       "pts": 355
@@ -296,7 +296,7 @@
       "l": 6,
       "otl": 3,
       "sol": 0,
-      "pts": 248
+      "pts": 254
     },
     {
       "team": "Bakersfield Condors",
@@ -307,7 +307,7 @@
       "l": 6,
       "otl": 4,
       "sol": 0,
-      "pts": 287
+      "pts": 291
     },
     {
       "team": "Henderson Silver Knights",
@@ -340,7 +340,7 @@
       "l": 9,
       "otl": 2,
       "sol": 0,
-      "pts": 192
+      "pts": 198
     },
     {
       "team": "Abbotsford Canucks",
