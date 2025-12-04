@@ -268,12 +268,12 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 21,
-      "gr": 51,
+      "gp": 22,
+      "gr": 50,
       "w": 11,
       "l": 8,
       "otl": 2,
-      "sol": 0,
+      "sol": 1,
       "pts": 305
     },
     {
@@ -345,9 +345,9 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 21,
-      "gr": 51,
-      "w": 4,
+      "gp": 22,
+      "gr": 50,
+      "w": 5,
       "l": 14,
       "otl": 1,
       "sol": 2,
