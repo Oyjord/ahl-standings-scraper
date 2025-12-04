@@ -114,68 +114,68 @@
     {
       "team": "Rochester Americans",
       "division": "Other",
-      "gp": 21,
-      "gr": 51,
-      "w": 12,
-      "l": 9,
-      "otl": 0,
-      "sol": 0,
-      "pts": 308
-    },
-    {
-      "team": "Belleville Senators",
-      "division": "Other",
       "gp": 22,
       "gr": 50,
-      "w": 10,
-      "l": 10,
-      "otl": 2,
+      "w": 12,
+      "l": 9,
+      "otl": 1,
       "sol": 0,
-      "pts": 257
+      "pts": 310
     },
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 20,
-      "gr": 52,
-      "w": 9,
+      "gp": 21,
+      "gr": 51,
+      "w": 10,
       "l": 9,
       "otl": 1,
       "sol": 1,
       "pts": 258
     },
     {
+      "team": "Belleville Senators",
+      "division": "Other",
+      "gp": 23,
+      "gr": 49,
+      "w": 10,
+      "l": 11,
+      "otl": 2,
+      "sol": 0,
+      "pts": 257
+    },
+    {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 16,
-      "gr": 56,
+      "gp": 17,
+      "gr": 55,
       "w": 6,
-      "l": 6,
+      "l": 7,
       "otl": 3,
       "sol": 1,
-      "pts": 220
+      "pts": 224
     },
     {
       "team": "Utica Comets",
       "division": "Other",
-      "gp": 17,
-      "gr": 55,
-      "w": 2,
+      "gp": 18,
+      "gr": 54,
+      "w": 3,
       "l": 12,
       "otl": 2,
       "sol": 1,
-      "pts": 233
+      "pts": 235
     },
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 18,
-      "gr": 54,
-      "w": 16,
+      "gp": 19,
+      "gr": 53,
+      "w": 17,
       "l": 1,
       "otl": 0,
       "sol": 1,
-      "pts": 221
+      "pts": 227
     },
     {
       "team": "Manitoba Moose",
@@ -186,7 +186,7 @@
       "l": 8,
       "otl": 2,
       "sol": 0,
-      "pts": 207
+      "pts": 213
     },
     {
       "team": "Milwaukee Admirals",
@@ -197,7 +197,7 @@
       "l": 4,
       "otl": 2,
       "sol": 0,
-      "pts": 331
+      "pts": 333
     },
     {
       "team": "Chicago Wolves",
@@ -208,7 +208,7 @@
       "l": 6,
       "otl": 3,
       "sol": 1,
-      "pts": 300
+      "pts": 308
     },
     {
       "team": "Rockford IceHogs",
@@ -241,7 +241,7 @@
       "l": 14,
       "otl": 0,
       "sol": 1,
-      "pts": 351
+      "pts": 355
     },
     {
       "team": "Colorado Eagles",
@@ -307,7 +307,7 @@
       "l": 6,
       "otl": 4,
       "sol": 0,
-      "pts": 285
+      "pts": 287
     },
     {
       "team": "Henderson Silver Knights",
