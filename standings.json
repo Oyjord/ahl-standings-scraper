@@ -224,12 +224,12 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 19,
-      "gr": 53,
+      "gp": 20,
+      "gr": 52,
       "w": 7,
       "l": 10,
       "otl": 2,
-      "sol": 0,
+      "sol": 1,
       "pts": 223
     },
     {
@@ -274,7 +274,7 @@
       "l": 8,
       "otl": 2,
       "sol": 0,
-      "pts": 301
+      "pts": 305
     },
     {
       "team": "Ontario Reign",
@@ -290,9 +290,9 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 18,
-      "gr": 54,
-      "w": 9,
+      "gp": 19,
+      "gr": 53,
+      "w": 10,
       "l": 6,
       "otl": 3,
       "sol": 0,
@@ -301,9 +301,9 @@
     {
       "team": "Bakersfield Condors",
       "division": "Pacific",
-      "gp": 18,
-      "gr": 54,
-      "w": 8,
+      "gp": 19,
+      "gr": 53,
+      "w": 9,
       "l": 6,
       "otl": 4,
       "sol": 0,
@@ -334,10 +334,10 @@
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 19,
-      "gr": 53,
+      "gp": 20,
+      "gr": 52,
       "w": 8,
-      "l": 9,
+      "l": 10,
       "otl": 2,
       "sol": 0,
       "pts": 200
