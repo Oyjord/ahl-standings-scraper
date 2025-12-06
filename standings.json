@@ -191,10 +191,10 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 18,
-      "gr": 54,
+      "gp": 19,
+      "gr": 53,
       "w": 12,
-      "l": 4,
+      "l": 5,
       "otl": 2,
       "sol": 0,
       "pts": 337
@@ -202,9 +202,9 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 20,
-      "gr": 52,
-      "w": 9,
+      "gp": 21,
+      "gr": 51,
+      "w": 10,
       "l": 7,
       "otl": 3,
       "sol": 1,
@@ -307,7 +307,7 @@
       "l": 6,
       "otl": 4,
       "sol": 0,
-      "pts": 291
+      "pts": 293
     },
     {
       "team": "Henderson Silver Knights",
@@ -318,7 +318,7 @@
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 141
+      "pts": 145
     },
     {
       "team": "San Diego Gulls",
