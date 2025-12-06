@@ -54,7 +54,7 @@
       "l": 6,
       "otl": 2,
       "sol": 0,
-      "pts": 227
+      "pts": 229
     },
     {
       "team": "Hartford Wolf Pack",
@@ -101,6 +101,17 @@
       "pts": 347
     },
     {
+      "team": "Syracuse Crunch",
+      "division": "Other",
+      "gp": 22,
+      "gr": 50,
+      "w": 13,
+      "l": 8,
+      "otl": 1,
+      "sol": 0,
+      "pts": 305
+    },
+    {
       "team": "Rochester Americans",
       "division": "Other",
       "gp": 23,
@@ -109,18 +120,7 @@
       "l": 9,
       "otl": 1,
       "sol": 0,
-      "pts": 322
-    },
-    {
-      "team": "Syracuse Crunch",
-      "division": "Other",
-      "gp": 21,
-      "gr": 51,
-      "w": 13,
-      "l": 8,
-      "otl": 0,
-      "sol": 0,
-      "pts": 301
+      "pts": 324
     },
     {
       "team": "Toronto Marlies",
@@ -131,7 +131,7 @@
       "l": 9,
       "otl": 1,
       "sol": 1,
-      "pts": 258
+      "pts": 262
     },
     {
       "team": "Belleville Senators",
@@ -147,13 +147,13 @@
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 18,
-      "gr": 54,
-      "w": 7,
+      "gp": 19,
+      "gr": 53,
+      "w": 8,
       "l": 7,
       "otl": 3,
       "sol": 1,
-      "pts": 238
+      "pts": 242
     },
     {
       "team": "Utica Comets",
@@ -175,7 +175,7 @@
       "l": 1,
       "otl": 0,
       "sol": 1,
-      "pts": 227
+      "pts": 229
     },
     {
       "team": "Manitoba Moose",
