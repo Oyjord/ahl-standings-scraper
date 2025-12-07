@@ -15,24 +15,35 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 21,
-      "gr": 51,
+      "gp": 22,
+      "gr": 50,
       "w": 17,
-      "l": 4,
+      "l": 5,
       "otl": 0,
       "sol": 0,
-      "pts": 187
+      "pts": 198
     },
     {
       "team": "Lehigh Valley Phantoms",
       "division": "Other",
-      "gp": 22,
-      "gr": 50,
+      "gp": 23,
+      "gr": 49,
       "w": 12,
-      "l": 7,
+      "l": 8,
       "otl": 1,
       "sol": 2,
-      "pts": 335
+      "pts": 343
+    },
+    {
+      "team": "Hershey Bears",
+      "division": "Other",
+      "gp": 21,
+      "gr": 51,
+      "w": 12,
+      "l": 8,
+      "otl": 1,
+      "sol": 0,
+      "pts": 295
     },
     {
       "team": "Charlotte Checkers",
@@ -44,17 +55,6 @@
       "otl": 2,
       "sol": 0,
       "pts": 239
-    },
-    {
-      "team": "Hershey Bears",
-      "division": "Other",
-      "gp": 20,
-      "gr": 52,
-      "w": 11,
-      "l": 8,
-      "otl": 1,
-      "sol": 0,
-      "pts": 291
     },
     {
       "team": "Hartford Wolf Pack",
@@ -81,13 +81,13 @@
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 21,
-      "gr": 51,
-      "w": 5,
+      "gp": 22,
+      "gr": 50,
+      "w": 6,
       "l": 11,
       "otl": 3,
       "sol": 2,
-      "pts": 212
+      "pts": 223
     },
     {
       "team": "Laval Rocket",
@@ -142,7 +142,7 @@
       "l": 10,
       "otl": 1,
       "sol": 1,
-      "pts": 262
+      "pts": 272
     },
     {
       "team": "Cleveland Monsters",
@@ -175,7 +175,7 @@
       "l": 1,
       "otl": 0,
       "sol": 1,
-      "pts": 231
+      "pts": 239
     },
     {
       "team": "Manitoba Moose",
@@ -186,7 +186,7 @@
       "l": 9,
       "otl": 2,
       "sol": 0,
-      "pts": 226
+      "pts": 230
     },
     {
       "team": "Chicago Wolves",
@@ -241,7 +241,7 @@
       "l": 15,
       "otl": 0,
       "sol": 1,
-      "pts": 374
+      "pts": 380
     },
     {
       "team": "Colorado Eagles",
