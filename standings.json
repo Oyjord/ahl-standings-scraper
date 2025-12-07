@@ -277,6 +277,17 @@
       "pts": 315
     },
     {
+      "team": "Bakersfield Condors",
+      "division": "Pacific",
+      "gp": 21,
+      "gr": 51,
+      "w": 10,
+      "l": 7,
+      "otl": 4,
+      "sol": 0,
+      "pts": 351
+    },
+    {
       "team": "Ontario Reign",
       "division": "Pacific",
       "gp": 19,
@@ -296,29 +307,18 @@
       "l": 6,
       "otl": 3,
       "sol": 0,
-      "pts": 256
-    },
-    {
-      "team": "Bakersfield Condors",
-      "division": "Pacific",
-      "gp": 20,
-      "gr": 52,
-      "w": 9,
-      "l": 7,
-      "otl": 4,
-      "sol": 0,
-      "pts": 339
+      "pts": 260
     },
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 19,
-      "gr": 53,
+      "gp": 20,
+      "gr": 52,
       "w": 10,
-      "l": 8,
+      "l": 9,
       "otl": 1,
       "sol": 0,
-      "pts": 169
+      "pts": 179
     },
     {
       "team": "San Diego Gulls",
@@ -340,7 +340,7 @@
       "l": 10,
       "otl": 3,
       "sol": 0,
-      "pts": 214
+      "pts": 216
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 14,
       "otl": 1,
       "sol": 2,
-      "pts": 313
+      "pts": 315
     }
   ]
 }
