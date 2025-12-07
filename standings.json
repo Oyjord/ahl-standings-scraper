@@ -136,10 +136,10 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 22,
-      "gr": 50,
+      "gp": 23,
+      "gr": 49,
       "w": 10,
-      "l": 10,
+      "l": 11,
       "otl": 1,
       "sol": 1,
       "pts": 272
@@ -169,9 +169,9 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 20,
-      "gr": 52,
-      "w": 18,
+      "gp": 21,
+      "gr": 51,
+      "w": 19,
       "l": 1,
       "otl": 0,
       "sol": 1,
