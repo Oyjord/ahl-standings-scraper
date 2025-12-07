@@ -32,7 +32,7 @@
       "l": 7,
       "otl": 1,
       "sol": 2,
-      "pts": 310
+      "pts": 312
     },
     {
       "team": "Hershey Bears",
@@ -43,7 +43,7 @@
       "l": 7,
       "otl": 1,
       "sol": 0,
-      "pts": 285
+      "pts": 287
     },
     {
       "team": "Charlotte Checkers",
@@ -54,7 +54,7 @@
       "l": 6,
       "otl": 2,
       "sol": 0,
-      "pts": 229
+      "pts": 239
     },
     {
       "team": "Hartford Wolf Pack",
@@ -65,7 +65,7 @@
       "l": 9,
       "otl": 4,
       "sol": 0,
-      "pts": 300
+      "pts": 302
     },
     {
       "team": "Bridgeport Islanders",
@@ -76,7 +76,7 @@
       "l": 11,
       "otl": 1,
       "sol": 1,
-      "pts": 273
+      "pts": 275
     },
     {
       "team": "Springfield Thunderbirds",
@@ -98,7 +98,7 @@
       "l": 6,
       "otl": 0,
       "sol": 0,
-      "pts": 347
+      "pts": 349
     },
     {
       "team": "Syracuse Crunch",
@@ -120,15 +120,15 @@
       "l": 9,
       "otl": 1,
       "sol": 0,
-      "pts": 324
+      "pts": 330
     },
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 21,
-      "gr": 51,
+      "gp": 22,
+      "gr": 50,
       "w": 10,
-      "l": 9,
+      "l": 10,
       "otl": 1,
       "sol": 1,
       "pts": 262
@@ -169,13 +169,13 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 19,
-      "gr": 53,
-      "w": 17,
+      "gp": 20,
+      "gr": 52,
+      "w": 18,
       "l": 1,
       "otl": 0,
       "sol": 1,
-      "pts": 229
+      "pts": 231
     },
     {
       "team": "Manitoba Moose",
