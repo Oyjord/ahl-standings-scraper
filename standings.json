@@ -180,13 +180,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 23,
-      "gr": 49,
-      "w": 12,
+      "gp": 24,
+      "gr": 48,
+      "w": 13,
       "l": 9,
       "otl": 2,
       "sol": 0,
-      "pts": 230
+      "pts": 232
     },
     {
       "team": "Chicago Wolves",
@@ -235,10 +235,10 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 22,
-      "gr": 50,
+      "gp": 23,
+      "gr": 49,
       "w": 6,
-      "l": 15,
+      "l": 16,
       "otl": 0,
       "sol": 1,
       "pts": 380
@@ -274,7 +274,7 @@
       "l": 7,
       "otl": 1,
       "sol": 0,
-      "pts": 233
+      "pts": 235
     },
     {
       "team": "Calgary Wranglers",
@@ -285,7 +285,7 @@
       "l": 9,
       "otl": 2,
       "sol": 1,
-      "pts": 317
+      "pts": 323
     },
     {
       "team": "Coachella Valley Firebirds",
