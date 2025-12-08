@@ -224,13 +224,13 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 21,
-      "gr": 51,
+      "gp": 22,
+      "gr": 50,
       "w": 8,
-      "l": 10,
+      "l": 11,
       "otl": 2,
       "sol": 1,
-      "pts": 233
+      "pts": 239
     },
     {
       "team": "Iowa Wild",
@@ -277,6 +277,17 @@
       "pts": 239
     },
     {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 21,
+      "gr": 51,
+      "w": 12,
+      "l": 6,
+      "otl": 3,
+      "sol": 0,
+      "pts": 285
+    },
+    {
       "team": "Calgary Wranglers",
       "division": "Pacific",
       "gp": 24,
@@ -288,17 +299,6 @@
       "pts": 325
     },
     {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 20,
-      "gr": 52,
-      "w": 11,
-      "l": 6,
-      "otl": 3,
-      "sol": 0,
-      "pts": 283
-    },
-    {
       "team": "Bakersfield Condors",
       "division": "Pacific",
       "gp": 21,
@@ -308,6 +308,17 @@
       "otl": 4,
       "sol": 0,
       "pts": 351
+    },
+    {
+      "team": "San Diego Gulls",
+      "division": "Pacific",
+      "gp": 20,
+      "gr": 52,
+      "w": 8,
+      "l": 6,
+      "otl": 6,
+      "sol": 0,
+      "pts": 227
     },
     {
       "team": "Henderson Silver Knights",
@@ -332,23 +343,12 @@
       "pts": 216
     },
     {
-      "team": "San Diego Gulls",
-      "division": "Pacific",
-      "gp": 19,
-      "gr": 53,
-      "w": 7,
-      "l": 6,
-      "otl": 6,
-      "sol": 0,
-      "pts": 221
-    },
-    {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 23,
-      "gr": 49,
+      "gp": 24,
+      "gr": 48,
       "w": 5,
-      "l": 14,
+      "l": 15,
       "otl": 1,
       "sol": 3,
       "pts": 330
