@@ -230,7 +230,7 @@
       "l": 10,
       "otl": 2,
       "sol": 1,
-      "pts": 227
+      "pts": 233
     },
     {
       "team": "Iowa Wild",
@@ -268,24 +268,24 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 20,
-      "gr": 52,
-      "w": 12,
+      "gp": 21,
+      "gr": 51,
+      "w": 13,
       "l": 7,
       "otl": 1,
       "sol": 0,
-      "pts": 235
+      "pts": 239
     },
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 23,
-      "gr": 49,
+      "gp": 24,
+      "gr": 48,
       "w": 11,
       "l": 9,
-      "otl": 2,
+      "otl": 3,
       "sol": 1,
-      "pts": 323
+      "pts": 325
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -296,7 +296,7 @@
       "l": 6,
       "otl": 3,
       "sol": 0,
-      "pts": 264
+      "pts": 283
     },
     {
       "team": "Bakersfield Condors",
@@ -351,7 +351,7 @@
       "l": 14,
       "otl": 1,
       "sol": 3,
-      "pts": 317
+      "pts": 330
     }
   ]
 }
