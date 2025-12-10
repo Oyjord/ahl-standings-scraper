@@ -266,6 +266,17 @@
       "pts": 316
     },
     {
+      "team": "Calgary Wranglers",
+      "division": "Pacific",
+      "gp": 25,
+      "gr": 47,
+      "w": 12,
+      "l": 9,
+      "otl": 3,
+      "sol": 1,
+      "pts": 354
+    },
+    {
       "team": "Ontario Reign",
       "division": "Pacific",
       "gp": 21,
@@ -274,29 +285,18 @@
       "l": 7,
       "otl": 1,
       "sol": 0,
-      "pts": 241
+      "pts": 245
     },
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 21,
-      "gr": 51,
+      "gp": 22,
+      "gr": 50,
       "w": 12,
-      "l": 6,
+      "l": 7,
       "otl": 3,
       "sol": 0,
       "pts": 304
-    },
-    {
-      "team": "Calgary Wranglers",
-      "division": "Pacific",
-      "gp": 24,
-      "gr": 48,
-      "w": 11,
-      "l": 9,
-      "otl": 3,
-      "sol": 1,
-      "pts": 354
     },
     {
       "team": "Bakersfield Condors",
