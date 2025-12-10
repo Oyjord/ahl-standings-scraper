@@ -48,13 +48,13 @@
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 19,
-      "gr": 53,
+      "gp": 20,
+      "gr": 52,
       "w": 11,
-      "l": 6,
+      "l": 7,
       "otl": 2,
       "sol": 0,
-      "pts": 241
+      "pts": 258
     },
     {
       "team": "Hartford Wolf Pack",
@@ -147,13 +147,13 @@
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 19,
-      "gr": 53,
-      "w": 8,
+      "gp": 20,
+      "gr": 52,
+      "w": 9,
       "l": 7,
       "otl": 3,
       "sol": 1,
-      "pts": 246
+      "pts": 263
     },
     {
       "team": "Utica Comets",
@@ -285,7 +285,7 @@
       "l": 6,
       "otl": 3,
       "sol": 0,
-      "pts": 285
+      "pts": 300
     },
     {
       "team": "Calgary Wranglers",
@@ -296,7 +296,7 @@
       "l": 9,
       "otl": 3,
       "sol": 1,
-      "pts": 325
+      "pts": 344
     },
     {
       "team": "Bakersfield Condors",
