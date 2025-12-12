@@ -266,6 +266,17 @@
       "pts": 245
     },
     {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 23,
+      "gr": 49,
+      "w": 13,
+      "l": 7,
+      "otl": 3,
+      "sol": 0,
+      "pts": 314
+    },
+    {
       "team": "San Jose Barracuda",
       "division": "Pacific",
       "gp": 23,
@@ -279,24 +290,13 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 25,
-      "gr": 47,
+      "gp": 26,
+      "gr": 46,
       "w": 12,
-      "l": 9,
+      "l": 10,
       "otl": 3,
       "sol": 1,
       "pts": 358
-    },
-    {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 22,
-      "gr": 50,
-      "w": 12,
-      "l": 7,
-      "otl": 3,
-      "sol": 0,
-      "pts": 314
     },
     {
       "team": "Bakersfield Condors",
