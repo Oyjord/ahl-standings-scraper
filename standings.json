@@ -32,7 +32,7 @@
       "l": 9,
       "otl": 1,
       "sol": 2,
-      "pts": 356
+      "pts": 369
     },
     {
       "team": "Charlotte Checkers",
@@ -70,13 +70,13 @@
     {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 21,
-      "gr": 51,
-      "w": 8,
+      "gp": 22,
+      "gr": 50,
+      "w": 9,
       "l": 11,
       "otl": 1,
       "sol": 1,
-      "pts": 281
+      "pts": 290
     },
     {
       "team": "Springfield Thunderbirds",
@@ -92,13 +92,13 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 25,
-      "gr": 47,
+      "gp": 26,
+      "gr": 46,
       "w": 17,
-      "l": 7,
+      "l": 8,
       "otl": 0,
       "sol": 1,
-      "pts": 420
+      "pts": 447
     },
     {
       "team": "Rochester Americans",
@@ -109,7 +109,7 @@
       "l": 9,
       "otl": 2,
       "sol": 0,
-      "pts": 345
+      "pts": 352
     },
     {
       "team": "Syracuse Crunch",
