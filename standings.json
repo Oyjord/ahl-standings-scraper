@@ -246,13 +246,24 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 22,
-      "gr": 50,
+      "gp": 23,
+      "gr": 49,
       "w": 16,
-      "l": 5,
+      "l": 6,
       "otl": 0,
       "sol": 1,
       "pts": 284
+    },
+    {
+      "team": "Ontario Reign",
+      "division": "Pacific",
+      "gp": 23,
+      "gr": 49,
+      "w": 15,
+      "l": 7,
+      "otl": 1,
+      "sol": 0,
+      "pts": 251
     },
     {
       "team": "San Jose Barracuda",
@@ -264,17 +275,6 @@
       "otl": 1,
       "sol": 1,
       "pts": 338
-    },
-    {
-      "team": "Ontario Reign",
-      "division": "Pacific",
-      "gp": 22,
-      "gr": 50,
-      "w": 14,
-      "l": 7,
-      "otl": 1,
-      "sol": 0,
-      "pts": 251
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -299,6 +299,17 @@
       "pts": 358
     },
     {
+      "team": "San Diego Gulls",
+      "division": "Pacific",
+      "gp": 22,
+      "gr": 50,
+      "w": 10,
+      "l": 6,
+      "otl": 6,
+      "sol": 0,
+      "pts": 247
+    },
+    {
       "team": "Bakersfield Condors",
       "division": "Pacific",
       "gp": 23,
@@ -310,23 +321,12 @@
       "pts": 380
     },
     {
-      "team": "San Diego Gulls",
-      "division": "Pacific",
-      "gp": 21,
-      "gr": 51,
-      "w": 9,
-      "l": 6,
-      "otl": 6,
-      "sol": 0,
-      "pts": 247
-    },
-    {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 21,
-      "gr": 51,
+      "gp": 22,
+      "gr": 50,
       "w": 11,
-      "l": 9,
+      "l": 10,
       "otl": 1,
       "sol": 0,
       "pts": 197
