@@ -246,9 +246,9 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 23,
-      "gr": 49,
-      "w": 16,
+      "gp": 24,
+      "gr": 48,
+      "w": 17,
       "l": 6,
       "otl": 0,
       "sol": 1,
@@ -268,10 +268,10 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 23,
-      "gr": 49,
+      "gp": 24,
+      "gr": 48,
       "w": 15,
-      "l": 7,
+      "l": 8,
       "otl": 1,
       "sol": 0,
       "pts": 271
