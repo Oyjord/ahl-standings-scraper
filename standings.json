@@ -4,13 +4,13 @@
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 25,
-      "gr": 47,
+      "gp": 26,
+      "gr": 46,
       "w": 19,
-      "l": 5,
+      "l": 6,
       "otl": 1,
       "sol": 0,
-      "pts": 325
+      "pts": 333
     },
     {
       "team": "Providence Bruins",
@@ -35,6 +35,17 @@
       "pts": 373
     },
     {
+      "team": "Charlotte Checkers",
+      "division": "Other",
+      "gp": 23,
+      "gr": 49,
+      "w": 13,
+      "l": 8,
+      "otl": 2,
+      "sol": 0,
+      "pts": 288
+    },
+    {
       "team": "Hershey Bears",
       "division": "Other",
       "gp": 24,
@@ -44,17 +55,6 @@
       "otl": 1,
       "sol": 0,
       "pts": 326
-    },
-    {
-      "team": "Charlotte Checkers",
-      "division": "Other",
-      "gp": 22,
-      "gr": 50,
-      "w": 12,
-      "l": 8,
-      "otl": 2,
-      "sol": 0,
-      "pts": 284
     },
     {
       "team": "Hartford Wolf Pack",
@@ -70,13 +70,13 @@
     {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 22,
-      "gr": 50,
-      "w": 9,
+      "gp": 23,
+      "gr": 49,
+      "w": 10,
       "l": 11,
       "otl": 1,
       "sol": 1,
-      "pts": 290
+      "pts": 307
     },
     {
       "team": "Springfield Thunderbirds",
@@ -125,13 +125,13 @@
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 27,
-      "gr": 45,
+      "gp": 28,
+      "gr": 44,
       "w": 11,
       "l": 14,
-      "otl": 2,
+      "otl": 3,
       "sol": 0,
-      "pts": 333
+      "pts": 358
     },
     {
       "team": "Toronto Marlies",
@@ -142,7 +142,7 @@
       "l": 12,
       "otl": 1,
       "sol": 1,
-      "pts": 342
+      "pts": 348
     },
     {
       "team": "Cleveland Monsters",
@@ -153,7 +153,7 @@
       "l": 8,
       "otl": 3,
       "sol": 1,
-      "pts": 301
+      "pts": 303
     },
     {
       "team": "Utica Comets",
@@ -180,13 +180,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 25,
-      "gr": 47,
+      "gp": 26,
+      "gr": 46,
       "w": 14,
-      "l": 9,
+      "l": 10,
       "otl": 2,
       "sol": 0,
-      "pts": 258
+      "pts": 292
     },
     {
       "team": "Chicago Wolves",
@@ -235,13 +235,13 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 25,
-      "gr": 47,
-      "w": 6,
+      "gp": 26,
+      "gr": 46,
+      "w": 7,
       "l": 18,
       "otl": 0,
       "sol": 1,
-      "pts": 404
+      "pts": 420
     },
     {
       "team": "Colorado Eagles",
