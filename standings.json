@@ -123,6 +123,17 @@
       "pts": 358
     },
     {
+      "team": "Toronto Marlies",
+      "division": "Other",
+      "gp": 26,
+      "gr": 46,
+      "w": 12,
+      "l": 12,
+      "otl": 1,
+      "sol": 1,
+      "pts": 352
+    },
+    {
       "team": "Belleville Senators",
       "division": "Other",
       "gp": 28,
@@ -134,26 +145,15 @@
       "pts": 358
     },
     {
-      "team": "Toronto Marlies",
-      "division": "Other",
-      "gp": 25,
-      "gr": 47,
-      "w": 11,
-      "l": 12,
-      "otl": 1,
-      "sol": 1,
-      "pts": 350
-    },
-    {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 22,
-      "gr": 50,
+      "gp": 23,
+      "gr": 49,
       "w": 10,
-      "l": 8,
+      "l": 9,
       "otl": 3,
       "sol": 1,
-      "pts": 305
+      "pts": 307
     },
     {
       "team": "Utica Comets",
@@ -285,7 +285,7 @@
       "l": 10,
       "otl": 4,
       "sol": 1,
-      "pts": 386
+      "pts": 435
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -351,7 +351,7 @@
       "l": 15,
       "otl": 1,
       "sol": 3,
-      "pts": 362
+      "pts": 382
     }
   ]
 }
