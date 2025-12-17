@@ -299,6 +299,17 @@
       "pts": 314
     },
     {
+      "team": "Henderson Silver Knights",
+      "division": "Pacific",
+      "gp": 24,
+      "gr": 48,
+      "w": 13,
+      "l": 10,
+      "otl": 1,
+      "sol": 0,
+      "pts": 218
+    },
+    {
       "team": "Bakersfield Condors",
       "division": "Pacific",
       "gp": 24,
@@ -312,24 +323,13 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 23,
-      "gr": 49,
+      "gp": 24,
+      "gr": 48,
       "w": 10,
-      "l": 6,
+      "l": 7,
       "otl": 6,
       "sol": 1,
-      "pts": 257
-    },
-    {
-      "team": "Henderson Silver Knights",
-      "division": "Pacific",
-      "gp": 23,
-      "gr": 49,
-      "w": 12,
-      "l": 10,
-      "otl": 1,
-      "sol": 0,
-      "pts": 209
+      "pts": 270
     },
     {
       "team": "Tucson Roadrunners",
