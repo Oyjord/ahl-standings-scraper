@@ -178,6 +178,17 @@
       "pts": 258
     },
     {
+      "team": "Chicago Wolves",
+      "division": "Other",
+      "gp": 25,
+      "gr": 47,
+      "w": 13,
+      "l": 7,
+      "otl": 3,
+      "sol": 2,
+      "pts": 377
+    },
+    {
       "team": "Manitoba Moose",
       "division": "Other",
       "gp": 26,
@@ -189,26 +200,15 @@
       "pts": 292
     },
     {
-      "team": "Chicago Wolves",
+      "team": "Milwaukee Admirals",
       "division": "Other",
       "gp": 24,
       "gr": 48,
       "w": 12,
-      "l": 7,
-      "otl": 3,
-      "sol": 2,
-      "pts": 356
-    },
-    {
-      "team": "Milwaukee Admirals",
-      "division": "Other",
-      "gp": 23,
-      "gr": 49,
-      "w": 12,
-      "l": 9,
+      "l": 10,
       "otl": 2,
       "sol": 0,
-      "pts": 402
+      "pts": 417
     },
     {
       "team": "Rockford IceHogs",
