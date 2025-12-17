@@ -4,10 +4,10 @@
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 26,
-      "gr": 46,
+      "gp": 27,
+      "gr": 45,
       "w": 19,
-      "l": 6,
+      "l": 7,
       "otl": 1,
       "sol": 0,
       "pts": 339
@@ -24,6 +24,17 @@
       "pts": 238
     },
     {
+      "team": "Charlotte Checkers",
+      "division": "Other",
+      "gp": 24,
+      "gr": 48,
+      "w": 14,
+      "l": 8,
+      "otl": 2,
+      "sol": 0,
+      "pts": 298
+    },
+    {
       "team": "Lehigh Valley Phantoms",
       "division": "Other",
       "gp": 25,
@@ -33,17 +44,6 @@
       "otl": 1,
       "sol": 2,
       "pts": 373
-    },
-    {
-      "team": "Charlotte Checkers",
-      "division": "Other",
-      "gp": 23,
-      "gr": 49,
-      "w": 13,
-      "l": 8,
-      "otl": 2,
-      "sol": 0,
-      "pts": 298
     },
     {
       "team": "Hershey Bears",
