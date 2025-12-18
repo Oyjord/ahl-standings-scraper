@@ -255,26 +255,26 @@
       "pts": 308
     },
     {
-      "team": "San Jose Barracuda",
+      "team": "Ontario Reign",
       "division": "Pacific",
       "gp": 25,
       "gr": 47,
-      "w": 15,
-      "l": 8,
-      "otl": 1,
-      "sol": 1,
-      "pts": 354
-    },
-    {
-      "team": "Ontario Reign",
-      "division": "Pacific",
-      "gp": 24,
-      "gr": 48,
-      "w": 15,
+      "w": 16,
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 275
+      "pts": 277
+    },
+    {
+      "team": "San Jose Barracuda",
+      "division": "Pacific",
+      "gp": 26,
+      "gr": 46,
+      "w": 15,
+      "l": 9,
+      "otl": 1,
+      "sol": 1,
+      "pts": 356
     },
     {
       "team": "Calgary Wranglers",
@@ -290,9 +290,9 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 23,
-      "gr": 49,
-      "w": 13,
+      "gp": 24,
+      "gr": 48,
+      "w": 14,
       "l": 7,
       "otl": 3,
       "sol": 0,
@@ -312,10 +312,10 @@
     {
       "team": "Bakersfield Condors",
       "division": "Pacific",
-      "gp": 24,
-      "gr": 48,
+      "gp": 25,
+      "gr": 47,
       "w": 11,
-      "l": 8,
+      "l": 9,
       "otl": 5,
       "sol": 0,
       "pts": 388
