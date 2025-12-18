@@ -37,10 +37,10 @@
     {
       "team": "Lehigh Valley Phantoms",
       "division": "Other",
-      "gp": 25,
-      "gr": 47,
+      "gp": 26,
+      "gr": 46,
       "w": 13,
-      "l": 9,
+      "l": 10,
       "otl": 1,
       "sol": 2,
       "pts": 382
@@ -81,13 +81,13 @@
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 23,
-      "gr": 49,
-      "w": 7,
+      "gp": 24,
+      "gr": 48,
+      "w": 8,
       "l": 11,
       "otl": 3,
       "sol": 2,
-      "pts": 238
+      "pts": 240
     },
     {
       "team": "Laval Rocket",
@@ -114,10 +114,10 @@
     {
       "team": "Rochester Americans",
       "division": "Other",
-      "gp": 26,
-      "gr": 46,
+      "gp": 27,
+      "gr": 45,
       "w": 14,
-      "l": 9,
+      "l": 10,
       "otl": 2,
       "sol": 1,
       "pts": 364
@@ -158,20 +158,20 @@
     {
       "team": "Utica Comets",
       "division": "Other",
-      "gp": 23,
-      "gr": 49,
-      "w": 5,
+      "gp": 24,
+      "gr": 48,
+      "w": 6,
       "l": 14,
       "otl": 3,
       "sol": 1,
-      "pts": 274
+      "pts": 278
     },
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 24,
-      "gr": 48,
-      "w": 22,
+      "gp": 25,
+      "gr": 47,
+      "w": 23,
       "l": 1,
       "otl": 0,
       "sol": 1,
@@ -235,13 +235,13 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 26,
-      "gr": 46,
+      "gp": 27,
+      "gr": 45,
       "w": 7,
-      "l": 18,
+      "l": 19,
       "otl": 0,
       "sol": 1,
-      "pts": 422
+      "pts": 424
     },
     {
       "team": "Colorado Eagles",
@@ -274,7 +274,7 @@
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 271
+      "pts": 273
     },
     {
       "team": "Calgary Wranglers",
@@ -318,7 +318,7 @@
       "l": 8,
       "otl": 5,
       "sol": 0,
-      "pts": 386
+      "pts": 388
     },
     {
       "team": "San Diego Gulls",
