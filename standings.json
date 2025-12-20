@@ -26,10 +26,10 @@
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 24,
-      "gr": 48,
+      "gp": 25,
+      "gr": 47,
       "w": 14,
-      "l": 8,
+      "l": 9,
       "otl": 2,
       "sol": 0,
       "pts": 310
@@ -68,6 +68,17 @@
       "pts": 331
     },
     {
+      "team": "Springfield Thunderbirds",
+      "division": "Other",
+      "gp": 25,
+      "gr": 47,
+      "w": 9,
+      "l": 11,
+      "otl": 3,
+      "sol": 2,
+      "pts": 250
+    },
+    {
       "team": "Hartford Wolf Pack",
       "division": "Other",
       "gp": 26,
@@ -77,17 +88,6 @@
       "otl": 4,
       "sol": 0,
       "pts": 375
-    },
-    {
-      "team": "Springfield Thunderbirds",
-      "division": "Other",
-      "gp": 24,
-      "gr": 48,
-      "w": 8,
-      "l": 11,
-      "otl": 3,
-      "sol": 2,
-      "pts": 250
     },
     {
       "team": "Syracuse Crunch",
@@ -131,7 +131,7 @@
       "l": 12,
       "otl": 1,
       "sol": 1,
-      "pts": 360
+      "pts": 364
     },
     {
       "team": "Belleville Senators",
