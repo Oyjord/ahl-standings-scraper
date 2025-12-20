@@ -32,7 +32,7 @@
       "l": 8,
       "otl": 2,
       "sol": 0,
-      "pts": 298
+      "pts": 310
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -87,7 +87,7 @@
       "l": 11,
       "otl": 3,
       "sol": 2,
-      "pts": 240
+      "pts": 250
     },
     {
       "team": "Syracuse Crunch",
@@ -109,7 +109,7 @@
       "l": 9,
       "otl": 0,
       "sol": 1,
-      "pts": 455
+      "pts": 457
     },
     {
       "team": "Rochester Americans",
@@ -131,7 +131,7 @@
       "l": 12,
       "otl": 1,
       "sol": 1,
-      "pts": 352
+      "pts": 360
     },
     {
       "team": "Belleville Senators",
@@ -142,7 +142,7 @@
       "l": 14,
       "otl": 4,
       "sol": 0,
-      "pts": 365
+      "pts": 377
     },
     {
       "team": "Cleveland Monsters",
@@ -191,13 +191,24 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 26,
-      "gr": 46,
+      "gp": 27,
+      "gr": 45,
       "w": 14,
-      "l": 10,
+      "l": 11,
       "otl": 2,
       "sol": 0,
-      "pts": 292
+      "pts": 315
+    },
+    {
+      "team": "Rockford IceHogs",
+      "division": "Other",
+      "gp": 28,
+      "gr": 44,
+      "w": 12,
+      "l": 13,
+      "otl": 2,
+      "sol": 1,
+      "pts": 489
     },
     {
       "team": "Milwaukee Admirals",
@@ -209,17 +220,6 @@
       "otl": 2,
       "sol": 0,
       "pts": 444
-    },
-    {
-      "team": "Rockford IceHogs",
-      "division": "Other",
-      "gp": 27,
-      "gr": 45,
-      "w": 11,
-      "l": 13,
-      "otl": 2,
-      "sol": 1,
-      "pts": 470
     },
     {
       "team": "Texas Stars",
@@ -340,7 +340,7 @@
       "l": 11,
       "otl": 4,
       "sol": 0,
-      "pts": 246
+      "pts": 253
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 15,
       "otl": 2,
       "sol": 3,
-      "pts": 391
+      "pts": 398
     }
   ]
 }
