@@ -257,20 +257,20 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 25,
-      "gr": 47,
+      "gp": 26,
+      "gr": 46,
       "w": 16,
       "l": 8,
       "otl": 1,
-      "sol": 0,
+      "sol": 1,
       "pts": 304
     },
     {
       "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 26,
-      "gr": 46,
-      "w": 15,
+      "gp": 27,
+      "gr": 45,
+      "w": 16,
       "l": 9,
       "otl": 1,
       "sol": 1,
@@ -307,7 +307,7 @@
       "l": 9,
       "otl": 5,
       "sol": 0,
-      "pts": 407
+      "pts": 409
     },
     {
       "team": "San Diego Gulls",
