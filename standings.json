@@ -10,7 +10,7 @@
       "l": 7,
       "otl": 1,
       "sol": 0,
-      "pts": 348
+      "pts": 350
     },
     {
       "team": "Providence Bruins",
@@ -21,7 +21,7 @@
       "l": 5,
       "otl": 1,
       "sol": 0,
-      "pts": 238
+      "pts": 243
     },
     {
       "team": "Charlotte Checkers",
@@ -98,18 +98,18 @@
       "l": 9,
       "otl": 1,
       "sol": 0,
-      "pts": 363
+      "pts": 368
     },
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 27,
-      "gr": 45,
+      "gp": 28,
+      "gr": 44,
       "w": 17,
-      "l": 9,
+      "l": 10,
       "otl": 0,
       "sol": 1,
-      "pts": 457
+      "pts": 468
     },
     {
       "team": "Rochester Americans",
@@ -125,35 +125,35 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 26,
-      "gr": 46,
-      "w": 12,
+      "gp": 27,
+      "gr": 45,
+      "w": 13,
       "l": 12,
       "otl": 1,
       "sol": 1,
       "pts": 364
     },
     {
-      "team": "Belleville Senators",
-      "division": "Other",
-      "gp": 29,
-      "gr": 43,
-      "w": 11,
-      "l": 14,
-      "otl": 4,
-      "sol": 0,
-      "pts": 377
-    },
-    {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 24,
-      "gr": 48,
-      "w": 11,
+      "gp": 25,
+      "gr": 47,
+      "w": 12,
       "l": 9,
       "otl": 3,
       "sol": 1,
-      "pts": 319
+      "pts": 330
+    },
+    {
+      "team": "Belleville Senators",
+      "division": "Other",
+      "gp": 30,
+      "gr": 42,
+      "w": 11,
+      "l": 14,
+      "otl": 5,
+      "sol": 0,
+      "pts": 377
     },
     {
       "team": "Utica Comets",
@@ -164,7 +164,7 @@
       "l": 15,
       "otl": 3,
       "sol": 1,
-      "pts": 286
+      "pts": 292
     },
     {
       "team": "Grand Rapids Griffins",
@@ -334,24 +334,24 @@
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 25,
-      "gr": 47,
+      "gp": 26,
+      "gr": 46,
       "w": 10,
-      "l": 11,
+      "l": 12,
       "otl": 4,
       "sol": 0,
-      "pts": 253
+      "pts": 260
     },
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 27,
-      "gr": 45,
-      "w": 7,
+      "gp": 28,
+      "gr": 44,
+      "w": 8,
       "l": 15,
       "otl": 2,
       "sol": 3,
-      "pts": 398
+      "pts": 409
     }
   ]
 }
