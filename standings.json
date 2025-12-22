@@ -147,13 +147,13 @@
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 25,
-      "gr": 47,
+      "gp": 26,
+      "gr": 46,
       "w": 12,
-      "l": 9,
+      "l": 10,
       "otl": 3,
       "sol": 1,
-      "pts": 332
+      "pts": 336
     },
     {
       "team": "Utica Comets",
@@ -169,13 +169,13 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 26,
-      "gr": 46,
-      "w": 24,
+      "gp": 27,
+      "gr": 45,
+      "w": 25,
       "l": 1,
       "otl": 0,
       "sol": 1,
-      "pts": 276
+      "pts": 278
     },
     {
       "team": "Manitoba Moose",
@@ -252,7 +252,7 @@
       "l": 6,
       "otl": 0,
       "sol": 1,
-      "pts": 324
+      "pts": 328
     },
     {
       "team": "Ontario Reign",
@@ -263,7 +263,7 @@
       "l": 8,
       "otl": 1,
       "sol": 1,
-      "pts": 321
+      "pts": 337
     },
     {
       "team": "San Jose Barracuda",
@@ -274,14 +274,14 @@
       "l": 9,
       "otl": 1,
       "sol": 1,
-      "pts": 369
+      "pts": 398
     },
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 29,
-      "gr": 43,
-      "w": 13,
+      "gp": 30,
+      "gr": 42,
+      "w": 14,
       "l": 10,
       "otl": 5,
       "sol": 1,
@@ -312,13 +312,13 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 25,
-      "gr": 47,
+      "gp": 26,
+      "gr": 46,
       "w": 11,
-      "l": 7,
+      "l": 8,
       "otl": 6,
       "sol": 1,
-      "pts": 292
+      "pts": 302
     },
     {
       "team": "Henderson Silver Knights",
@@ -329,7 +329,7 @@
       "l": 10,
       "otl": 2,
       "sol": 0,
-      "pts": 234
+      "pts": 236
     },
     {
       "team": "Tucson Roadrunners",
