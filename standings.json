@@ -10,7 +10,7 @@
       "l": 7,
       "otl": 1,
       "sol": 1,
-      "pts": 360
+      "pts": 362
     },
     {
       "team": "Providence Bruins",
@@ -21,7 +21,7 @@
       "l": 5,
       "otl": 1,
       "sol": 0,
-      "pts": 243
+      "pts": 248
     },
     {
       "team": "Charlotte Checkers",
@@ -65,7 +65,7 @@
       "l": 11,
       "otl": 4,
       "sol": 2,
-      "pts": 256
+      "pts": 261
     },
     {
       "team": "Bridgeport Islanders",
@@ -76,7 +76,7 @@
       "l": 13,
       "otl": 1,
       "sol": 1,
-      "pts": 335
+      "pts": 337
     },
     {
       "team": "Hartford Wolf Pack",
@@ -87,29 +87,29 @@
       "l": 13,
       "otl": 4,
       "sol": 1,
-      "pts": 382
-    },
-    {
-      "team": "Syracuse Crunch",
-      "division": "Other",
-      "gp": 28,
-      "gr": 44,
-      "w": 17,
-      "l": 10,
-      "otl": 1,
-      "sol": 0,
-      "pts": 368
+      "pts": 388
     },
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 28,
-      "gr": 44,
-      "w": 17,
+      "gp": 29,
+      "gr": 43,
+      "w": 18,
       "l": 10,
       "otl": 0,
       "sol": 1,
-      "pts": 468
+      "pts": 472
+    },
+    {
+      "team": "Syracuse Crunch",
+      "division": "Other",
+      "gp": 29,
+      "gr": 43,
+      "w": 17,
+      "l": 10,
+      "otl": 1,
+      "sol": 1,
+      "pts": 370
     },
     {
       "team": "Rochester Americans",
@@ -120,7 +120,7 @@
       "l": 10,
       "otl": 2,
       "sol": 1,
-      "pts": 373
+      "pts": 375
     },
     {
       "team": "Toronto Marlies",
@@ -153,7 +153,7 @@
       "l": 10,
       "otl": 3,
       "sol": 1,
-      "pts": 336
+      "pts": 338
     },
     {
       "team": "Utica Comets",
