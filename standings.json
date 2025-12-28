@@ -10,7 +10,7 @@
       "l": 7,
       "otl": 1,
       "sol": 1,
-      "pts": 362
+      "pts": 364
     },
     {
       "team": "Providence Bruins",
@@ -21,7 +21,7 @@
       "l": 5,
       "otl": 1,
       "sol": 0,
-      "pts": 250
+      "pts": 269
     },
     {
       "team": "Charlotte Checkers",
@@ -54,7 +54,18 @@
       "l": 11,
       "otl": 1,
       "sol": 0,
-      "pts": 348
+      "pts": 354
+    },
+    {
+      "team": "Hartford Wolf Pack",
+      "division": "Other",
+      "gp": 28,
+      "gr": 44,
+      "w": 10,
+      "l": 13,
+      "otl": 4,
+      "sol": 1,
+      "pts": 390
     },
     {
       "team": "Springfield Thunderbirds",
@@ -65,29 +76,18 @@
       "l": 11,
       "otl": 4,
       "sol": 2,
-      "pts": 263
+      "pts": 270
     },
     {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 26,
-      "gr": 46,
-      "w": 11,
-      "l": 13,
-      "otl": 1,
-      "sol": 1,
-      "pts": 337
-    },
-    {
-      "team": "Hartford Wolf Pack",
-      "division": "Other",
       "gp": 27,
       "gr": 45,
-      "w": 9,
-      "l": 13,
-      "otl": 4,
+      "w": 11,
+      "l": 14,
+      "otl": 1,
       "sol": 1,
-      "pts": 388
+      "pts": 339
     },
     {
       "team": "Laval Rocket",
@@ -114,11 +114,11 @@
     {
       "team": "Rochester Americans",
       "division": "Other",
-      "gp": 28,
-      "gr": 44,
+      "gp": 29,
+      "gr": 43,
       "w": 15,
       "l": 10,
-      "otl": 2,
+      "otl": 3,
       "sol": 1,
       "pts": 377
     },
@@ -131,7 +131,18 @@
       "l": 13,
       "otl": 1,
       "sol": 1,
-      "pts": 428
+      "pts": 430
+    },
+    {
+      "team": "Cleveland Monsters",
+      "division": "Other",
+      "gp": 27,
+      "gr": 45,
+      "w": 13,
+      "l": 10,
+      "otl": 3,
+      "sol": 1,
+      "pts": 338
     },
     {
       "team": "Belleville Senators",
@@ -145,17 +156,6 @@
       "pts": 431
     },
     {
-      "team": "Cleveland Monsters",
-      "division": "Other",
-      "gp": 26,
-      "gr": 46,
-      "w": 12,
-      "l": 10,
-      "otl": 3,
-      "sol": 1,
-      "pts": 338
-    },
-    {
       "team": "Utica Comets",
       "division": "Other",
       "gp": 26,
@@ -164,7 +164,7 @@
       "l": 15,
       "otl": 3,
       "sol": 1,
-      "pts": 298
+      "pts": 300
     },
     {
       "team": "Grand Rapids Griffins",
