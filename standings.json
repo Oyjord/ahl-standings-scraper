@@ -290,10 +290,10 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 27,
-      "gr": 45,
+      "gp": 28,
+      "gr": 44,
       "w": 15,
-      "l": 8,
+      "l": 9,
       "otl": 4,
       "sol": 0,
       "pts": 374
@@ -310,6 +310,17 @@
       "pts": 325
     },
     {
+      "team": "Henderson Silver Knights",
+      "division": "Pacific",
+      "gp": 27,
+      "gr": 45,
+      "w": 14,
+      "l": 10,
+      "otl": 3,
+      "sol": 0,
+      "pts": 253
+    },
+    {
       "team": "Bakersfield Condors",
       "division": "Pacific",
       "gp": 28,
@@ -319,17 +330,6 @@
       "otl": 5,
       "sol": 0,
       "pts": 421
-    },
-    {
-      "team": "Henderson Silver Knights",
-      "division": "Pacific",
-      "gp": 26,
-      "gr": 46,
-      "w": 13,
-      "l": 10,
-      "otl": 3,
-      "sol": 0,
-      "pts": 253
     },
     {
       "team": "Tucson Roadrunners",
