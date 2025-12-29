@@ -279,13 +279,13 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 31,
-      "gr": 41,
+      "gp": 32,
+      "gr": 40,
       "w": 14,
       "l": 11,
-      "otl": 5,
+      "otl": 6,
       "sol": 1,
-      "pts": 542
+      "pts": 544
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -296,7 +296,7 @@
       "l": 8,
       "otl": 4,
       "sol": 0,
-      "pts": 363
+      "pts": 374
     },
     {
       "team": "Bakersfield Condors",
@@ -318,7 +318,7 @@
       "l": 8,
       "otl": 6,
       "sol": 1,
-      "pts": 312
+      "pts": 321
     },
     {
       "team": "Henderson Silver Knights",
@@ -329,18 +329,18 @@
       "l": 10,
       "otl": 3,
       "sol": 0,
-      "pts": 236
+      "pts": 249
     },
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 27,
-      "gr": 45,
-      "w": 11,
+      "gp": 28,
+      "gr": 44,
+      "w": 12,
       "l": 12,
       "otl": 4,
       "sol": 0,
-      "pts": 339
+      "pts": 343
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 15,
       "otl": 3,
       "sol": 3,
-      "pts": 415
+      "pts": 438
     }
   ]
 }
