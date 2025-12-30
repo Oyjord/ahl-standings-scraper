@@ -26,9 +26,9 @@
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 27,
-      "gr": 45,
-      "w": 16,
+      "gp": 28,
+      "gr": 44,
+      "w": 17,
       "l": 9,
       "otl": 2,
       "sol": 0,
@@ -37,11 +37,11 @@
     {
       "team": "Lehigh Valley Phantoms",
       "division": "Other",
-      "gp": 29,
-      "gr": 43,
+      "gp": 30,
+      "gr": 42,
       "w": 15,
       "l": 11,
-      "otl": 1,
+      "otl": 2,
       "sol": 2,
       "pts": 437
     },
