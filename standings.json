@@ -32,7 +32,7 @@
       "l": 9,
       "otl": 2,
       "sol": 0,
-      "pts": 331
+      "pts": 341
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -43,7 +43,7 @@
       "l": 11,
       "otl": 1,
       "sol": 2,
-      "pts": 431
+      "pts": 437
     },
     {
       "team": "Hershey Bears",
@@ -114,13 +114,13 @@
     {
       "team": "Rochester Americans",
       "division": "Other",
-      "gp": 29,
-      "gr": 43,
-      "w": 15,
+      "gp": 30,
+      "gr": 42,
+      "w": 16,
       "l": 10,
       "otl": 3,
       "sol": 1,
-      "pts": 379
+      "pts": 381
     },
     {
       "team": "Toronto Marlies",
@@ -147,13 +147,13 @@
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 27,
-      "gr": 45,
+      "gp": 28,
+      "gr": 44,
       "w": 13,
       "l": 10,
-      "otl": 3,
+      "otl": 4,
       "sol": 1,
-      "pts": 338
+      "pts": 344
     },
     {
       "team": "Utica Comets",
