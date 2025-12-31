@@ -4,13 +4,13 @@
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 32,
-      "gr": 40,
+      "gp": 33,
+      "gr": 39,
       "w": 22,
-      "l": 7,
+      "l": 8,
       "otl": 1,
       "sol": 2,
-      "pts": 376
+      "pts": 384
     },
     {
       "team": "Providence Bruins",
@@ -26,13 +26,13 @@
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 28,
-      "gr": 44,
-      "w": 17,
+      "gp": 29,
+      "gr": 43,
+      "w": 18,
       "l": 9,
       "otl": 2,
       "sol": 0,
-      "pts": 343
+      "pts": 351
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -125,13 +125,13 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 30,
-      "gr": 42,
-      "w": 15,
+      "gp": 31,
+      "gr": 41,
+      "w": 16,
       "l": 13,
       "otl": 1,
       "sol": 1,
-      "pts": 438
+      "pts": 457
     },
     {
       "team": "Belleville Senators",
@@ -147,13 +147,13 @@
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 28,
-      "gr": 44,
+      "gp": 29,
+      "gr": 43,
       "w": 13,
-      "l": 10,
+      "l": 11,
       "otl": 4,
       "sol": 1,
-      "pts": 344
+      "pts": 354
     },
     {
       "team": "Utica Comets",
@@ -208,7 +208,7 @@
       "l": 14,
       "otl": 2,
       "sol": 1,
-      "pts": 512
+      "pts": 525
     },
     {
       "team": "Milwaukee Admirals",
@@ -219,7 +219,7 @@
       "l": 13,
       "otl": 2,
       "sol": 0,
-      "pts": 489
+      "pts": 500
     },
     {
       "team": "Texas Stars",
@@ -230,7 +230,7 @@
       "l": 14,
       "otl": 3,
       "sol": 1,
-      "pts": 292
+      "pts": 294
     },
     {
       "team": "Iowa Wild",
@@ -241,7 +241,7 @@
       "l": 20,
       "otl": 0,
       "sol": 1,
-      "pts": 452
+      "pts": 454
     },
     {
       "team": "Colorado Eagles",
@@ -252,7 +252,7 @@
       "l": 6,
       "otl": 0,
       "sol": 1,
-      "pts": 328
+      "pts": 332
     },
     {
       "team": "Ontario Reign",
@@ -285,7 +285,7 @@
       "l": 11,
       "otl": 6,
       "sol": 1,
-      "pts": 544
+      "pts": 550
     },
     {
       "team": "Coachella Valley Firebirds",
