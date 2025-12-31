@@ -175,7 +175,7 @@
       "l": 1,
       "otl": 0,
       "sol": 1,
-      "pts": 294
+      "pts": 303
     },
     {
       "team": "Chicago Wolves",
@@ -197,7 +197,7 @@
       "l": 11,
       "otl": 2,
       "sol": 0,
-      "pts": 329
+      "pts": 331
     },
     {
       "team": "Rockford IceHogs",
@@ -219,7 +219,7 @@
       "l": 13,
       "otl": 2,
       "sol": 0,
-      "pts": 504
+      "pts": 509
     },
     {
       "team": "Texas Stars",
@@ -230,7 +230,7 @@
       "l": 15,
       "otl": 3,
       "sol": 1,
-      "pts": 300
+      "pts": 302
     },
     {
       "team": "Iowa Wild",
@@ -351,7 +351,7 @@
       "l": 16,
       "otl": 3,
       "sol": 3,
-      "pts": 446
+      "pts": 448
     }
   ]
 }
