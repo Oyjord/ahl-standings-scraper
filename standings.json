@@ -257,9 +257,9 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 28,
-      "gr": 44,
-      "w": 17,
+      "gp": 29,
+      "gr": 43,
+      "w": 18,
       "l": 9,
       "otl": 1,
       "sol": 1,
@@ -312,13 +312,13 @@
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 27,
-      "gr": 45,
+      "gp": 28,
+      "gr": 44,
       "w": 14,
       "l": 10,
       "otl": 3,
-      "sol": 0,
-      "pts": 257
+      "sol": 1,
+      "pts": 269
     },
     {
       "team": "Bakersfield Condors",
