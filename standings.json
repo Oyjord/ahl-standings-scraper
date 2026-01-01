@@ -180,13 +180,13 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 27,
-      "gr": 45,
-      "w": 13,
+      "gp": 28,
+      "gr": 44,
+      "w": 14,
       "l": 7,
       "otl": 4,
       "sol": 3,
-      "pts": 394
+      "pts": 398
     },
     {
       "team": "Manitoba Moose",
@@ -197,15 +197,15 @@
       "l": 11,
       "otl": 2,
       "sol": 0,
-      "pts": 331
+      "pts": 333
     },
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 31,
-      "gr": 41,
+      "gp": 32,
+      "gr": 40,
       "w": 13,
-      "l": 15,
+      "l": 16,
       "otl": 2,
       "sol": 1,
       "pts": 538
@@ -241,7 +241,7 @@
       "l": 20,
       "otl": 0,
       "sol": 1,
-      "pts": 458
+      "pts": 460
     },
     {
       "team": "Colorado Eagles",
@@ -351,7 +351,7 @@
       "l": 16,
       "otl": 3,
       "sol": 3,
-      "pts": 448
+      "pts": 454
     }
   ]
 }
