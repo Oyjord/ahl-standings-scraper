@@ -191,9 +191,9 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 29,
-      "gr": 43,
-      "w": 15,
+      "gp": 30,
+      "gr": 42,
+      "w": 16,
       "l": 12,
       "otl": 2,
       "sol": 0,
@@ -263,7 +263,7 @@
       "l": 10,
       "otl": 1,
       "sol": 1,
-      "pts": 435
+      "pts": 440
     },
     {
       "team": "Ontario Reign",
@@ -285,7 +285,7 @@
       "l": 11,
       "otl": 7,
       "sol": 1,
-      "pts": 578
+      "pts": 582
     },
     {
       "team": "San Diego Gulls",
@@ -318,7 +318,7 @@
       "l": 10,
       "otl": 5,
       "sol": 0,
-      "pts": 443
+      "pts": 452
     },
     {
       "team": "Henderson Silver Knights",
@@ -340,15 +340,15 @@
       "l": 12,
       "otl": 5,
       "sol": 0,
-      "pts": 353
+      "pts": 359
     },
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 31,
-      "gr": 41,
+      "gp": 32,
+      "gr": 40,
       "w": 9,
-      "l": 16,
+      "l": 17,
       "otl": 3,
       "sol": 3,
       "pts": 460
