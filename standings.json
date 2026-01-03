@@ -92,9 +92,9 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 31,
-      "gr": 41,
-      "w": 20,
+      "gp": 32,
+      "gr": 40,
+      "w": 21,
       "l": 10,
       "otl": 0,
       "sol": 1,
@@ -158,34 +158,34 @@
     {
       "team": "Utica Comets",
       "division": "Other",
-      "gp": 28,
-      "gr": 44,
+      "gp": 29,
+      "gr": 43,
       "w": 7,
       "l": 16,
-      "otl": 3,
+      "otl": 4,
       "sol": 2,
-      "pts": 324
+      "pts": 326
     },
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 29,
-      "gr": 43,
-      "w": 26,
+      "gp": 30,
+      "gr": 42,
+      "w": 27,
       "l": 1,
       "otl": 1,
       "sol": 1,
-      "pts": 317
+      "pts": 336
     },
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 28,
-      "gr": 44,
+      "gp": 29,
+      "gr": 43,
       "w": 14,
       "l": 7,
       "otl": 4,
-      "sol": 3,
+      "sol": 4,
       "pts": 402
     },
     {
@@ -197,7 +197,7 @@
       "l": 12,
       "otl": 2,
       "sol": 0,
-      "pts": 341
+      "pts": 345
     },
     {
       "team": "Milwaukee Admirals",
@@ -263,7 +263,7 @@
       "l": 10,
       "otl": 1,
       "sol": 1,
-      "pts": 433
+      "pts": 435
     },
     {
       "team": "Ontario Reign",
@@ -285,7 +285,7 @@
       "l": 11,
       "otl": 7,
       "sol": 1,
-      "pts": 574
+      "pts": 578
     },
     {
       "team": "San Diego Gulls",
@@ -296,7 +296,7 @@
       "l": 8,
       "otl": 6,
       "sol": 1,
-      "pts": 331
+      "pts": 333
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -307,7 +307,7 @@
       "l": 10,
       "otl": 4,
       "sol": 0,
-      "pts": 382
+      "pts": 386
     },
     {
       "team": "Bakersfield Condors",
@@ -318,7 +318,7 @@
       "l": 10,
       "otl": 5,
       "sol": 0,
-      "pts": 439
+      "pts": 443
     },
     {
       "team": "Henderson Silver Knights",
@@ -340,7 +340,7 @@
       "l": 12,
       "otl": 5,
       "sol": 0,
-      "pts": 351
+      "pts": 353
     },
     {
       "team": "Abbotsford Canucks",
