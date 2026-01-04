@@ -24,6 +24,17 @@
       "pts": 347
     },
     {
+      "team": "Lehigh Valley Phantoms",
+      "division": "Other",
+      "gp": 33,
+      "gr": 39,
+      "w": 18,
+      "l": 11,
+      "otl": 2,
+      "sol": 2,
+      "pts": 462
+    },
+    {
       "team": "Charlotte Checkers",
       "division": "Other",
       "gp": 30,
@@ -35,22 +46,11 @@
       "pts": 359
     },
     {
-      "team": "Lehigh Valley Phantoms",
-      "division": "Other",
-      "gp": 32,
-      "gr": 40,
-      "w": 17,
-      "l": 11,
-      "otl": 2,
-      "sol": 2,
-      "pts": 462
-    },
-    {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 30,
-      "gr": 42,
-      "w": 15,
+      "gp": 31,
+      "gr": 41,
+      "w": 16,
       "l": 14,
       "otl": 1,
       "sol": 0,
@@ -114,10 +114,10 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 33,
-      "gr": 39,
+      "gp": 34,
+      "gr": 38,
       "w": 18,
-      "l": 13,
+      "l": 14,
       "otl": 1,
       "sol": 1,
       "pts": 486
@@ -213,10 +213,10 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 33,
-      "gr": 39,
+      "gp": 34,
+      "gr": 38,
       "w": 13,
-      "l": 17,
+      "l": 18,
       "otl": 2,
       "sol": 1,
       "pts": 560
@@ -230,7 +230,7 @@
       "l": 15,
       "otl": 3,
       "sol": 1,
-      "pts": 308
+      "pts": 314
     },
     {
       "team": "Iowa Wild",
