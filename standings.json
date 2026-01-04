@@ -169,24 +169,24 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 30,
-      "gr": 42,
-      "w": 27,
+      "gp": 31,
+      "gr": 41,
+      "w": 28,
       "l": 1,
       "otl": 1,
       "sol": 1,
-      "pts": 338
+      "pts": 340
     },
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 29,
-      "gr": 43,
+      "gp": 30,
+      "gr": 42,
       "w": 14,
-      "l": 7,
+      "l": 8,
       "otl": 4,
       "sol": 4,
-      "pts": 404
+      "pts": 408
     },
     {
       "team": "Manitoba Moose",
@@ -202,12 +202,12 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 29,
-      "gr": 43,
+      "gp": 30,
+      "gr": 42,
       "w": 14,
       "l": 13,
       "otl": 2,
-      "sol": 0,
+      "sol": 1,
       "pts": 521
     },
     {
@@ -224,9 +224,9 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 30,
-      "gr": 42,
-      "w": 11,
+      "gp": 31,
+      "gr": 41,
+      "w": 12,
       "l": 15,
       "otl": 3,
       "sol": 1,
@@ -252,7 +252,7 @@
       "l": 6,
       "otl": 1,
       "sol": 1,
-      "pts": 360
+      "pts": 366
     },
     {
       "team": "Ontario Reign",
@@ -263,7 +263,7 @@
       "l": 10,
       "otl": 1,
       "sol": 1,
-      "pts": 378
+      "pts": 382
     },
     {
       "team": "San Jose Barracuda",
@@ -274,7 +274,7 @@
       "l": 11,
       "otl": 1,
       "sol": 1,
-      "pts": 452
+      "pts": 464
     },
     {
       "team": "Calgary Wranglers",
@@ -296,7 +296,7 @@
       "l": 10,
       "otl": 4,
       "sol": 0,
-      "pts": 411
+      "pts": 413
     },
     {
       "team": "Bakersfield Condors",
@@ -307,7 +307,7 @@
       "l": 10,
       "otl": 5,
       "sol": 0,
-      "pts": 468
+      "pts": 482
     },
     {
       "team": "San Diego Gulls",
@@ -329,7 +329,7 @@
       "l": 10,
       "otl": 3,
       "sol": 1,
-      "pts": 273
+      "pts": 281
     },
     {
       "team": "Tucson Roadrunners",
