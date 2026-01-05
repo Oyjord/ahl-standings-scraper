@@ -246,10 +246,10 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 29,
-      "gr": 43,
+      "gp": 30,
+      "gr": 42,
       "w": 21,
-      "l": 6,
+      "l": 7,
       "otl": 1,
       "sol": 1,
       "pts": 376
@@ -321,6 +321,17 @@
       "pts": 354
     },
     {
+      "team": "Henderson Silver Knights",
+      "division": "Pacific",
+      "gp": 30,
+      "gr": 42,
+      "w": 15,
+      "l": 11,
+      "otl": 3,
+      "sol": 1,
+      "pts": 299
+    },
+    {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
       "gp": 31,
@@ -330,17 +341,6 @@
       "otl": 5,
       "sol": 0,
       "pts": 369
-    },
-    {
-      "team": "Henderson Silver Knights",
-      "division": "Pacific",
-      "gp": 29,
-      "gr": 43,
-      "w": 14,
-      "l": 11,
-      "otl": 3,
-      "sol": 1,
-      "pts": 297
     },
     {
       "team": "Abbotsford Canucks",
