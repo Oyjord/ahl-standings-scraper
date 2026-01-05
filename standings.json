@@ -202,13 +202,24 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 30,
-      "gr": 42,
+      "gp": 31,
+      "gr": 41,
       "w": 14,
-      "l": 13,
+      "l": 14,
       "otl": 2,
       "sol": 1,
       "pts": 523
+    },
+    {
+      "team": "Texas Stars",
+      "division": "Other",
+      "gp": 32,
+      "gr": 40,
+      "w": 13,
+      "l": 15,
+      "otl": 3,
+      "sol": 1,
+      "pts": 318
     },
     {
       "team": "Rockford IceHogs",
@@ -222,26 +233,15 @@
       "pts": 560
     },
     {
-      "team": "Texas Stars",
-      "division": "Other",
-      "gp": 31,
-      "gr": 41,
-      "w": 12,
-      "l": 15,
-      "otl": 3,
-      "sol": 1,
-      "pts": 314
-    },
-    {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 32,
-      "gr": 40,
+      "gp": 33,
+      "gr": 39,
       "w": 10,
-      "l": 20,
+      "l": 21,
       "otl": 1,
       "sol": 1,
-      "pts": 468
+      "pts": 470
     },
     {
       "team": "Colorado Eagles",
@@ -252,18 +252,18 @@
       "l": 6,
       "otl": 1,
       "sol": 1,
-      "pts": 368
+      "pts": 372
     },
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 31,
-      "gr": 41,
-      "w": 19,
+      "gp": 32,
+      "gr": 40,
+      "w": 20,
       "l": 10,
       "otl": 1,
       "sol": 1,
-      "pts": 388
+      "pts": 392
     },
     {
       "team": "San Jose Barracuda",
@@ -340,7 +340,7 @@
       "l": 11,
       "otl": 3,
       "sol": 1,
-      "pts": 295
+      "pts": 297
     },
     {
       "team": "Abbotsford Canucks",
