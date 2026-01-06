@@ -37,13 +37,13 @@
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 30,
-      "gr": 42,
+      "gp": 31,
+      "gr": 41,
       "w": 18,
-      "l": 10,
+      "l": 11,
       "otl": 2,
       "sol": 0,
-      "pts": 359
+      "pts": 365
     },
     {
       "team": "Hershey Bears",
@@ -136,13 +136,13 @@
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 30,
-      "gr": 42,
-      "w": 14,
+      "gp": 31,
+      "gr": 41,
+      "w": 15,
       "l": 11,
       "otl": 4,
       "sol": 1,
-      "pts": 358
+      "pts": 366
     },
     {
       "team": "Belleville Senators",
