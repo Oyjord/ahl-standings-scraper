@@ -277,6 +277,17 @@
       "pts": 472
     },
     {
+      "team": "Bakersfield Condors",
+      "division": "Pacific",
+      "gp": 32,
+      "gr": 40,
+      "w": 17,
+      "l": 10,
+      "otl": 5,
+      "sol": 0,
+      "pts": 492
+    },
+    {
       "team": "Calgary Wranglers",
       "division": "Pacific",
       "gp": 36,
@@ -286,17 +297,6 @@
       "otl": 7,
       "sol": 1,
       "pts": 590
-    },
-    {
-      "team": "Bakersfield Condors",
-      "division": "Pacific",
-      "gp": 31,
-      "gr": 41,
-      "w": 16,
-      "l": 10,
-      "otl": 5,
-      "sol": 0,
-      "pts": 492
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -345,10 +345,10 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 32,
-      "gr": 40,
+      "gp": 33,
+      "gr": 39,
       "w": 9,
-      "l": 17,
+      "l": 18,
       "otl": 3,
       "sol": 3,
       "pts": 464
