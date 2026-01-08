@@ -274,7 +274,7 @@
       "l": 11,
       "otl": 1,
       "sol": 2,
-      "pts": 474
+      "pts": 476
     },
     {
       "team": "Bakersfield Condors",
@@ -285,7 +285,7 @@
       "l": 10,
       "otl": 5,
       "sol": 0,
-      "pts": 497
+      "pts": 506
     },
     {
       "team": "Calgary Wranglers",
@@ -307,7 +307,7 @@
       "l": 11,
       "otl": 4,
       "sol": 0,
-      "pts": 429
+      "pts": 462
     },
     {
       "team": "San Diego Gulls",
@@ -318,7 +318,7 @@
       "l": 9,
       "otl": 6,
       "sol": 1,
-      "pts": 356
+      "pts": 358
     },
     {
       "team": "Henderson Silver Knights",
@@ -329,7 +329,7 @@
       "l": 11,
       "otl": 3,
       "sol": 1,
-      "pts": 299
+      "pts": 308
     },
     {
       "team": "Tucson Roadrunners",
@@ -351,7 +351,7 @@
       "l": 18,
       "otl": 3,
       "sol": 3,
-      "pts": 471
+      "pts": 476
     }
   ]
 }
