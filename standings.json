@@ -59,13 +59,13 @@
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 31,
-      "gr": 41,
+      "gp": 32,
+      "gr": 40,
       "w": 12,
-      "l": 13,
+      "l": 14,
       "otl": 4,
       "sol": 2,
-      "pts": 321
+      "pts": 332
     },
     {
       "team": "Hartford Wolf Pack",
@@ -103,13 +103,24 @@
     {
       "team": "Syracuse Crunch",
       "division": "Other",
-      "gp": 32,
-      "gr": 40,
+      "gp": 33,
+      "gr": 39,
       "w": 18,
-      "l": 11,
+      "l": 12,
       "otl": 2,
       "sol": 1,
-      "pts": 456
+      "pts": 458
+    },
+    {
+      "team": "Rochester Americans",
+      "division": "Other",
+      "gp": 32,
+      "gr": 40,
+      "w": 17,
+      "l": 11,
+      "otl": 3,
+      "sol": 1,
+      "pts": 387
     },
     {
       "team": "Toronto Marlies",
@@ -120,18 +131,7 @@
       "l": 14,
       "otl": 1,
       "sol": 1,
-      "pts": 486
-    },
-    {
-      "team": "Rochester Americans",
-      "division": "Other",
-      "gp": 31,
-      "gr": 41,
-      "w": 16,
-      "l": 11,
-      "otl": 3,
-      "sol": 1,
-      "pts": 383
+      "pts": 495
     },
     {
       "team": "Cleveland Monsters",
@@ -142,7 +142,7 @@
       "l": 11,
       "otl": 4,
       "sol": 1,
-      "pts": 368
+      "pts": 377
     },
     {
       "team": "Belleville Senators",
@@ -158,24 +158,24 @@
     {
       "team": "Utica Comets",
       "division": "Other",
-      "gp": 30,
-      "gr": 42,
-      "w": 8,
+      "gp": 31,
+      "gr": 41,
+      "w": 9,
       "l": 16,
       "otl": 4,
       "sol": 2,
-      "pts": 343
+      "pts": 356
     },
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
       "gp": 31,
-      "gr": 41,
+      "gr": 40,
       "w": 28,
       "l": 1,
       "otl": 1,
       "sol": 1,
-      "pts": 340
+      "pts": 359
     },
     {
       "team": "Chicago Wolves",
@@ -214,12 +214,12 @@
       "team": "Texas Stars",
       "division": "Other",
       "gp": 32,
-      "gr": 40,
+      "gr": 39,
       "w": 13,
       "l": 15,
       "otl": 3,
       "sol": 1,
-      "pts": 318
+      "pts": 341
     },
     {
       "team": "Rockford IceHogs",
@@ -307,7 +307,7 @@
       "l": 11,
       "otl": 4,
       "sol": 0,
-      "pts": 427
+      "pts": 429
     },
     {
       "team": "San Diego Gulls",
