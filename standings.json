@@ -112,6 +112,17 @@
       "pts": 458
     },
     {
+      "team": "Toronto Marlies",
+      "division": "Other",
+      "gp": 35,
+      "gr": 37,
+      "w": 18,
+      "l": 14,
+      "otl": 1,
+      "sol": 2,
+      "pts": 495
+    },
+    {
       "team": "Rochester Americans",
       "division": "Other",
       "gp": 32,
@@ -123,22 +134,11 @@
       "pts": 387
     },
     {
-      "team": "Toronto Marlies",
-      "division": "Other",
-      "gp": 34,
-      "gr": 38,
-      "w": 18,
-      "l": 14,
-      "otl": 1,
-      "sol": 1,
-      "pts": 495
-    },
-    {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 31,
-      "gr": 41,
-      "w": 15,
+      "gp": 32,
+      "gr": 40,
+      "w": 16,
       "l": 11,
       "otl": 4,
       "sol": 1,
@@ -169,9 +169,9 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 31,
+      "gp": 32,
       "gr": 40,
-      "w": 28,
+      "w": 29,
       "l": 1,
       "otl": 1,
       "sol": 1,
@@ -213,10 +213,10 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 32,
+      "gp": 33,
       "gr": 39,
       "w": 13,
-      "l": 15,
+      "l": 16,
       "otl": 3,
       "sol": 1,
       "pts": 341
@@ -241,7 +241,7 @@
       "l": 21,
       "otl": 1,
       "sol": 1,
-      "pts": 470
+      "pts": 474
     },
     {
       "team": "Colorado Eagles",
@@ -263,7 +263,7 @@
       "l": 10,
       "otl": 1,
       "sol": 1,
-      "pts": 392
+      "pts": 396
     },
     {
       "team": "San Jose Barracuda",
@@ -274,7 +274,7 @@
       "l": 11,
       "otl": 1,
       "sol": 2,
-      "pts": 472
+      "pts": 474
     },
     {
       "team": "Bakersfield Condors",
@@ -285,7 +285,7 @@
       "l": 10,
       "otl": 5,
       "sol": 0,
-      "pts": 492
+      "pts": 497
     },
     {
       "team": "Calgary Wranglers",
@@ -318,7 +318,7 @@
       "l": 9,
       "otl": 6,
       "sol": 1,
-      "pts": 354
+      "pts": 356
     },
     {
       "team": "Henderson Silver Knights",
@@ -351,7 +351,7 @@
       "l": 18,
       "otl": 3,
       "sol": 3,
-      "pts": 464
+      "pts": 471
     }
   ]
 }
