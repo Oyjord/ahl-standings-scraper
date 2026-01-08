@@ -235,10 +235,10 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 33,
-      "gr": 39,
+      "gp": 34,
+      "gr": 38,
       "w": 10,
-      "l": 21,
+      "l": 22,
       "otl": 1,
       "sol": 1,
       "pts": 474
@@ -257,13 +257,13 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 32,
-      "gr": 40,
-      "w": 20,
+      "gp": 33,
+      "gr": 39,
+      "w": 21,
       "l": 10,
       "otl": 1,
       "sol": 1,
-      "pts": 398
+      "pts": 402
     },
     {
       "team": "San Jose Barracuda",
@@ -285,7 +285,7 @@
       "l": 10,
       "otl": 5,
       "sol": 0,
-      "pts": 506
+      "pts": 508
     },
     {
       "team": "Calgary Wranglers",
@@ -299,15 +299,26 @@
       "pts": 590
     },
     {
-      "team": "Coachella Valley Firebirds",
+      "team": "Henderson Silver Knights",
       "division": "Pacific",
       "gp": 31,
       "gr": 41,
       "w": 16,
       "l": 11,
+      "otl": 3,
+      "sol": 1,
+      "pts": 322
+    },
+    {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 32,
+      "gr": 40,
+      "w": 16,
+      "l": 12,
       "otl": 4,
       "sol": 0,
-      "pts": 466
+      "pts": 490
     },
     {
       "team": "San Diego Gulls",
@@ -318,18 +329,7 @@
       "l": 9,
       "otl": 6,
       "sol": 1,
-      "pts": 358
-    },
-    {
-      "team": "Henderson Silver Knights",
-      "division": "Pacific",
-      "gp": 30,
-      "gr": 42,
-      "w": 15,
-      "l": 11,
-      "otl": 3,
-      "sol": 1,
-      "pts": 310
+      "pts": 360
     },
     {
       "team": "Tucson Roadrunners",
@@ -351,7 +351,7 @@
       "l": 18,
       "otl": 3,
       "sol": 3,
-      "pts": 476
+      "pts": 478
     }
   ]
 }
