@@ -235,13 +235,13 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 34,
-      "gr": 38,
+      "gp": 35,
+      "gr": 37,
       "w": 10,
       "l": 22,
-      "otl": 1,
+      "otl": 2,
       "sol": 1,
-      "pts": 478
+      "pts": 484
     },
     {
       "team": "Colorado Eagles",
@@ -263,7 +263,7 @@
       "l": 10,
       "otl": 1,
       "sol": 1,
-      "pts": 409
+      "pts": 411
     },
     {
       "team": "Bakersfield Condors",
@@ -307,7 +307,7 @@
       "l": 11,
       "otl": 3,
       "sol": 1,
-      "pts": 329
+      "pts": 333
     },
     {
       "team": "San Diego Gulls",
@@ -334,9 +334,9 @@
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 31,
-      "gr": 41,
-      "w": 14,
+      "gp": 32,
+      "gr": 40,
+      "w": 15,
       "l": 12,
       "otl": 5,
       "sol": 0,
