@@ -54,7 +54,7 @@
       "l": 14,
       "otl": 1,
       "sol": 0,
-      "pts": 435
+      "pts": 437
     },
     {
       "team": "Springfield Thunderbirds",
@@ -142,7 +142,7 @@
       "l": 12,
       "otl": 4,
       "sol": 1,
-      "pts": 412
+      "pts": 414
     },
     {
       "team": "Belleville Senators",
@@ -180,22 +180,22 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 32,
-      "gr": 40,
-      "w": 15,
+      "gp": 33,
+      "gr": 39,
+      "w": 16,
       "l": 9,
       "otl": 4,
       "sol": 4,
-      "pts": 424
+      "pts": 426
     },
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 32,
-      "gr": 40,
+      "gp": 33,
+      "gr": 39,
       "w": 17,
       "l": 13,
-      "otl": 2,
+      "otl": 3,
       "sol": 0,
       "pts": 429
     },
@@ -351,7 +351,7 @@
       "l": 19,
       "otl": 3,
       "sol": 3,
-      "pts": 482
+      "pts": 484
     }
   ]
 }
