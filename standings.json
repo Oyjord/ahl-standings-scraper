@@ -24,6 +24,17 @@
       "pts": 503
     },
     {
+      "team": "Charlotte Checkers",
+      "division": "Other",
+      "gp": 34,
+      "gr": 38,
+      "w": 20,
+      "l": 12,
+      "otl": 2,
+      "sol": 0,
+      "pts": 414
+    },
+    {
       "team": "Lehigh Valley Phantoms",
       "division": "Other",
       "gp": 35,
@@ -33,17 +44,6 @@
       "otl": 2,
       "sol": 2,
       "pts": 487
-    },
-    {
-      "team": "Charlotte Checkers",
-      "division": "Other",
-      "gp": 33,
-      "gr": 39,
-      "w": 19,
-      "l": 12,
-      "otl": 2,
-      "sol": 0,
-      "pts": 407
     },
     {
       "team": "Hershey Bears",
@@ -59,13 +59,13 @@
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 34,
-      "gr": 38,
+      "gp": 35,
+      "gr": 37,
       "w": 13,
-      "l": 15,
+      "l": 16,
       "otl": 4,
       "sol": 2,
-      "pts": 357
+      "pts": 366
     },
     {
       "team": "Bridgeport Islanders",
@@ -175,7 +175,7 @@
       "l": 2,
       "otl": 1,
       "sol": 1,
-      "pts": 368
+      "pts": 372
     },
     {
       "team": "Chicago Wolves",
@@ -197,7 +197,7 @@
       "l": 13,
       "otl": 3,
       "sol": 0,
-      "pts": 429
+      "pts": 456
     },
     {
       "team": "Texas Stars",
@@ -208,7 +208,7 @@
       "l": 16,
       "otl": 3,
       "sol": 1,
-      "pts": 354
+      "pts": 356
     },
     {
       "team": "Milwaukee Admirals",
@@ -219,7 +219,7 @@
       "l": 14,
       "otl": 2,
       "sol": 1,
-      "pts": 538
+      "pts": 542
     },
     {
       "team": "Rockford IceHogs",
@@ -230,7 +230,7 @@
       "l": 19,
       "otl": 2,
       "sol": 2,
-      "pts": 591
+      "pts": 600
     },
     {
       "team": "Iowa Wild",
@@ -318,7 +318,7 @@
       "l": 12,
       "otl": 4,
       "sol": 0,
-      "pts": 496
+      "pts": 498
     },
     {
       "team": "Henderson Silver Knights",
