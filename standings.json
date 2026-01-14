@@ -175,7 +175,7 @@
       "l": 2,
       "otl": 1,
       "sol": 1,
-      "pts": 372
+      "pts": 374
     },
     {
       "team": "Chicago Wolves",
@@ -191,10 +191,10 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 33,
-      "gr": 39,
+      "gp": 34,
+      "gr": 38,
       "w": 17,
-      "l": 13,
+      "l": 14,
       "otl": 3,
       "sol": 0,
       "pts": 456
@@ -202,13 +202,13 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 35,
-      "gr": 37,
+      "gp": 36,
+      "gr": 36,
       "w": 15,
-      "l": 16,
+      "l": 17,
       "otl": 3,
       "sol": 1,
-      "pts": 356
+      "pts": 370
     },
     {
       "team": "Milwaukee Admirals",
@@ -219,18 +219,18 @@
       "l": 14,
       "otl": 2,
       "sol": 1,
-      "pts": 542
+      "pts": 546
     },
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 36,
-      "gr": 36,
-      "w": 13,
+      "gp": 37,
+      "gr": 35,
+      "w": 14,
       "l": 19,
       "otl": 2,
       "sol": 2,
-      "pts": 600
+      "pts": 608
     },
     {
       "team": "Iowa Wild",
@@ -252,7 +252,7 @@
       "l": 7,
       "otl": 1,
       "sol": 2,
-      "pts": 395
+      "pts": 397
     },
     {
       "team": "Ontario Reign",
@@ -263,7 +263,7 @@
       "l": 11,
       "otl": 1,
       "sol": 1,
-      "pts": 423
+      "pts": 429
     },
     {
       "team": "Bakersfield Condors",
@@ -288,6 +288,17 @@
       "pts": 511
     },
     {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 34,
+      "gr": 38,
+      "w": 18,
+      "l": 12,
+      "otl": 4,
+      "sol": 0,
+      "pts": 512
+    },
+    {
       "team": "Calgary Wranglers",
       "division": "Pacific",
       "gp": 38,
@@ -308,17 +319,6 @@
       "otl": 6,
       "sol": 2,
       "pts": 377
-    },
-    {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 33,
-      "gr": 39,
-      "w": 17,
-      "l": 12,
-      "otl": 4,
-      "sol": 0,
-      "pts": 498
     },
     {
       "team": "Henderson Silver Knights",
