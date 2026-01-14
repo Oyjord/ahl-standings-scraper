@@ -244,26 +244,26 @@
       "pts": 497
     },
     {
-      "team": "Colorado Eagles",
-      "division": "Pacific",
-      "gp": 32,
-      "gr": 40,
-      "w": 22,
-      "l": 7,
-      "otl": 1,
-      "sol": 2,
-      "pts": 401
-    },
-    {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 35,
-      "gr": 37,
-      "w": 22,
+      "gp": 36,
+      "gr": 36,
+      "w": 23,
       "l": 11,
       "otl": 1,
       "sol": 1,
       "pts": 429
+    },
+    {
+      "team": "Colorado Eagles",
+      "division": "Pacific",
+      "gp": 33,
+      "gr": 39,
+      "w": 22,
+      "l": 8,
+      "otl": 1,
+      "sol": 2,
+      "pts": 401
     },
     {
       "team": "Bakersfield Condors",
