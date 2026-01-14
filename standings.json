@@ -169,11 +169,11 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 33,
-      "gr": 39,
+      "gp": 34,
+      "gr": 38,
       "w": 29,
       "l": 2,
-      "otl": 1,
+      "otl": 2,
       "sol": 1,
       "pts": 374
     },
@@ -200,6 +200,17 @@
       "pts": 456
     },
     {
+      "team": "Milwaukee Admirals",
+      "division": "Other",
+      "gp": 33,
+      "gr": 39,
+      "w": 16,
+      "l": 14,
+      "otl": 2,
+      "sol": 1,
+      "pts": 546
+    },
+    {
       "team": "Texas Stars",
       "division": "Other",
       "gp": 36,
@@ -209,17 +220,6 @@
       "otl": 3,
       "sol": 1,
       "pts": 370
-    },
-    {
-      "team": "Milwaukee Admirals",
-      "division": "Other",
-      "gp": 32,
-      "gr": 40,
-      "w": 15,
-      "l": 14,
-      "otl": 2,
-      "sol": 1,
-      "pts": 546
     },
     {
       "team": "Rockford IceHogs",
@@ -252,7 +252,7 @@
       "l": 7,
       "otl": 1,
       "sol": 2,
-      "pts": 397
+      "pts": 401
     },
     {
       "team": "Ontario Reign",
