@@ -48,11 +48,11 @@
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 33,
-      "gr": 39,
+      "gp": 34,
+      "gr": 38,
       "w": 17,
       "l": 14,
-      "otl": 2,
+      "otl": 3,
       "sol": 0,
       "pts": 439
     },
@@ -68,6 +68,17 @@
       "pts": 368
     },
     {
+      "team": "Hartford Wolf Pack",
+      "division": "Other",
+      "gp": 35,
+      "gr": 37,
+      "w": 13,
+      "l": 17,
+      "otl": 4,
+      "sol": 1,
+      "pts": 519
+    },
+    {
       "team": "Bridgeport Islanders",
       "division": "Other",
       "gp": 34,
@@ -79,24 +90,13 @@
       "pts": 428
     },
     {
-      "team": "Hartford Wolf Pack",
-      "division": "Other",
-      "gp": 34,
-      "gr": 38,
-      "w": 12,
-      "l": 17,
-      "otl": 4,
-      "sol": 1,
-      "pts": 519
-    },
-    {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 35,
-      "gr": 37,
+      "gp": 36,
+      "gr": 36,
       "w": 22,
       "l": 12,
-      "otl": 0,
+      "otl": 1,
       "sol": 1,
       "pts": 556
     },
@@ -147,9 +147,9 @@
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 38,
-      "gr": 34,
-      "w": 14,
+      "gp": 39,
+      "gr": 33,
+      "w": 15,
       "l": 18,
       "otl": 6,
       "sol": 0,
@@ -213,10 +213,10 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 36,
-      "gr": 36,
+      "gp": 37,
+      "gr": 35,
       "w": 15,
-      "l": 17,
+      "l": 18,
       "otl": 3,
       "sol": 1,
       "pts": 372
@@ -252,7 +252,7 @@
       "l": 11,
       "otl": 1,
       "sol": 1,
-      "pts": 431
+      "pts": 433
     },
     {
       "team": "Colorado Eagles",
@@ -263,7 +263,7 @@
       "l": 8,
       "otl": 1,
       "sol": 2,
-      "pts": 403
+      "pts": 407
     },
     {
       "team": "Bakersfield Condors",
@@ -290,9 +290,9 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 34,
-      "gr": 38,
-      "w": 18,
+      "gp": 35,
+      "gr": 37,
+      "w": 19,
       "l": 12,
       "otl": 4,
       "sol": 0,
@@ -318,7 +318,7 @@
       "l": 10,
       "otl": 6,
       "sol": 2,
-      "pts": 377
+      "pts": 381
     },
     {
       "team": "Henderson Silver Knights",
@@ -351,7 +351,7 @@
       "l": 19,
       "otl": 3,
       "sol": 3,
-      "pts": 484
+      "pts": 488
     }
   ]
 }
