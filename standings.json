@@ -299,6 +299,17 @@
       "pts": 516
     },
     {
+      "team": "San Diego Gulls",
+      "division": "Pacific",
+      "gp": 35,
+      "gr": 37,
+      "w": 16,
+      "l": 11,
+      "otl": 6,
+      "sol": 2,
+      "pts": 400
+    },
+    {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
       "gp": 34,
@@ -321,17 +332,6 @@
       "pts": 610
     },
     {
-      "team": "San Diego Gulls",
-      "division": "Pacific",
-      "gp": 34,
-      "gr": 38,
-      "w": 15,
-      "l": 11,
-      "otl": 6,
-      "sol": 2,
-      "pts": 391
-    },
-    {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
       "gp": 33,
@@ -345,13 +345,13 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 37,
-      "gr": 35,
+      "gp": 38,
+      "gr": 34,
       "w": 12,
-      "l": 19,
+      "l": 20,
       "otl": 3,
       "sol": 3,
-      "pts": 496
+      "pts": 505
     }
   ]
 }
