@@ -32,7 +32,7 @@
       "l": 12,
       "otl": 2,
       "sol": 0,
-      "pts": 422
+      "pts": 435
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -54,7 +54,7 @@
       "l": 14,
       "otl": 3,
       "sol": 0,
-      "pts": 439
+      "pts": 452
     },
     {
       "team": "Hartford Wolf Pack",
@@ -65,7 +65,7 @@
       "l": 17,
       "otl": 4,
       "sol": 1,
-      "pts": 519
+      "pts": 521
     },
     {
       "team": "Bridgeport Islanders",
@@ -92,13 +92,13 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 37,
-      "gr": 35,
+      "gp": 38,
+      "gr": 34,
       "w": 22,
-      "l": 12,
+      "l": 13,
       "otl": 1,
       "sol": 2,
-      "pts": 564
+      "pts": 568
     },
     {
       "team": "Syracuse Crunch",
@@ -120,7 +120,7 @@
       "l": 12,
       "otl": 4,
       "sol": 1,
-      "pts": 409
+      "pts": 411
     },
     {
       "team": "Toronto Marlies",
@@ -164,7 +164,7 @@
       "l": 18,
       "otl": 4,
       "sol": 2,
-      "pts": 417
+      "pts": 421
     },
     {
       "team": "Grand Rapids Griffins",
@@ -191,13 +191,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 35,
-      "gr": 37,
-      "w": 18,
+      "gp": 36,
+      "gr": 36,
+      "w": 19,
       "l": 14,
       "otl": 3,
       "sol": 0,
-      "pts": 464
+      "pts": 474
     },
     {
       "team": "Milwaukee Admirals",
