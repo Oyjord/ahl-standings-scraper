@@ -125,9 +125,9 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 37,
-      "gr": 35,
-      "w": 19,
+      "gp": 38,
+      "gr": 34,
+      "w": 20,
       "l": 15,
       "otl": 1,
       "sol": 2,
@@ -180,9 +180,9 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 33,
-      "gr": 39,
-      "w": 16,
+      "gp": 34,
+      "gr": 38,
+      "w": 17,
       "l": 9,
       "otl": 4,
       "sol": 4,
@@ -202,10 +202,10 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 33,
-      "gr": 39,
+      "gp": 34,
+      "gr": 38,
       "w": 16,
-      "l": 14,
+      "l": 15,
       "otl": 2,
       "sol": 1,
       "pts": 554
@@ -235,10 +235,10 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 36,
-      "gr": 36,
+      "gp": 37,
+      "gr": 35,
       "w": 10,
-      "l": 22,
+      "l": 23,
       "otl": 3,
       "sol": 1,
       "pts": 509
@@ -285,7 +285,7 @@
       "l": 11,
       "otl": 1,
       "sol": 2,
-      "pts": 511
+      "pts": 513
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -318,7 +318,7 @@
       "l": 11,
       "otl": 6,
       "sol": 2,
-      "pts": 389
+      "pts": 391
     },
     {
       "team": "Henderson Silver Knights",
@@ -340,7 +340,7 @@
       "l": 12,
       "otl": 5,
       "sol": 0,
-      "pts": 394
+      "pts": 396
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 19,
       "otl": 3,
       "sol": 3,
-      "pts": 494
+      "pts": 496
     }
   ]
 }
