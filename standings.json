@@ -180,13 +180,13 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 34,
-      "gr": 38,
-      "w": 17,
+      "gp": 35,
+      "gr": 37,
+      "w": 18,
       "l": 9,
       "otl": 4,
       "sol": 4,
-      "pts": 455
+      "pts": 459
     },
     {
       "team": "Manitoba Moose",
@@ -213,21 +213,21 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 38,
-      "gr": 34,
+      "gp": 39,
+      "gr": 33,
       "w": 15,
-      "l": 19,
+      "l": 20,
       "otl": 2,
       "sol": 2,
-      "pts": 641
+      "pts": 643
     },
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 37,
-      "gr": 35,
+      "gp": 38,
+      "gr": 34,
       "w": 15,
-      "l": 18,
+      "l": 19,
       "otl": 3,
       "sol": 1,
       "pts": 380
@@ -246,9 +246,9 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 37,
-      "gr": 35,
-      "w": 24,
+      "gp": 38,
+      "gr": 34,
+      "w": 25,
       "l": 11,
       "otl": 1,
       "sol": 1,
@@ -285,7 +285,7 @@
       "l": 12,
       "otl": 1,
       "sol": 2,
-      "pts": 519
+      "pts": 526
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -296,7 +296,7 @@
       "l": 12,
       "otl": 4,
       "sol": 0,
-      "pts": 520
+      "pts": 522
     },
     {
       "team": "San Diego Gulls",
@@ -307,7 +307,7 @@
       "l": 11,
       "otl": 6,
       "sol": 2,
-      "pts": 404
+      "pts": 406
     },
     {
       "team": "Tucson Roadrunners",
@@ -318,7 +318,7 @@
       "l": 12,
       "otl": 5,
       "sol": 0,
-      "pts": 402
+      "pts": 409
     },
     {
       "team": "Calgary Wranglers",
