@@ -2,6 +2,17 @@
   "division": "All Divisions",
   "teams": [
     {
+      "team": "Providence Bruins",
+      "division": "Other",
+      "gp": 36,
+      "gr": 36,
+      "w": 27,
+      "l": 8,
+      "otl": 1,
+      "sol": 0,
+      "pts": 438
+    },
+    {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
       "gp": 39,
@@ -13,17 +24,6 @@
       "pts": 528
     },
     {
-      "team": "Providence Bruins",
-      "division": "Other",
-      "gp": 35,
-      "gr": 37,
-      "w": 26,
-      "l": 8,
-      "otl": 1,
-      "sol": 0,
-      "pts": 423
-    },
-    {
       "team": "Charlotte Checkers",
       "division": "Other",
       "gp": 36,
@@ -32,7 +32,7 @@
       "l": 12,
       "otl": 3,
       "sol": 0,
-      "pts": 463
+      "pts": 471
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -54,7 +54,7 @@
       "l": 14,
       "otl": 3,
       "sol": 0,
-      "pts": 454
+      "pts": 468
     },
     {
       "team": "Bridgeport Islanders",
@@ -136,13 +136,13 @@
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 35,
-      "gr": 37,
+      "gp": 36,
+      "gr": 36,
       "w": 17,
-      "l": 13,
+      "l": 14,
       "otl": 4,
       "sol": 1,
-      "pts": 428
+      "pts": 447
     },
     {
       "team": "Belleville Senators",
@@ -153,7 +153,7 @@
       "l": 18,
       "otl": 6,
       "sol": 0,
-      "pts": 538
+      "pts": 544
     },
     {
       "team": "Utica Comets",
@@ -164,7 +164,7 @@
       "l": 18,
       "otl": 4,
       "sol": 2,
-      "pts": 425
+      "pts": 427
     },
     {
       "team": "Grand Rapids Griffins",
@@ -186,7 +186,7 @@
       "l": 9,
       "otl": 4,
       "sol": 4,
-      "pts": 459
+      "pts": 461
     },
     {
       "team": "Manitoba Moose",
@@ -219,7 +219,7 @@
       "l": 20,
       "otl": 2,
       "sol": 2,
-      "pts": 643
+      "pts": 647
     },
     {
       "team": "Texas Stars",
@@ -268,13 +268,13 @@
     {
       "team": "Bakersfield Condors",
       "division": "Pacific",
-      "gp": 36,
-      "gr": 36,
-      "w": 20,
+      "gp": 37,
+      "gr": 35,
+      "w": 21,
       "l": 10,
       "otl": 6,
       "sol": 0,
-      "pts": 550
+      "pts": 563
     },
     {
       "team": "San Jose Barracuda",
@@ -323,13 +323,13 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 39,
-      "gr": 33,
+      "gp": 40,
+      "gr": 32,
       "w": 15,
       "l": 15,
-      "otl": 7,
+      "otl": 8,
       "sol": 2,
-      "pts": 610
+      "pts": 621
     },
     {
       "team": "Henderson Silver Knights",
