@@ -10,7 +10,7 @@
       "l": 11,
       "otl": 1,
       "sol": 2,
-      "pts": 517
+      "pts": 523
     },
     {
       "team": "Providence Bruins",
@@ -21,16 +21,16 @@
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 407
+      "pts": 409
     },
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 35,
-      "gr": 37,
+      "gp": 36,
+      "gr": 36,
       "w": 21,
       "l": 12,
-      "otl": 2,
+      "otl": 3,
       "sol": 0,
       "pts": 463
     },
@@ -48,9 +48,9 @@
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 34,
-      "gr": 38,
-      "w": 17,
+      "gp": 35,
+      "gr": 37,
+      "w": 18,
       "l": 14,
       "otl": 3,
       "sol": 0,
@@ -87,7 +87,7 @@
       "l": 17,
       "otl": 4,
       "sol": 2,
-      "pts": 368
+      "pts": 370
     },
     {
       "team": "Laval Rocket",
@@ -120,7 +120,7 @@
       "l": 12,
       "otl": 4,
       "sol": 1,
-      "pts": 411
+      "pts": 413
     },
     {
       "team": "Toronto Marlies",
@@ -131,7 +131,7 @@
       "l": 15,
       "otl": 1,
       "sol": 2,
-      "pts": 534
+      "pts": 538
     },
     {
       "team": "Cleveland Monsters",
@@ -142,7 +142,7 @@
       "l": 12,
       "otl": 4,
       "sol": 1,
-      "pts": 414
+      "pts": 418
     },
     {
       "team": "Belleville Senators",
@@ -175,7 +175,7 @@
       "l": 3,
       "otl": 2,
       "sol": 1,
-      "pts": 378
+      "pts": 380
     },
     {
       "team": "Chicago Wolves",
@@ -208,7 +208,7 @@
       "l": 15,
       "otl": 2,
       "sol": 1,
-      "pts": 554
+      "pts": 556
     },
     {
       "team": "Rockford IceHogs",
@@ -241,7 +241,7 @@
       "l": 23,
       "otl": 3,
       "sol": 1,
-      "pts": 509
+      "pts": 511
     },
     {
       "team": "Ontario Reign",
