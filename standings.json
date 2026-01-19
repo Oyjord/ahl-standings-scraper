@@ -277,6 +277,17 @@
       "pts": 563
     },
     {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 37,
+      "gr": 35,
+      "w": 21,
+      "l": 12,
+      "otl": 4,
+      "sol": 0,
+      "pts": 552
+    },
+    {
       "team": "San Jose Barracuda",
       "division": "Pacific",
       "gp": 36,
@@ -286,17 +297,6 @@
       "otl": 1,
       "sol": 2,
       "pts": 526
-    },
-    {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 36,
-      "gr": 36,
-      "w": 20,
-      "l": 12,
-      "otl": 4,
-      "sol": 0,
-      "pts": 546
     },
     {
       "team": "San Diego Gulls",
@@ -345,13 +345,13 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 38,
-      "gr": 34,
+      "gp": 39,
+      "gr": 33,
       "w": 12,
-      "l": 20,
+      "l": 21,
       "otl": 3,
       "sol": 3,
-      "pts": 509
+      "pts": 511
     }
   ]
 }
