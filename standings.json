@@ -211,6 +211,17 @@
       "pts": 649
     },
     {
+      "team": "Texas Stars",
+      "division": "Other",
+      "gp": 39,
+      "gr": 33,
+      "w": 16,
+      "l": 19,
+      "otl": 3,
+      "sol": 1,
+      "pts": 388
+    },
+    {
       "team": "Milwaukee Admirals",
       "division": "Other",
       "gp": 35,
@@ -220,17 +231,6 @@
       "otl": 2,
       "sol": 1,
       "pts": 562
-    },
-    {
-      "team": "Texas Stars",
-      "division": "Other",
-      "gp": 38,
-      "gr": 34,
-      "w": 15,
-      "l": 19,
-      "otl": 3,
-      "sol": 1,
-      "pts": 386
     },
     {
       "team": "Iowa Wild",
@@ -244,26 +244,26 @@
       "pts": 523
     },
     {
-      "team": "Ontario Reign",
-      "division": "Pacific",
-      "gp": 38,
-      "gr": 34,
-      "w": 25,
-      "l": 11,
-      "otl": 1,
-      "sol": 1,
-      "pts": 443
-    },
-    {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 35,
-      "gr": 37,
-      "w": 23,
+      "gp": 36,
+      "gr": 36,
+      "w": 24,
       "l": 8,
       "otl": 1,
       "sol": 3,
       "pts": 461
+    },
+    {
+      "team": "Ontario Reign",
+      "division": "Pacific",
+      "gp": 39,
+      "gr": 33,
+      "w": 25,
+      "l": 12,
+      "otl": 1,
+      "sol": 1,
+      "pts": 449
     },
     {
       "team": "Bakersfield Condors",
@@ -296,7 +296,7 @@
       "l": 12,
       "otl": 4,
       "sol": 0,
-      "pts": 544
+      "pts": 546
     },
     {
       "team": "San Diego Gulls",
@@ -334,10 +334,10 @@
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 34,
-      "gr": 38,
+      "gp": 35,
+      "gr": 37,
       "w": 16,
-      "l": 13,
+      "l": 14,
       "otl": 3,
       "sol": 2,
       "pts": 381
@@ -351,7 +351,7 @@
       "l": 20,
       "otl": 3,
       "sol": 3,
-      "pts": 505
+      "pts": 509
     }
   ]
 }
