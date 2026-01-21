@@ -109,7 +109,7 @@
       "l": 13,
       "otl": 1,
       "sol": 2,
-      "pts": 572
+      "pts": 583
     },
     {
       "team": "Toronto Marlies",
@@ -301,9 +301,9 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 36,
-      "gr": 36,
-      "w": 16,
+      "gp": 37,
+      "gr": 35,
+      "w": 17,
       "l": 12,
       "otl": 6,
       "sol": 2,
@@ -312,11 +312,11 @@
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 35,
-      "gr": 37,
+      "gp": 36,
+      "gr": 36,
       "w": 17,
       "l": 12,
-      "otl": 6,
+      "otl": 7,
       "sol": 0,
       "pts": 417
     },
@@ -351,7 +351,7 @@
       "l": 21,
       "otl": 3,
       "sol": 3,
-      "pts": 515
+      "pts": 520
     }
   ]
 }
