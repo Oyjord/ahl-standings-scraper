@@ -48,11 +48,11 @@
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 36,
-      "gr": 36,
+      "gp": 37,
+      "gr": 35,
       "w": 18,
       "l": 14,
-      "otl": 3,
+      "otl": 4,
       "sol": 1,
       "pts": 472
     },
@@ -70,9 +70,9 @@
     {
       "team": "Hartford Wolf Pack",
       "division": "Other",
-      "gp": 37,
-      "gr": 35,
-      "w": 14,
+      "gp": 38,
+      "gr": 34,
+      "w": 15,
       "l": 18,
       "otl": 4,
       "sol": 1,
@@ -109,7 +109,7 @@
       "l": 13,
       "otl": 1,
       "sol": 2,
-      "pts": 568
+      "pts": 572
     },
     {
       "team": "Toronto Marlies",
@@ -307,7 +307,7 @@
       "l": 12,
       "otl": 6,
       "sol": 2,
-      "pts": 440
+      "pts": 444
     },
     {
       "team": "Tucson Roadrunners",
@@ -318,7 +318,7 @@
       "l": 12,
       "otl": 6,
       "sol": 0,
-      "pts": 413
+      "pts": 417
     },
     {
       "team": "Calgary Wranglers",
@@ -351,7 +351,7 @@
       "l": 21,
       "otl": 3,
       "sol": 3,
-      "pts": 511
+      "pts": 515
     }
   ]
 }
