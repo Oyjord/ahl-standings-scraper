@@ -4,13 +4,13 @@
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 40,
-      "gr": 32,
+      "gp": 41,
+      "gr": 31,
       "w": 26,
       "l": 11,
-      "otl": 1,
+      "otl": 2,
       "sol": 2,
-      "pts": 536
+      "pts": 542
     },
     {
       "team": "Providence Bruins",
@@ -136,9 +136,9 @@
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 41,
-      "gr": 31,
-      "w": 17,
+      "gp": 42,
+      "gr": 30,
+      "w": 18,
       "l": 18,
       "otl": 6,
       "sol": 0,
@@ -147,13 +147,13 @@
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 36,
-      "gr": 36,
+      "gp": 37,
+      "gr": 35,
       "w": 17,
       "l": 14,
-      "otl": 4,
+      "otl": 5,
       "sol": 1,
-      "pts": 447
+      "pts": 457
     },
     {
       "team": "Utica Comets",
@@ -169,24 +169,24 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 36,
-      "gr": 36,
-      "w": 30,
+      "gp": 37,
+      "gr": 35,
+      "w": 31,
       "l": 3,
       "otl": 2,
       "sol": 1,
-      "pts": 384
+      "pts": 390
     },
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 36,
-      "gr": 36,
-      "w": 18,
+      "gp": 37,
+      "gr": 35,
+      "w": 19,
       "l": 9,
       "otl": 4,
       "sol": 5,
-      "pts": 461
+      "pts": 463
     },
     {
       "team": "Manitoba Moose",
@@ -219,18 +219,18 @@
       "l": 19,
       "otl": 3,
       "sol": 1,
-      "pts": 388
+      "pts": 392
     },
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 35,
-      "gr": 37,
+      "gp": 36,
+      "gr": 36,
       "w": 16,
-      "l": 16,
+      "l": 17,
       "otl": 2,
       "sol": 1,
-      "pts": 562
+      "pts": 570
     },
     {
       "team": "Iowa Wild",
@@ -307,7 +307,7 @@
       "l": 12,
       "otl": 6,
       "sol": 2,
-      "pts": 444
+      "pts": 446
     },
     {
       "team": "Tucson Roadrunners",
@@ -318,7 +318,7 @@
       "l": 12,
       "otl": 7,
       "sol": 0,
-      "pts": 417
+      "pts": 421
     },
     {
       "team": "Calgary Wranglers",
