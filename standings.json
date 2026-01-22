@@ -200,6 +200,17 @@
       "pts": 474
     },
     {
+      "team": "Texas Stars",
+      "division": "Other",
+      "gp": 40,
+      "gr": 32,
+      "w": 17,
+      "l": 19,
+      "otl": 3,
+      "sol": 1,
+      "pts": 398
+    },
+    {
       "team": "Rockford IceHogs",
       "division": "Other",
       "gp": 40,
@@ -209,17 +220,6 @@
       "otl": 2,
       "sol": 2,
       "pts": 649
-    },
-    {
-      "team": "Texas Stars",
-      "division": "Other",
-      "gp": 39,
-      "gr": 33,
-      "w": 16,
-      "l": 19,
-      "otl": 3,
-      "sol": 1,
-      "pts": 392
     },
     {
       "team": "Milwaukee Admirals",
@@ -235,13 +235,13 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 38,
-      "gr": 34,
+      "gp": 39,
+      "gr": 33,
       "w": 10,
-      "l": 24,
+      "l": 25,
       "otl": 3,
       "sol": 1,
-      "pts": 523
+      "pts": 529
     },
     {
       "team": "Colorado Eagles",
@@ -252,7 +252,7 @@
       "l": 8,
       "otl": 1,
       "sol": 3,
-      "pts": 461
+      "pts": 463
     },
     {
       "team": "Ontario Reign",
@@ -274,7 +274,7 @@
       "l": 10,
       "otl": 6,
       "sol": 0,
-      "pts": 563
+      "pts": 565
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -285,7 +285,7 @@
       "l": 12,
       "otl": 4,
       "sol": 0,
-      "pts": 552
+      "pts": 558
     },
     {
       "team": "San Jose Barracuda",
@@ -296,26 +296,26 @@
       "l": 12,
       "otl": 1,
       "sol": 2,
-      "pts": 526
+      "pts": 530
     },
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 37,
-      "gr": 35,
-      "w": 17,
+      "gp": 38,
+      "gr": 34,
+      "w": 18,
       "l": 12,
       "otl": 6,
       "sol": 2,
-      "pts": 446
+      "pts": 448
     },
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 36,
-      "gr": 36,
+      "gp": 37,
+      "gr": 35,
       "w": 17,
-      "l": 12,
+      "l": 13,
       "otl": 7,
       "sol": 0,
       "pts": 421
@@ -351,7 +351,7 @@
       "l": 22,
       "otl": 3,
       "sol": 3,
-      "pts": 520
+      "pts": 522
     }
   ]
 }
