@@ -147,13 +147,13 @@
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 37,
-      "gr": 35,
-      "w": 17,
+      "gp": 38,
+      "gr": 34,
+      "w": 18,
       "l": 14,
       "otl": 5,
       "sol": 1,
-      "pts": 457
+      "pts": 475
     },
     {
       "team": "Utica Comets",
@@ -180,13 +180,13 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 37,
-      "gr": 35,
+      "gp": 38,
+      "gr": 34,
       "w": 19,
       "l": 9,
-      "otl": 4,
+      "otl": 5,
       "sol": 5,
-      "pts": 463
+      "pts": 481
     },
     {
       "team": "Manitoba Moose",
