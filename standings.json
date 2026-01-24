@@ -21,7 +21,7 @@
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 442
+      "pts": 444
     },
     {
       "team": "Charlotte Checkers",
@@ -65,7 +65,7 @@
       "l": 18,
       "otl": 2,
       "sol": 1,
-      "pts": 440
+      "pts": 442
     },
     {
       "team": "Hartford Wolf Pack",
@@ -92,13 +92,13 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 40,
-      "gr": 32,
-      "w": 23,
+      "gp": 41,
+      "gr": 31,
+      "w": 24,
       "l": 13,
       "otl": 2,
       "sol": 2,
-      "pts": 605
+      "pts": 617
     },
     {
       "team": "Syracuse Crunch",
@@ -120,7 +120,7 @@
       "l": 13,
       "otl": 4,
       "sol": 2,
-      "pts": 437
+      "pts": 446
     },
     {
       "team": "Toronto Marlies",
@@ -153,7 +153,7 @@
       "l": 14,
       "otl": 5,
       "sol": 1,
-      "pts": 475
+      "pts": 484
     },
     {
       "team": "Utica Comets",
@@ -323,13 +323,13 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 40,
-      "gr": 32,
+      "gp": 41,
+      "gr": 31,
       "w": 15,
-      "l": 15,
+      "l": 16,
       "otl": 8,
       "sol": 2,
-      "pts": 621
+      "pts": 633
     },
     {
       "team": "Henderson Silver Knights",
