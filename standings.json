@@ -257,9 +257,9 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 39,
-      "gr": 33,
-      "w": 25,
+      "gp": 40,
+      "gr": 32,
+      "w": 26,
       "l": 12,
       "otl": 1,
       "sol": 1,
@@ -279,11 +279,11 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 38,
-      "gr": 34,
+      "gp": 39,
+      "gr": 33,
       "w": 22,
       "l": 12,
-      "otl": 4,
+      "otl": 5,
       "sol": 0,
       "pts": 582
     },
