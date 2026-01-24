@@ -169,9 +169,9 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 37,
-      "gr": 35,
-      "w": 31,
+      "gp": 38,
+      "gr": 34,
+      "w": 32,
       "l": 3,
       "otl": 2,
       "sol": 1,
@@ -191,10 +191,10 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 36,
-      "gr": 36,
+      "gp": 37,
+      "gr": 35,
       "w": 19,
-      "l": 14,
+      "l": 15,
       "otl": 3,
       "sol": 0,
       "pts": 480
@@ -252,7 +252,7 @@
       "l": 9,
       "otl": 1,
       "sol": 3,
-      "pts": 471
+      "pts": 473
     },
     {
       "team": "Ontario Reign",
@@ -274,7 +274,7 @@
       "l": 10,
       "otl": 6,
       "sol": 0,
-      "pts": 575
+      "pts": 577
     },
     {
       "team": "Coachella Valley Firebirds",
