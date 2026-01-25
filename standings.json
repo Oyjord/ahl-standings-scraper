@@ -2,6 +2,17 @@
   "division": "All Divisions",
   "teams": [
     {
+      "team": "Providence Bruins",
+      "division": "Other",
+      "gp": 38,
+      "gr": 34,
+      "w": 29,
+      "l": 8,
+      "otl": 1,
+      "sol": 0,
+      "pts": 446
+    },
+    {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
       "gp": 42,
@@ -10,18 +21,7 @@
       "l": 11,
       "otl": 2,
       "sol": 2,
-      "pts": 555
-    },
-    {
-      "team": "Providence Bruins",
-      "division": "Other",
-      "gp": 37,
-      "gr": 35,
-      "w": 28,
-      "l": 8,
-      "otl": 1,
-      "sol": 0,
-      "pts": 444
+      "pts": 559
     },
     {
       "team": "Charlotte Checkers",
@@ -43,7 +43,7 @@
       "l": 14,
       "otl": 4,
       "sol": 2,
-      "pts": 483
+      "pts": 497
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -54,17 +54,17 @@
       "l": 16,
       "otl": 2,
       "sol": 2,
-      "pts": 539
+      "pts": 551
     },
     {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 38,
-      "gr": 34,
+      "gp": 39,
+      "gr": 33,
       "w": 17,
       "l": 18,
       "otl": 2,
-      "sol": 1,
+      "sol": 2,
       "pts": 442
     },
     {
@@ -76,7 +76,7 @@
       "l": 18,
       "otl": 4,
       "sol": 1,
-      "pts": 542
+      "pts": 544
     },
     {
       "team": "Springfield Thunderbirds",
@@ -120,7 +120,7 @@
       "l": 13,
       "otl": 4,
       "sol": 2,
-      "pts": 446
+      "pts": 452
     },
     {
       "team": "Toronto Marlies",
@@ -153,7 +153,7 @@
       "l": 14,
       "otl": 5,
       "sol": 1,
-      "pts": 484
+      "pts": 490
     },
     {
       "team": "Utica Comets",
@@ -164,7 +164,7 @@
       "l": 19,
       "otl": 4,
       "sol": 3,
-      "pts": 437
+      "pts": 439
     },
     {
       "team": "Grand Rapids Griffins",
