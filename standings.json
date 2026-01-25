@@ -244,26 +244,26 @@
       "pts": 551
     },
     {
-      "team": "Colorado Eagles",
-      "division": "Pacific",
-      "gp": 38,
-      "gr": 34,
-      "w": 25,
-      "l": 9,
-      "otl": 1,
-      "sol": 3,
-      "pts": 483
-    },
-    {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 40,
-      "gr": 32,
-      "w": 26,
+      "gp": 41,
+      "gr": 31,
+      "w": 27,
       "l": 12,
       "otl": 1,
       "sol": 1,
-      "pts": 471
+      "pts": 473
+    },
+    {
+      "team": "Colorado Eagles",
+      "division": "Pacific",
+      "gp": 39,
+      "gr": 33,
+      "w": 25,
+      "l": 10,
+      "otl": 1,
+      "sol": 3,
+      "pts": 495
     },
     {
       "team": "Bakersfield Condors",
@@ -312,10 +312,10 @@
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 37,
-      "gr": 35,
+      "gp": 38,
+      "gr": 34,
       "w": 17,
-      "l": 13,
+      "l": 14,
       "otl": 7,
       "sol": 0,
       "pts": 455
@@ -334,9 +334,9 @@
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 35,
-      "gr": 37,
-      "w": 16,
+      "gp": 36,
+      "gr": 36,
+      "w": 17,
       "l": 14,
       "otl": 3,
       "sol": 2,
