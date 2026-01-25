@@ -4,13 +4,13 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 38,
-      "gr": 34,
-      "w": 29,
+      "gp": 39,
+      "gr": 33,
+      "w": 30,
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 446
+      "pts": 454
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
@@ -103,24 +103,24 @@
     {
       "team": "Syracuse Crunch",
       "division": "Other",
-      "gp": 40,
-      "gr": 32,
+      "gp": 41,
+      "gr": 31,
       "w": 23,
-      "l": 14,
+      "l": 15,
       "otl": 2,
       "sol": 1,
-      "pts": 547
+      "pts": 577
     },
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 41,
-      "gr": 31,
+      "gp": 42,
+      "gr": 30,
       "w": 22,
       "l": 15,
-      "otl": 2,
+      "otl": 3,
       "sol": 2,
-      "pts": 587
+      "pts": 593
     },
     {
       "team": "Rochester Americans",
@@ -158,24 +158,24 @@
     {
       "team": "Utica Comets",
       "division": "Other",
-      "gp": 38,
-      "gr": 34,
-      "w": 11,
+      "gp": 39,
+      "gr": 33,
+      "w": 12,
       "l": 20,
       "otl": 4,
       "sol": 3,
-      "pts": 448
+      "pts": 478
     },
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 38,
-      "gr": 34,
+      "gp": 39,
+      "gr": 33,
       "w": 32,
-      "l": 3,
+      "l": 4,
       "otl": 2,
       "sol": 1,
-      "pts": 394
+      "pts": 396
     },
     {
       "team": "Chicago Wolves",
@@ -191,13 +191,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 37,
-      "gr": 35,
-      "w": 19,
+      "gp": 38,
+      "gr": 34,
+      "w": 20,
       "l": 15,
       "otl": 3,
       "sol": 0,
-      "pts": 480
+      "pts": 484
     },
     {
       "team": "Texas Stars",
