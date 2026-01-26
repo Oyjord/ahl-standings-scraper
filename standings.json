@@ -312,13 +312,24 @@
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 38,
-      "gr": 34,
-      "w": 17,
+      "gp": 39,
+      "gr": 33,
+      "w": 18,
       "l": 14,
       "otl": 7,
       "sol": 0,
-      "pts": 461
+      "pts": 467
+    },
+    {
+      "team": "Henderson Silver Knights",
+      "division": "Pacific",
+      "gp": 37,
+      "gr": 35,
+      "w": 17,
+      "l": 14,
+      "otl": 4,
+      "sol": 2,
+      "pts": 429
     },
     {
       "team": "Calgary Wranglers",
@@ -330,17 +341,6 @@
       "otl": 8,
       "sol": 2,
       "pts": 633
-    },
-    {
-      "team": "Henderson Silver Knights",
-      "division": "Pacific",
-      "gp": 36,
-      "gr": 36,
-      "w": 17,
-      "l": 14,
-      "otl": 3,
-      "sol": 2,
-      "pts": 425
     },
     {
       "team": "Abbotsford Canucks",
