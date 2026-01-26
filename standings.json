@@ -301,13 +301,13 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 39,
-      "gr": 33,
+      "gp": 40,
+      "gr": 32,
       "w": 18,
-      "l": 13,
+      "l": 14,
       "otl": 6,
       "sol": 2,
-      "pts": 454
+      "pts": 468
     },
     {
       "team": "Tucson Roadrunners",
@@ -318,7 +318,7 @@
       "l": 14,
       "otl": 7,
       "sol": 0,
-      "pts": 455
+      "pts": 461
     },
     {
       "team": "Calgary Wranglers",
@@ -340,18 +340,18 @@
       "l": 14,
       "otl": 3,
       "sol": 2,
-      "pts": 417
+      "pts": 425
     },
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 42,
-      "gr": 30,
-      "w": 14,
+      "gp": 43,
+      "gr": 29,
+      "w": 15,
       "l": 22,
       "otl": 3,
       "sol": 3,
-      "pts": 544
+      "pts": 558
     }
   ]
 }
