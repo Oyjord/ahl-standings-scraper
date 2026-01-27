@@ -92,10 +92,10 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 41,
-      "gr": 31,
+      "gp": 42,
+      "gr": 30,
       "w": 24,
-      "l": 13,
+      "l": 14,
       "otl": 2,
       "sol": 2,
       "pts": 635
@@ -321,6 +321,17 @@
       "pts": 467
     },
     {
+      "team": "Calgary Wranglers",
+      "division": "Pacific",
+      "gp": 42,
+      "gr": 30,
+      "w": 16,
+      "l": 16,
+      "otl": 8,
+      "sol": 2,
+      "pts": 641
+    },
+    {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
       "gp": 37,
@@ -330,17 +341,6 @@
       "otl": 4,
       "sol": 2,
       "pts": 429
-    },
-    {
-      "team": "Calgary Wranglers",
-      "division": "Pacific",
-      "gp": 41,
-      "gr": 31,
-      "w": 15,
-      "l": 16,
-      "otl": 8,
-      "sol": 2,
-      "pts": 641
     },
     {
       "team": "Abbotsford Canucks",
