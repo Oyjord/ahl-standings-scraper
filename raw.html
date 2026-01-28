@@ -25,7 +25,7 @@
 				var mi_version = '9.11.1';
 				var mi_track_user = true;
 				var mi_no_track_reason = '';
-								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/theahl.com\/?htSvfPage=index.php&htSvfPage=standings"};
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/theahl.com\/?htSvfPage=index.php&htSvfPage=standings","page_referrer":"https:\/\/theahl.com\/stats\/game-center\/1028405"};
 								MonsterInsightsDefaultLocations.page_location = window.location.href;
 								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
 					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
@@ -1743,7 +1743,32 @@ i.fas.fa-search:hover {
 
 
 
-<ht-scorebar-pro ispro="1" display-team="" team="" daysback="3" daysahead="5" displaytiles="8" lang="en"></ht-scorebar-pro><nav id="site-navigation" class="main-navigation">
+<ht-scorebar-pro ispro="1" display-team="" team="" daysback="3" daysahead="5" displaytiles="8" lang="en"><!-- Hockeytech Scoreboard Pro -->
+<div class="scoreboardheader">
+	<div id="scorecontainer-pro">
+		<div class="scoreboard">
+			<div ng-show="loadError" class="ng-hide">
+				
+			</div>
+			<div ng-hide="loadError">
+				<span class="loading ng-hide" ng-show="loading"></span>
+				<!----><div ng-if="teamDisplay === 'teamCode'">
+					<!---->
+					<div class="ht-scorebar-sch-container">
+						<!----><a ng-if="language == 'en'" ng-href="/stats/schedule" class="ht-scorebar-sch-btn" target="_self" title="" href="/stats/schedule">
+							<i class="ht-calendar-select"></i>
+						</a><!---->
+						<!---->
+					</div>
+				</div><!---->
+				<!-- Scorebar Team Name -->
+				<!---->
+			</div>
+		</div>
+	</div>
+</div>
+<!-- End Hockeytech Scoreboard -->
+</ht-scorebar-pro><nav id="site-navigation" class="main-navigation">
 	<section class="navigation-container">
 					<div class="show-menu-logo">
 				<a href="https://theahl.com/" target="_top" title="TheAHL.com | The American Hockey League" rel="home">
@@ -2028,7 +2053,159 @@ googletag.cmd.push(function()
 <!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons generic via filter on the_content -->					</div>
 								<div id="ht-statview" ng-class="statView" resize="" class="ht-stats">
 					<!-- loads view -->
-					<!---->
+					<!----><ng-view><h1 class="ht-title" ng-bind="svfLang.Standings"></h1>
+<div ng-show="loadError" class="ng-hide">
+	
+</div>
+<div ng-hide="loadError">
+	<div class="ht-controls">
+		<div class="ht-row">
+			<div id="ht-team-quick-select" class="ht-col-left-select ht-quickselect" ng-class="{qsf:respTeamShowFilter}">
+				<select ng-model="selectedQuickView" ng-class="quickTeamSelect" ng-change="loadQuickView()" ng-options="ctrl.name for ctrl in ::quickViews track by ctrl.id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+			</div>
+			<div class="ht-col-left ng-hide" ng-show="respTeamShowFilter">
+				<a href="" class="ht-btn-filter" ng-click="showTeamFilter=!showTeamFilter;"> <span ng-show="!showTeamFilter"><i class="ht-arrow-down"></i></span><span ng-show="showTeamFilter" class="ng-hide"><i class="ht-arrow-up"></i></span></a>
+			</div>
+			<div ng-show="respTeamRowOne">
+				<div ng-show="svfConfig.leagueDropdown" class="ht-col-left-select ng-hide">
+					<select ng-model="selectedLeague" ng-change="changedLeague()" ng-options="ctrl.name for ctrl in ::leagues track by ctrl.id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+				</div>
+				<div class="ht-col-left-select">
+					<select ng-model="selectedSeason" ng-change="changedSeason()" ng-options="ctrl.name for ctrl in seasons | filter:{hide_in_standings:false} track by ctrl.id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+				</div>
+				<div class="ht-col-left-select ng-hide" ng-show="hasConference &amp;&amp; standingsType != 'league'">
+					<select ng-model="selectedConference" ng-change="changedConference()" ng-options="conf.conference_name for conf in conferences track by conf.conference_id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+				</div>
+				<div class="ht-col-left-select ng-hide" ng-show="hasDivision &amp;&amp; standingsType == 'division'">
+					<select ng-model="selectedDivision" ng-change="changedDivision()" ng-options="ctrl.name for ctrl in divisions track by ctrl.id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+				</div>
+				<div id="ht-standings-dcl" class="ht-col-left">
+					<ul>
+						<li id="ht-team-division">
+							<a href="" class="ht-btn" ng-show="!hideDivisionButton" ng-click="standingsType='division'; getTeamStats(true);" ng-class="{htactive:standingsType == 'division'}"></a>
+						</li>
+						<li id="ht-team-conference">
+							<a href="" class="ht-btn" ng-click="standingsType='conference'; getTeamStats(true);" ng-class="{htactive:standingsType == 'conference'}"></a>
+						</li>
+						<li id="ht-team-league">
+							<a href="" class="ht-btn" ng-click="standingsType='league'; getTeamStats(true);" ng-class="{htactive:standingsType == 'league'}"></a>
+						</li>
+					</ul>
+				</div>
+				<div id="ht-standings-ohv" class="ht-col-left">
+					<ul>
+						<li id="ht-team-overall">
+							<a href="" class="ht-btn" ng-click="context='overall'; getTeamStats(true);" ng-class="{htactive:context == 'overall'}"></a>
+						</li>
+						<li id="ht-team-home">
+							<a href="" class="ht-btn" ng-click="context='home'; getTeamStats(true);" ng-class="{htactive:context == 'home'}"></a>
+						</li>
+						<li id="ht-team-visiting">
+							<a href="" class="ht-btn" ng-click="context='visiting'; getTeamStats(true);" ng-class="{htactive:context == 'visiting'}"></a>
+						</li>
+					</ul>
+				</div>
+				<div id="ht-standings-st" class="ht-col-left">
+					<a href="" class="ht-btn-filter" ng-click="specialTeams = !specialTeams; getTeamStats(true);" ng-class="{htactive:specialTeams}"></a>
+				</div>
+			</div>
+		</div>
+		<div class="ht-row ng-hide" ng-show="respTeamRowTwo">
+			<div ng-show="svfConfig.leagueDropdown" class="ht-col-left-select ng-hide">
+				<select ng-model="selectedLeague" ng-change="changedLeague()" ng-options="ctrl.name for ctrl in ::leagues track by ctrl.id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+			</div>
+			<div class="ht-col-left-select">
+				<select ng-model="selectedSeason" ng-change="changedSeason()" ng-options="ctrl.name for ctrl in seasons track by ctrl.id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+			</div>
+
+			<div class="ht-col-left-select ng-hide" ng-show="hasConference &amp;&amp; standingsType != 'league'">
+				<select ng-model="selectedConference" ng-change="changedConference()" ng-options="conf.conference_name for conf in conferences track by conf.conference_id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+			</div>
+			<div class="ht-col-left-select ng-hide" ng-show="hasDivision &amp;&amp; standingsType == 'division'">
+				<select ng-model="selectedDivision" ng-change="changedDivision()" ng-options="ctrl.name for ctrl in divisions track by ctrl.id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+			</div>
+			<div id="ht-standings-dcl" class="ht-col-left">
+				<ul>
+					<li id="ht-team-division">
+						<a href="" class="ht-btn" ng-click="standingsType='division'; getTeamStats(true);" ng-class="{htactive:standingsType == 'division'}"></a>
+					</li>
+					<li id="ht-team-conference">
+						<a href="" class="ht-btn" ng-click="standingsType='conference'; getTeamStats(true);" ng-class="{htactive:standingsType == 'conference'}"></a>
+					</li>
+					<li id="ht-team-league">
+						<a href="" class="ht-btn" ng-click="standingsType='league'; getTeamStats(true);" ng-class="{htactive:standingsType == 'league'}"></a>
+					</li>
+				</ul>
+			</div>
+			<div id="ht-standings-ohv" class="ht-col-left">
+				<ul>
+					<li id="ht-team-overall">
+						<a href="" class="ht-btn" ng-click="context='overall'; getTeamStats(true);" ng-class="{htactive:context == 'overall'}"></a>
+					</li>
+					<li id="ht-team-home">
+						<a href="" class="ht-btn" ng-click="context='home'; getTeamStats(true);" ng-class="{htactive:context == 'home'}"></a>
+					</li>
+					<li id="ht-team-visiting">
+						<a href="" class="ht-btn" ng-click="context='visiting'; getTeamStats(true);" ng-class="{htactive:context == 'visiting'}"></a>
+					</li>
+				</ul>
+			</div>
+			<div id="ht-standings-st" class="ht-col-left">
+				<a href="" class="ht-btn-filter" ng-click="specialTeams = !specialTeams; getTeamStats(true);" ng-class="{htactive:specialTeams}"></a>
+			</div>
+		</div>
+		<!-- filters -->
+		<div ng-show="showTeamFilter &amp;&amp; !respTeamRowOne &amp;&amp; !respTeamRowTwo" class="ng-hide">
+			<div class="ht-filter">
+				<div ng-show="svfConfig.leagueDropdown" class="ht-col-left-select ng-hide">
+					<select ng-model="selectedLeague" ng-change="changedLeague()" ng-options="ctrl.name for ctrl in ::leagues track by ctrl.id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+				</div>
+				<div class="ht-filter-row-select">
+					<select ng-model="selectedSeason" ng-change="changedSeason()" ng-options="ctrl.name for ctrl in seasons track by ctrl.id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+				</div>
+				<div class="ht-filter-row-select ng-hide" ng-show="hasConference &amp;&amp; standingsType != 'league'">
+					<select ng-model="selectedConference" ng-change="changedConference()" ng-options="conf.conference_name for conf in conferences track by conf.conference_id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+				</div>
+				<div class="ht-filter-row-select ng-hide" ng-show="hasDivision &amp;&amp; standingsType == 'division'">
+					<select ng-model="selectedDivision" ng-change="changedDivision()" ng-options="ctrl.name for ctrl in divisions track by ctrl.id" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="?" selected="selected"></option></select>
+				</div>
+				<div id="ht-standings-dcl" class="ht-filter-row">
+					<ul>
+						<li id="ht-team-division" class="ht-3btn">
+							<a href="" class="ht-btn" ng-click="standingsType='division'; getTeamStats(true);" ng-class="{htactive:standingsType == 'division'}"></a>
+						</li>
+						<li id="ht-team-conference" class="ht-3btn">
+							<a href="" class="ht-btn" ng-click="standingsType='conference'; getTeamStats(true);" ng-class="{htactive:standingsType == 'conference'}"></a>
+						</li>
+						<li id="ht-team-league" class="ht-3btn">
+							<a href="" class="ht-btn" ng-click="standingsType='league'; getTeamStats(true);" ng-class="{htactive:standingsType == 'league'}"></a>
+						</li>
+					</ul>
+				</div>
+				<div id="ht-standings-ohv" class="ht-filter-row">
+					<ul>
+						<li class="ht-3btn">
+							<a href="" class="ht-btn" ng-click="context='overall'; getTeamStats(true);" ng-class="{htactive:context == 'overall'}"></a>
+						</li>
+						<li class="ht-3btn">
+							<a href="" class="ht-btn" ng-click="context='home'; getTeamStats(true);" ng-class="{htactive:context == 'home'}"></a>
+						</li>
+						<li class="ht-3btn">
+							<a href="" class="ht-btn" ng-click="context='visiting'; getTeamStats(true);" ng-class="{htactive:context == 'visiting'}"></a>
+						</li>
+					</ul>
+				</div>
+				<div id="ht-standings-st" class="ht-filter-row">
+					<a href="" class="ht-btn-100" ng-click="specialTeams = !specialTeams; getTeamStats(true);" ng-class="{htactive:specialTeams}"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="ht-loading ng-hide" ng-show="loading"><div class="ht-spinner-border"></div></div>
+	<!---->
+	<!---->
+</div>
+</ng-view>
 				</div>
 									<div class="stats-footer">
 						<div id="pl-83614" class="panel-layout">
@@ -2434,6 +2611,6 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 		ga('htTracker.send', 'pageview');
 	</script>
 
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9c4e1345e8d85212',t:'MTc2OTU3Nzk5MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9c4e3517893405a7',t:'MTc2OTU3OTM3NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe>
 
-<div id="sbi_lightboxOverlay" class="sbi_lightboxOverlay" style="display: none;"></div><div id="sbi_lightbox" class="sbi_lightbox" style="display: none;"><div class="sbi_lb-outerContainer"><div class="sbi_lb-nav"><a class="sbi_lb-prev" href="#"><p class="sbi-screenreader">Previous Slide</p><span></span></a><a class="sbi_lb-next" href="#"><p class="sbi-screenreader">Next Slide</p><span></span></a></div><div class="sbi_lb-container-wrapper"><div class="sbi_lb-container" style="overflow: hidden; touch-action: pan-y; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><div class="sbi_lb-image-wrap-outer"><div class="sbi_lb-image-wrap"><img class="sbi_lb-image" src="" alt="Lightbox image placeholder"></div></div><div class="sbi_lb-loader"><i class="fa fa-spin"></i></div></div><div class="sbi_lb-dataContainer"><div class="sbi_lb-data"><div class="sbi_lb-details"><span class="sbi_lb-caption"></span><span class="sbi_lb-number"></span><div class="sbi_lightbox_action sbi_share"><a href="JavaScript:void(0);"><i class="fa fa-share"></i>Share</a><p class="sbi_lightbox_tooltip sbi_tooltip_social"><a href="" target="_blank" rel="noopener" id="sbi_facebook_icon"><span class="sbi-screenreader">Facebook</span><i class="fa fab fa-facebook-square"></i></a><a href="" target="_blank" rel="noopener" id="sbi_twitter_icon"><span class="sbi-screenreader">Twitter</span><i class="fa fab fa-twitter"></i></a><a href="" target="_blank" rel="noopener" id="sbi_linkedin_icon"><span class="sbi-screenreader">Linkedin</span><i class="fa fab fa-linkedin"></i></a><a href="" id="sbi_pinterest_icon" target="_blank" rel="noopener"><span class="sbi-screenreader">Pinterest</span><i class="fa fab fa-pinterest"></i></a><a href="" id="sbi_email_icon" target="_blank" rel="noopener"><span class="sbi-screenreader">Email</span><i class="fa fa-envelope"></i></a><a class="sbi_share_close"><svg class="svg-inline--fa fa-times fa-w-12" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="times" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path fill="currentColor" d="M323.1 441l53.9-53.9c9.4-9.4 9.4-24.5 0-33.9L279.8 256l97.2-97.2c9.4-9.4 9.4-24.5 0-33.9L323.1 71c-9.4-9.4-24.5-9.4-33.9 0L192 168.2 94.8 71c-9.4-9.4-24.5-9.4-33.9 0L7 124.9c-9.4 9.4-9.4 24.5 0 33.9l97.2 97.2L7 353.2c-9.4 9.4-9.4 24.5 0 33.9L60.9 441c9.4 9.4 24.5 9.4 33.9 0l97.2-97.2 97.2 97.2c9.3 9.3 24.5 9.3 33.9 0z"></path></svg></a></p></div><div class="sbi_lightbox_action sbi_instagram"><a href="https://www.instagram.com/" target="_blank" rel="noopener nofollow"><i class="fa fab fa-instagram"></i>Instagram</a></div><div id="sbi_mod_link" class="sbi_lightbox_action"><a href="JavaScript:void(0);"><i class="fa fa-times"></i>Hide photo (admin)</a><p id="sbi_mod_box" class="sbi_lightbox_tooltip">Add ID to the <strong>Hide Specific Photos</strong> setting: <span id="sbi_photo_id"></span></p></div></div><div class="sbi_lb-closeContainer"><a class="sbi_lb-close"><i class="fa fa-times"></i></a></div></div></div></div></div></div></body></html>
+<div id="sbi_lightboxOverlay" class="sbi_lightboxOverlay" style="display: none;"></div><div id="sbi_lightbox" class="sbi_lightbox" style="display: none;"><div class="sbi_lb-outerContainer"><div class="sbi_lb-nav"><a class="sbi_lb-prev" href="#"><p class="sbi-screenreader">Previous Slide</p><span></span></a><a class="sbi_lb-next" href="#"><p class="sbi-screenreader">Next Slide</p><span></span></a></div><div class="sbi_lb-container-wrapper"><div class="sbi_lb-container" style="overflow: hidden; touch-action: pan-y; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><div class="sbi_lb-image-wrap-outer"><div class="sbi_lb-image-wrap"><img class="sbi_lb-image" src="" alt="Lightbox image placeholder"></div></div><div class="sbi_lb-loader"><i class="fa fa-spin"></i></div></div><div class="sbi_lb-dataContainer"><div class="sbi_lb-data"><div class="sbi_lb-details"><span class="sbi_lb-caption"></span><span class="sbi_lb-number"></span><div class="sbi_lightbox_action sbi_share"><a href="JavaScript:void(0);"><i class="fa fa-share"></i>Share</a><p class="sbi_lightbox_tooltip sbi_tooltip_social"><a href="" target="_blank" rel="noopener" id="sbi_facebook_icon"><span class="sbi-screenreader">Facebook</span><i class="fa fab fa-facebook-square"></i></a><a href="" target="_blank" rel="noopener" id="sbi_twitter_icon"><span class="sbi-screenreader">Twitter</span><i class="fa fab fa-twitter"></i></a><a href="" target="_blank" rel="noopener" id="sbi_linkedin_icon"><span class="sbi-screenreader">Linkedin</span><i class="fa fab fa-linkedin"></i></a><a href="" id="sbi_pinterest_icon" target="_blank" rel="noopener"><span class="sbi-screenreader">Pinterest</span><i class="fa fab fa-pinterest"></i></a><a href="" id="sbi_email_icon" target="_blank" rel="noopener"><span class="sbi-screenreader">Email</span><i class="fa fa-envelope"></i></a><a class="sbi_share_close"><svg class="svg-inline--fa fa-times fa-w-12" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="times" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path fill="currentColor" d="M323.1 441l53.9-53.9c9.4-9.4 9.4-24.5 0-33.9L279.8 256l97.2-97.2c9.4-9.4 9.4-24.5 0-33.9L323.1 71c-9.4-9.4-24.5-9.4-33.9 0L192 168.2 94.8 71c-9.4-9.4-24.5-9.4-33.9 0L7 124.9c-9.4 9.4-9.4 24.5 0 33.9l97.2 97.2L7 353.2c-9.4 9.4-9.4 24.5 0 33.9L60.9 441c9.4 9.4 24.5 9.4 33.9 0l97.2-97.2 97.2 97.2c9.3 9.3 24.5 9.3 33.9 0z"></path></svg></a></p></div><div class="sbi_lightbox_action sbi_instagram"><a href="https://www.instagram.com/" target="_blank" rel="noopener nofollow"><i class="fa fab fa-instagram"></i>Instagram</a></div><div id="sbi_mod_link" class="sbi_lightbox_action"><a href="JavaScript:void(0);"><i class="fa fa-times"></i>Hide photo (admin)</a><p id="sbi_mod_box" class="sbi_lightbox_tooltip">Add ID to the <strong>Hide Specific Photos</strong> setting: <span id="sbi_photo_id"></span></p></div></div><div class="sbi_lb-closeContainer"><a class="sbi_lb-close"><i class="fa fa-times"></i></a></div></div></div></div></div></div><script type="text/javascript" src="https://lscluster.hockeytech.com/feed/index.php?feed=statviewfeed&amp;view=bootstrap&amp;season=latest&amp;game_id=&amp;pageName=scorebar&amp;key=ccb91f29d6744675&amp;client_code=ahl&amp;site_id=3&amp;league_id=&amp;league_code=&amp;conference=-1&amp;division=-1&amp;lang=en&amp;callback=angular.callbacks._0" async=""></script><script type="text/javascript" src="https://lscluster.hockeytech.com/feed/index.php?feed=statviewfeed&amp;view=scorebarRollover&amp;key=ccb91f29d6744675&amp;client_code=ahl&amp;callback=angular.callbacks._1" async=""></script><script type="text/javascript" src="https://lscluster.hockeytech.com/feed/index.php?feed=statviewfeed&amp;view=bootstrap&amp;season=latest&amp;game_id=null&amp;pageName=teams&amp;key=ccb91f29d6744675&amp;client_code=ahl&amp;site_id=3&amp;league_id=&amp;league_code=&amp;conference=-1&amp;division=&amp;lang=en&amp;callback=angular.callbacks._2" async=""></script></body></html>
