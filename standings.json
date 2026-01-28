@@ -200,6 +200,17 @@
       "pts": 484
     },
     {
+      "team": "Milwaukee Admirals",
+      "division": "Other",
+      "gp": 39,
+      "gr": 33,
+      "w": 19,
+      "l": 17,
+      "otl": 2,
+      "sol": 1,
+      "pts": 644
+    },
+    {
       "team": "Texas Stars",
       "division": "Other",
       "gp": 41,
@@ -211,23 +222,12 @@
       "pts": 409
     },
     {
-      "team": "Milwaukee Admirals",
-      "division": "Other",
-      "gp": 38,
-      "gr": 34,
-      "w": 18,
-      "l": 17,
-      "otl": 2,
-      "sol": 1,
-      "pts": 642
-    },
-    {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 42,
-      "gr": 30,
+      "gp": 43,
+      "gr": 29,
       "w": 16,
-      "l": 22,
+      "l": 23,
       "otl": 2,
       "sol": 2,
       "pts": 736
