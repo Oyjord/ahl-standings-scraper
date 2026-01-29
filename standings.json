@@ -252,7 +252,7 @@
       "l": 12,
       "otl": 1,
       "sol": 1,
-      "pts": 473
+      "pts": 477
     },
     {
       "team": "Colorado Eagles",
@@ -263,7 +263,7 @@
       "l": 10,
       "otl": 1,
       "sol": 3,
-      "pts": 499
+      "pts": 503
     },
     {
       "team": "Bakersfield Condors",
@@ -274,7 +274,7 @@
       "l": 12,
       "otl": 6,
       "sol": 0,
-      "pts": 593
+      "pts": 604
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -285,7 +285,7 @@
       "l": 12,
       "otl": 5,
       "sol": 0,
-      "pts": 586
+      "pts": 590
     },
     {
       "team": "San Jose Barracuda",
@@ -307,7 +307,7 @@
       "l": 14,
       "otl": 6,
       "sol": 2,
-      "pts": 468
+      "pts": 470
     },
     {
       "team": "Tucson Roadrunners",
@@ -318,7 +318,7 @@
       "l": 14,
       "otl": 7,
       "sol": 0,
-      "pts": 469
+      "pts": 471
     },
     {
       "team": "Calgary Wranglers",
@@ -340,7 +340,7 @@
       "l": 14,
       "otl": 4,
       "sol": 2,
-      "pts": 429
+      "pts": 440
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 22,
       "otl": 3,
       "sol": 3,
-      "pts": 558
+      "pts": 562
     }
   ]
 }
