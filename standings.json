@@ -4,13 +4,13 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 39,
-      "gr": 33,
-      "w": 30,
+      "gp": 40,
+      "gr": 32,
+      "w": 31,
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 454
+      "pts": 462
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
@@ -26,13 +26,13 @@
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 40,
-      "gr": 32,
+      "gp": 41,
+      "gr": 31,
       "w": 25,
-      "l": 12,
+      "l": 13,
       "otl": 3,
       "sol": 0,
-      "pts": 497
+      "pts": 499
     },
     {
       "team": "Hershey Bears",
@@ -98,7 +98,7 @@
       "l": 14,
       "otl": 2,
       "sol": 2,
-      "pts": 639
+      "pts": 646
     },
     {
       "team": "Syracuse Crunch",
@@ -120,7 +120,7 @@
       "l": 15,
       "otl": 3,
       "sol": 2,
-      "pts": 593
+      "pts": 598
     },
     {
       "team": "Rochester Americans",
@@ -191,13 +191,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 38,
-      "gr": 34,
-      "w": 20,
+      "gp": 39,
+      "gr": 33,
+      "w": 21,
       "l": 15,
       "otl": 3,
       "sol": 0,
-      "pts": 484
+      "pts": 490
     },
     {
       "team": "Texas Stars",
@@ -224,13 +224,13 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 43,
-      "gr": 29,
+      "gp": 44,
+      "gr": 28,
       "w": 16,
-      "l": 23,
+      "l": 24,
       "otl": 2,
       "sol": 2,
-      "pts": 736
+      "pts": 742
     },
     {
       "team": "Iowa Wild",
