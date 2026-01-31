@@ -268,42 +268,42 @@
     {
       "team": "Bakersfield Condors",
       "division": "Pacific",
-      "gp": 41,
-      "gr": 31,
-      "w": 22,
+      "gp": 42,
+      "gr": 30,
+      "w": 23,
       "l": 12,
       "otl": 7,
       "sol": 0,
-      "pts": 647
-    },
-    {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 40,
-      "gr": 32,
-      "w": 22,
-      "l": 13,
-      "otl": 5,
-      "sol": 0,
-      "pts": 600
+      "pts": 673
     },
     {
       "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 38,
-      "gr": 34,
-      "w": 22,
+      "gp": 39,
+      "gr": 33,
+      "w": 23,
       "l": 13,
       "otl": 1,
       "sol": 2,
       "pts": 562
     },
     {
-      "team": "San Diego Gulls",
+      "team": "Coachella Valley Firebirds",
       "division": "Pacific",
       "gp": 41,
       "gr": 31,
-      "w": 18,
+      "w": 22,
+      "l": 14,
+      "otl": 5,
+      "sol": 0,
+      "pts": 600
+    },
+    {
+      "team": "San Diego Gulls",
+      "division": "Pacific",
+      "gp": 42,
+      "gr": 30,
+      "w": 19,
       "l": 14,
       "otl": 6,
       "sol": 3,
@@ -334,10 +334,10 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 42,
-      "gr": 30,
+      "gp": 43,
+      "gr": 29,
       "w": 16,
-      "l": 16,
+      "l": 17,
       "otl": 8,
       "sol": 2,
       "pts": 663
@@ -345,13 +345,13 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 44,
-      "gr": 28,
+      "gp": 45,
+      "gr": 27,
       "w": 15,
-      "l": 23,
+      "l": 24,
       "otl": 3,
       "sol": 3,
-      "pts": 588
+      "pts": 616
     }
   ]
 }
