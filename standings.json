@@ -4,35 +4,35 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 40,
-      "gr": 32,
-      "w": 31,
+      "gp": 41,
+      "gr": 31,
+      "w": 32,
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 462
+      "pts": 464
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 44,
-      "gr": 28,
-      "w": 28,
+      "gp": 45,
+      "gr": 27,
+      "w": 29,
       "l": 12,
       "otl": 2,
       "sol": 2,
-      "pts": 589
+      "pts": 606
     },
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 41,
-      "gr": 31,
+      "gp": 42,
+      "gr": 30,
       "w": 25,
-      "l": 13,
+      "l": 14,
       "otl": 3,
       "sol": 0,
-      "pts": 499
+      "pts": 505
     },
     {
       "team": "Hershey Bears",
@@ -48,13 +48,13 @@
     {
       "team": "Lehigh Valley Phantoms",
       "division": "Other",
-      "gp": 42,
-      "gr": 30,
+      "gp": 43,
+      "gr": 29,
       "w": 21,
-      "l": 17,
+      "l": 18,
       "otl": 2,
       "sol": 2,
-      "pts": 568
+      "pts": 581
     },
     {
       "team": "Bridgeport Islanders",
@@ -65,7 +65,7 @@
       "l": 19,
       "otl": 2,
       "sol": 2,
-      "pts": 450
+      "pts": 452
     },
     {
       "team": "Springfield Thunderbirds",
@@ -76,7 +76,7 @@
       "l": 20,
       "otl": 4,
       "sol": 2,
-      "pts": 444
+      "pts": 446
     },
     {
       "team": "Hartford Wolf Pack",
@@ -191,13 +191,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 39,
-      "gr": 33,
-      "w": 21,
+      "gp": 40,
+      "gr": 32,
+      "w": 22,
       "l": 15,
       "otl": 3,
       "sol": 0,
-      "pts": 490
+      "pts": 500
     },
     {
       "team": "Texas Stars",
@@ -224,13 +224,13 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 44,
-      "gr": 28,
+      "gp": 45,
+      "gr": 27,
       "w": 16,
-      "l": 24,
+      "l": 25,
       "otl": 2,
       "sol": 2,
-      "pts": 742
+      "pts": 766
     },
     {
       "team": "Iowa Wild",
@@ -263,7 +263,7 @@
       "l": 13,
       "otl": 1,
       "sol": 1,
-      "pts": 508
+      "pts": 513
     },
     {
       "team": "Bakersfield Condors",
@@ -296,7 +296,7 @@
       "l": 14,
       "otl": 5,
       "sol": 0,
-      "pts": 600
+      "pts": 607
     },
     {
       "team": "San Diego Gulls",
