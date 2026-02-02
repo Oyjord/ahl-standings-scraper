@@ -59,24 +59,24 @@
     {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 41,
-      "gr": 31,
-      "w": 18,
+      "gp": 42,
+      "gr": 30,
+      "w": 19,
       "l": 19,
       "otl": 2,
       "sol": 2,
-      "pts": 452
+      "pts": 458
     },
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 42,
-      "gr": 30,
+      "gp": 43,
+      "gr": 29,
       "w": 16,
-      "l": 20,
+      "l": 21,
       "otl": 4,
       "sol": 2,
-      "pts": 446
+      "pts": 452
     },
     {
       "team": "Hartford Wolf Pack",
@@ -263,7 +263,7 @@
       "l": 13,
       "otl": 1,
       "sol": 1,
-      "pts": 513
+      "pts": 515
     },
     {
       "team": "Bakersfield Condors",
@@ -296,7 +296,7 @@
       "l": 14,
       "otl": 5,
       "sol": 0,
-      "pts": 607
+      "pts": 611
     },
     {
       "team": "San Diego Gulls",
