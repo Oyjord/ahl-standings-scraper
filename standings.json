@@ -169,13 +169,13 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 42,
-      "gr": 30,
-      "w": 33,
+      "gp": 43,
+      "gr": 29,
+      "w": 34,
       "l": 6,
       "otl": 2,
       "sol": 1,
-      "pts": 427
+      "pts": 470
     },
     {
       "team": "Chicago Wolves",
@@ -213,13 +213,13 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 41,
-      "gr": 31,
+      "gp": 42,
+      "gr": 30,
       "w": 19,
-      "l": 18,
+      "l": 19,
       "otl": 2,
       "sol": 2,
-      "pts": 677
+      "pts": 722
     },
     {
       "team": "Rockford IceHogs",
@@ -274,7 +274,7 @@
       "l": 12,
       "otl": 7,
       "sol": 0,
-      "pts": 679
+      "pts": 688
     },
     {
       "team": "San Jose Barracuda",
@@ -340,7 +340,7 @@
       "l": 18,
       "otl": 8,
       "sol": 2,
-      "pts": 686
+      "pts": 695
     },
     {
       "team": "Abbotsford Canucks",
