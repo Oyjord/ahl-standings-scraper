@@ -101,6 +101,28 @@
       "pts": 653
     },
     {
+      "team": "Cleveland Monsters",
+      "division": "Other",
+      "gp": 43,
+      "gr": 29,
+      "w": 23,
+      "l": 14,
+      "otl": 5,
+      "sol": 1,
+      "pts": 533
+    },
+    {
+      "team": "Toronto Marlies",
+      "division": "Other",
+      "gp": 44,
+      "gr": 28,
+      "w": 22,
+      "l": 15,
+      "otl": 4,
+      "sol": 3,
+      "pts": 619
+    },
+    {
       "team": "Syracuse Crunch",
       "division": "Other",
       "gp": 43,
@@ -110,28 +132,6 @@
       "otl": 3,
       "sol": 1,
       "pts": 589
-    },
-    {
-      "team": "Toronto Marlies",
-      "division": "Other",
-      "gp": 43,
-      "gr": 29,
-      "w": 22,
-      "l": 15,
-      "otl": 4,
-      "sol": 2,
-      "pts": 615
-    },
-    {
-      "team": "Cleveland Monsters",
-      "division": "Other",
-      "gp": 42,
-      "gr": 30,
-      "w": 22,
-      "l": 14,
-      "otl": 5,
-      "sol": 1,
-      "pts": 529
     },
     {
       "team": "Rochester Americans",
@@ -175,7 +175,7 @@
       "l": 6,
       "otl": 2,
       "sol": 1,
-      "pts": 421
+      "pts": 427
     },
     {
       "team": "Chicago Wolves",
@@ -219,7 +219,7 @@
       "l": 18,
       "otl": 2,
       "sol": 2,
-      "pts": 671
+      "pts": 677
     },
     {
       "team": "Rockford IceHogs",
