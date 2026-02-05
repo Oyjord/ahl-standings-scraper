@@ -4,24 +4,24 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 41,
-      "gr": 31,
-      "w": 32,
+      "gp": 42,
+      "gr": 30,
+      "w": 33,
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 466
+      "pts": 475
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 45,
-      "gr": 27,
-      "w": 29,
+      "gp": 46,
+      "gr": 26,
+      "w": 30,
       "l": 12,
       "otl": 2,
       "sol": 2,
-      "pts": 606
+      "pts": 616
     },
     {
       "team": "Charlotte Checkers",
@@ -37,13 +37,13 @@
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 42,
-      "gr": 30,
+      "gp": 43,
+      "gr": 29,
       "w": 20,
-      "l": 15,
+      "l": 16,
       "otl": 5,
       "sol": 2,
-      "pts": 517
+      "pts": 521
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -59,24 +59,24 @@
     {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 42,
-      "gr": 30,
+      "gp": 43,
+      "gr": 29,
       "w": 19,
-      "l": 19,
+      "l": 20,
       "otl": 2,
       "sol": 2,
-      "pts": 460
+      "pts": 471
     },
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 43,
-      "gr": 29,
+      "gp": 44,
+      "gr": 28,
       "w": 16,
-      "l": 21,
+      "l": 22,
       "otl": 4,
       "sol": 2,
-      "pts": 454
+      "pts": 458
     },
     {
       "team": "Hartford Wolf Pack",
@@ -92,13 +92,24 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 44,
-      "gr": 28,
-      "w": 26,
+      "gp": 45,
+      "gr": 27,
+      "w": 27,
       "l": 14,
       "otl": 2,
       "sol": 2,
-      "pts": 663
+      "pts": 670
+    },
+    {
+      "team": "Syracuse Crunch",
+      "division": "Other",
+      "gp": 44,
+      "gr": 28,
+      "w": 24,
+      "l": 16,
+      "otl": 3,
+      "sol": 1,
+      "pts": 597
     },
     {
       "team": "Cleveland Monsters",
@@ -123,48 +134,37 @@
       "pts": 619
     },
     {
-      "team": "Syracuse Crunch",
+      "team": "Rochester Americans",
       "division": "Other",
       "gp": 43,
       "gr": 29,
-      "w": 23,
-      "l": 16,
-      "otl": 3,
-      "sol": 1,
-      "pts": 591
-    },
-    {
-      "team": "Rochester Americans",
-      "division": "Other",
-      "gp": 42,
-      "gr": 30,
       "w": 21,
-      "l": 15,
+      "l": 16,
       "otl": 4,
       "sol": 2,
-      "pts": 464
+      "pts": 472
     },
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 46,
-      "gr": 26,
-      "w": 19,
+      "gp": 47,
+      "gr": 25,
+      "w": 20,
       "l": 19,
       "otl": 8,
       "sol": 0,
-      "pts": 602
+      "pts": 604
     },
     {
       "team": "Utica Comets",
       "division": "Other",
-      "gp": 40,
-      "gr": 32,
+      "gp": 41,
+      "gr": 31,
       "w": 12,
-      "l": 20,
+      "l": 21,
       "otl": 5,
       "sol": 3,
-      "pts": 498
+      "pts": 509
     },
     {
       "team": "Grand Rapids Griffins",
@@ -329,7 +329,7 @@
       "l": 15,
       "otl": 5,
       "sol": 2,
-      "pts": 479
+      "pts": 481
     },
     {
       "team": "Calgary Wranglers",
