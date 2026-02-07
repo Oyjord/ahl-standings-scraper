@@ -186,25 +186,25 @@
       "l": 10,
       "otl": 5,
       "sol": 5,
-      "pts": 517
+      "pts": 519
     },
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 40,
-      "gr": 32,
+      "gp": 41,
+      "gr": 31,
       "w": 22,
-      "l": 15,
+      "l": 16,
       "otl": 3,
       "sol": 0,
-      "pts": 510
+      "pts": 512
     },
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 43,
-      "gr": 29,
-      "w": 20,
+      "gp": 44,
+      "gr": 28,
+      "w": 21,
       "l": 19,
       "otl": 3,
       "sol": 1,
@@ -224,24 +224,24 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 45,
-      "gr": 27,
+      "gp": 46,
+      "gr": 26,
       "w": 16,
-      "l": 25,
+      "l": 26,
       "otl": 2,
       "sol": 2,
-      "pts": 774
+      "pts": 784
     },
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 43,
-      "gr": 29,
-      "w": 12,
+      "gp": 44,
+      "gr": 28,
+      "w": 13,
       "l": 26,
       "otl": 4,
       "sol": 1,
-      "pts": 580
+      "pts": 596
     },
     {
       "team": "Colorado Eagles",
@@ -252,7 +252,7 @@
       "l": 10,
       "otl": 1,
       "sol": 3,
-      "pts": 519
+      "pts": 523
     },
     {
       "team": "Ontario Reign",
@@ -263,7 +263,7 @@
       "l": 14,
       "otl": 1,
       "sol": 1,
-      "pts": 521
+      "pts": 523
     },
     {
       "team": "Bakersfield Condors",
@@ -274,7 +274,7 @@
       "l": 12,
       "otl": 7,
       "sol": 0,
-      "pts": 690
+      "pts": 696
     },
     {
       "team": "San Jose Barracuda",
@@ -285,7 +285,7 @@
       "l": 13,
       "otl": 1,
       "sol": 2,
-      "pts": 578
+      "pts": 596
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -296,7 +296,7 @@
       "l": 15,
       "otl": 5,
       "sol": 0,
-      "pts": 624
+      "pts": 632
     },
     {
       "team": "San Diego Gulls",
@@ -318,7 +318,7 @@
       "l": 16,
       "otl": 8,
       "sol": 0,
-      "pts": 493
+      "pts": 500
     },
     {
       "team": "Henderson Silver Knights",
@@ -340,7 +340,7 @@
       "l": 18,
       "otl": 9,
       "sol": 2,
-      "pts": 701
+      "pts": 710
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 25,
       "otl": 3,
       "sol": 3,
-      "pts": 616
+      "pts": 622
     }
   ]
 }
