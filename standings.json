@@ -180,9 +180,9 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 41,
-      "gr": 31,
-      "w": 21,
+      "gp": 42,
+      "gr": 30,
+      "w": 22,
       "l": 10,
       "otl": 5,
       "sol": 5,
@@ -246,11 +246,11 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 42,
-      "gr": 30,
+      "gp": 43,
+      "gr": 29,
       "w": 28,
       "l": 10,
-      "otl": 1,
+      "otl": 2,
       "sol": 3,
       "pts": 523
     },
@@ -263,7 +263,7 @@
       "l": 14,
       "otl": 1,
       "sol": 1,
-      "pts": 523
+      "pts": 525
     },
     {
       "team": "Bakersfield Condors",
@@ -285,7 +285,7 @@
       "l": 13,
       "otl": 1,
       "sol": 2,
-      "pts": 596
+      "pts": 600
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -312,9 +312,9 @@
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 43,
-      "gr": 29,
-      "w": 19,
+      "gp": 44,
+      "gr": 28,
+      "w": 20,
       "l": 16,
       "otl": 8,
       "sol": 0,
@@ -329,15 +329,15 @@
       "l": 16,
       "otl": 5,
       "sol": 2,
-      "pts": 495
+      "pts": 497
     },
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 45,
-      "gr": 27,
+      "gp": 46,
+      "gr": 26,
       "w": 16,
-      "l": 18,
+      "l": 19,
       "otl": 9,
       "sol": 2,
       "pts": 710
