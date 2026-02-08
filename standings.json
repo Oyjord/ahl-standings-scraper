@@ -180,13 +180,13 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 42,
-      "gr": 30,
+      "gp": 43,
+      "gr": 29,
       "w": 22,
-      "l": 10,
+      "l": 11,
       "otl": 5,
       "sol": 5,
-      "pts": 532
+      "pts": 552
     },
     {
       "team": "Texas Stars",
@@ -246,35 +246,35 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 46,
-      "gr": 26,
-      "w": 30,
+      "gp": 47,
+      "gr": 25,
+      "w": 31,
       "l": 14,
       "otl": 1,
       "sol": 1,
-      "pts": 531
+      "pts": 535
     },
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 43,
-      "gr": 29,
-      "w": 28,
+      "gp": 44,
+      "gr": 28,
+      "w": 29,
       "l": 10,
       "otl": 2,
       "sol": 3,
-      "pts": 546
+      "pts": 560
     },
     {
       "team": "Bakersfield Condors",
       "division": "Pacific",
-      "gp": 45,
-      "gr": 27,
+      "gp": 46,
+      "gr": 26,
       "w": 25,
-      "l": 13,
+      "l": 14,
       "otl": 7,
       "sol": 0,
-      "pts": 702
+      "pts": 712
     },
     {
       "team": "San Jose Barracuda",
@@ -290,13 +290,13 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 44,
-      "gr": 28,
-      "w": 24,
+      "gp": 45,
+      "gr": 27,
+      "w": 25,
       "l": 15,
       "otl": 5,
       "sol": 0,
-      "pts": 677
+      "pts": 683
     },
     {
       "team": "San Diego Gulls",
@@ -321,6 +321,17 @@
       "pts": 516
     },
     {
+      "team": "Henderson Silver Knights",
+      "division": "Pacific",
+      "gp": 43,
+      "gr": 29,
+      "w": 18,
+      "l": 17,
+      "otl": 6,
+      "sol": 2,
+      "pts": 560
+    },
+    {
       "team": "Calgary Wranglers",
       "division": "Pacific",
       "gp": 47,
@@ -330,17 +341,6 @@
       "otl": 10,
       "sol": 2,
       "pts": 730
-    },
-    {
-      "team": "Henderson Silver Knights",
-      "division": "Pacific",
-      "gp": 42,
-      "gr": 30,
-      "w": 18,
-      "l": 17,
-      "otl": 5,
-      "sol": 2,
-      "pts": 556
     },
     {
       "team": "Abbotsford Canucks",
