@@ -10,7 +10,7 @@
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 527
+      "pts": 529
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
@@ -21,7 +21,7 @@
       "l": 12,
       "otl": 2,
       "sol": 2,
-      "pts": 645
+      "pts": 647
     },
     {
       "team": "Charlotte Checkers",
@@ -32,7 +32,7 @@
       "l": 15,
       "otl": 3,
       "sol": 0,
-      "pts": 523
+      "pts": 534
     },
     {
       "team": "Hershey Bears",
@@ -65,7 +65,7 @@
       "l": 20,
       "otl": 2,
       "sol": 3,
-      "pts": 485
+      "pts": 487
     },
     {
       "team": "Springfield Thunderbirds",
@@ -87,18 +87,18 @@
       "l": 23,
       "otl": 4,
       "sol": 2,
-      "pts": 621
+      "pts": 630
     },
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 48,
-      "gr": 24,
-      "w": 30,
+      "gp": 49,
+      "gr": 23,
+      "w": 31,
       "l": 14,
       "otl": 2,
       "sol": 2,
-      "pts": 765
+      "pts": 776
     },
     {
       "team": "Syracuse Crunch",
@@ -109,18 +109,18 @@
       "l": 16,
       "otl": 3,
       "sol": 1,
-      "pts": 640
+      "pts": 642
     },
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 45,
-      "gr": 27,
+      "gp": 46,
+      "gr": 26,
       "w": 23,
-      "l": 15,
+      "l": 16,
       "otl": 4,
       "sol": 3,
-      "pts": 652
+      "pts": 663
     },
     {
       "team": "Cleveland Monsters",
@@ -189,6 +189,17 @@
       "pts": 552
     },
     {
+      "team": "Manitoba Moose",
+      "division": "Other",
+      "gp": 43,
+      "gr": 29,
+      "w": 23,
+      "l": 17,
+      "otl": 3,
+      "sol": 0,
+      "pts": 522
+    },
+    {
       "team": "Texas Stars",
       "division": "Other",
       "gp": 46,
@@ -198,17 +209,6 @@
       "otl": 3,
       "sol": 1,
       "pts": 454
-    },
-    {
-      "team": "Manitoba Moose",
-      "division": "Other",
-      "gp": 42,
-      "gr": 30,
-      "w": 22,
-      "l": 17,
-      "otl": 3,
-      "sol": 0,
-      "pts": 516
     },
     {
       "team": "Milwaukee Admirals",
@@ -334,13 +334,13 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 47,
-      "gr": 25,
+      "gp": 48,
+      "gr": 24,
       "w": 16,
-      "l": 19,
+      "l": 20,
       "otl": 10,
       "sol": 2,
-      "pts": 730
+      "pts": 736
     },
     {
       "team": "Abbotsford Canucks",
