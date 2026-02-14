@@ -70,13 +70,13 @@
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 46,
-      "gr": 26,
-      "w": 16,
+      "gp": 47,
+      "gr": 25,
+      "w": 17,
       "l": 24,
       "otl": 4,
       "sol": 2,
-      "pts": 495
+      "pts": 499
     },
     {
       "team": "Hartford Wolf Pack",
@@ -235,10 +235,10 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 44,
-      "gr": 28,
+      "gp": 45,
+      "gr": 27,
       "w": 13,
-      "l": 26,
+      "l": 27,
       "otl": 4,
       "sol": 1,
       "pts": 600
@@ -274,7 +274,7 @@
       "l": 14,
       "otl": 7,
       "sol": 0,
-      "pts": 712
+      "pts": 714
     },
     {
       "team": "San Jose Barracuda",
@@ -296,7 +296,7 @@
       "l": 15,
       "otl": 5,
       "sol": 0,
-      "pts": 683
+      "pts": 685
     },
     {
       "team": "San Diego Gulls",
@@ -307,7 +307,7 @@
       "l": 14,
       "otl": 6,
       "sol": 3,
-      "pts": 519
+      "pts": 523
     },
     {
       "team": "Tucson Roadrunners",
@@ -318,7 +318,7 @@
       "l": 16,
       "otl": 8,
       "sol": 0,
-      "pts": 516
+      "pts": 518
     },
     {
       "team": "Henderson Silver Knights",
