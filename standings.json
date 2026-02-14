@@ -37,13 +37,13 @@
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 44,
-      "gr": 28,
+      "gp": 45,
+      "gr": 27,
       "w": 20,
-      "l": 16,
+      "l": 17,
       "otl": 6,
       "sol": 2,
-      "pts": 540
+      "pts": 610
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -76,7 +76,7 @@
       "l": 24,
       "otl": 4,
       "sol": 2,
-      "pts": 491
+      "pts": 495
     },
     {
       "team": "Hartford Wolf Pack",
@@ -92,13 +92,13 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 47,
-      "gr": 25,
-      "w": 29,
+      "gp": 48,
+      "gr": 24,
+      "w": 30,
       "l": 14,
       "otl": 2,
       "sol": 2,
-      "pts": 723
+      "pts": 765
     },
     {
       "team": "Syracuse Crunch",
@@ -169,13 +169,13 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 45,
-      "gr": 27,
-      "w": 35,
+      "gp": 46,
+      "gr": 26,
+      "w": 36,
       "l": 7,
       "otl": 2,
       "sol": 1,
-      "pts": 522
+      "pts": 528
     },
     {
       "team": "Chicago Wolves",
@@ -191,13 +191,13 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 45,
-      "gr": 27,
+      "gp": 46,
+      "gr": 26,
       "w": 22,
-      "l": 19,
+      "l": 20,
       "otl": 3,
       "sol": 1,
-      "pts": 448
+      "pts": 454
     },
     {
       "team": "Manitoba Moose",
@@ -241,7 +241,7 @@
       "l": 26,
       "otl": 4,
       "sol": 1,
-      "pts": 596
+      "pts": 600
     },
     {
       "team": "Ontario Reign",
