@@ -4,13 +4,13 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 44,
-      "gr": 28,
-      "w": 35,
+      "gp": 45,
+      "gr": 27,
+      "w": 36,
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 529
+      "pts": 531
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
@@ -21,18 +21,18 @@
       "l": 12,
       "otl": 2,
       "sol": 2,
-      "pts": 647
+      "pts": 658
     },
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 44,
-      "gr": 28,
+      "gp": 45,
+      "gr": 27,
       "w": 26,
-      "l": 15,
+      "l": 16,
       "otl": 3,
       "sol": 0,
-      "pts": 534
+      "pts": 544
     },
     {
       "team": "Hershey Bears",
@@ -43,7 +43,7 @@
       "l": 17,
       "otl": 6,
       "sol": 2,
-      "pts": 610
+      "pts": 614
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -59,13 +59,13 @@
     {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 45,
-      "gr": 27,
+      "gp": 46,
+      "gr": 26,
       "w": 20,
-      "l": 20,
+      "l": 21,
       "otl": 2,
       "sol": 3,
-      "pts": 487
+      "pts": 489
     },
     {
       "team": "Springfield Thunderbirds",
@@ -76,18 +76,18 @@
       "l": 24,
       "otl": 4,
       "sol": 2,
-      "pts": 499
+      "pts": 503
     },
     {
       "team": "Hartford Wolf Pack",
       "division": "Other",
-      "gp": 45,
-      "gr": 27,
-      "w": 16,
+      "gp": 46,
+      "gr": 26,
+      "w": 17,
       "l": 23,
       "otl": 4,
       "sol": 2,
-      "pts": 630
+      "pts": 642
     },
     {
       "team": "Laval Rocket",
@@ -109,7 +109,7 @@
       "l": 16,
       "otl": 3,
       "sol": 1,
-      "pts": 642
+      "pts": 649
     },
     {
       "team": "Toronto Marlies",
@@ -142,7 +142,7 @@
       "l": 16,
       "otl": 4,
       "sol": 2,
-      "pts": 495
+      "pts": 499
     },
     {
       "team": "Belleville Senators",
@@ -153,7 +153,7 @@
       "l": 21,
       "otl": 8,
       "sol": 0,
-      "pts": 683
+      "pts": 685
     },
     {
       "team": "Utica Comets",
@@ -164,7 +164,7 @@
       "l": 22,
       "otl": 5,
       "sol": 3,
-      "pts": 519
+      "pts": 521
     },
     {
       "team": "Grand Rapids Griffins",
@@ -241,7 +241,7 @@
       "l": 27,
       "otl": 4,
       "sol": 1,
-      "pts": 600
+      "pts": 602
     },
     {
       "team": "Ontario Reign",
