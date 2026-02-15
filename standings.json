@@ -4,30 +4,30 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 45,
-      "gr": 27,
-      "w": 36,
+      "gp": 46,
+      "gr": 26,
+      "w": 37,
       "l": 8,
       "otl": 1,
       "sol": 0,
-      "pts": 531
+      "pts": 537
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 49,
-      "gr": 23,
+      "gp": 50,
+      "gr": 22,
       "w": 32,
       "l": 13,
-      "otl": 2,
+      "otl": 3,
       "sol": 2,
-      "pts": 664
+      "pts": 673
     },
     {
       "team": "Charlotte Checkers",
       "division": "Other",
       "gp": 45,
-      "gr": 27,
+      "gr": 28,
       "w": 26,
       "l": 16,
       "otl": 3,
@@ -46,26 +46,26 @@
       "pts": 622
     },
     {
-      "team": "Lehigh Valley Phantoms",
-      "division": "Other",
-      "gp": 46,
-      "gr": 26,
-      "w": 21,
-      "l": 21,
-      "otl": 2,
-      "sol": 2,
-      "pts": 604
-    },
-    {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 46,
-      "gr": 26,
+      "gp": 47,
+      "gr": 25,
       "w": 20,
       "l": 21,
-      "otl": 2,
+      "otl": 3,
       "sol": 3,
-      "pts": 489
+      "pts": 493
+    },
+    {
+      "team": "Lehigh Valley Phantoms",
+      "division": "Other",
+      "gp": 47,
+      "gr": 25,
+      "w": 21,
+      "l": 22,
+      "otl": 2,
+      "sol": 2,
+      "pts": 620
     },
     {
       "team": "Springfield Thunderbirds",
@@ -82,7 +82,7 @@
       "team": "Hartford Wolf Pack",
       "division": "Other",
       "gp": 46,
-      "gr": 26,
+      "gr": 27,
       "w": 17,
       "l": 23,
       "otl": 4,
@@ -103,35 +103,35 @@
     {
       "team": "Syracuse Crunch",
       "division": "Other",
-      "gp": 47,
-      "gr": 25,
-      "w": 27,
+      "gp": 48,
+      "gr": 24,
+      "w": 28,
       "l": 16,
       "otl": 3,
       "sol": 1,
-      "pts": 663
+      "pts": 675
     },
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 46,
-      "gr": 26,
-      "w": 24,
+      "gp": 47,
+      "gr": 25,
+      "w": 25,
       "l": 15,
       "otl": 6,
       "sol": 1,
-      "pts": 582
+      "pts": 595
     },
     {
       "team": "Rochester Americans",
       "division": "Other",
-      "gp": 46,
-      "gr": 26,
+      "gp": 47,
+      "gr": 25,
       "w": 24,
-      "l": 16,
+      "l": 17,
       "otl": 4,
       "sol": 2,
-      "pts": 506
+      "pts": 514
     },
     {
       "team": "Toronto Marlies",
@@ -158,13 +158,13 @@
     {
       "team": "Utica Comets",
       "division": "Other",
-      "gp": 44,
-      "gr": 28,
-      "w": 13,
+      "gp": 45,
+      "gr": 27,
+      "w": 14,
       "l": 23,
       "otl": 5,
       "sol": 3,
-      "pts": 557
+      "pts": 563
     },
     {
       "team": "Grand Rapids Griffins",
@@ -175,7 +175,7 @@
       "l": 7,
       "otl": 2,
       "sol": 1,
-      "pts": 528
+      "pts": 534
     },
     {
       "team": "Chicago Wolves",
@@ -186,7 +186,7 @@
       "l": 11,
       "otl": 5,
       "sol": 5,
-      "pts": 558
+      "pts": 566
     },
     {
       "team": "Manitoba Moose",
@@ -208,7 +208,7 @@
       "l": 20,
       "otl": 3,
       "sol": 1,
-      "pts": 454
+      "pts": 462
     },
     {
       "team": "Milwaukee Admirals",
@@ -219,7 +219,7 @@
       "l": 21,
       "otl": 2,
       "sol": 2,
-      "pts": 797
+      "pts": 801
     },
     {
       "team": "Rockford IceHogs",
@@ -230,7 +230,7 @@
       "l": 26,
       "otl": 2,
       "sol": 2,
-      "pts": 887
+      "pts": 897
     },
     {
       "team": "Iowa Wild",
@@ -252,7 +252,7 @@
       "l": 10,
       "otl": 3,
       "sol": 3,
-      "pts": 566
+      "pts": 576
     },
     {
       "team": "Ontario Reign",
@@ -296,7 +296,7 @@
       "l": 15,
       "otl": 1,
       "sol": 2,
-      "pts": 662
+      "pts": 666
     },
     {
       "team": "San Diego Gulls",
@@ -329,7 +329,7 @@
       "l": 17,
       "otl": 6,
       "sol": 2,
-      "pts": 568
+      "pts": 570
     },
     {
       "team": "Calgary Wranglers",
