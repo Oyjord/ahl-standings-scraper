@@ -26,24 +26,24 @@
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 45,
-      "gr": 28,
-      "w": 26,
+      "gp": 46,
+      "gr": 26,
+      "w": 27,
       "l": 16,
       "otl": 3,
       "sol": 0,
-      "pts": 544
+      "pts": 571
     },
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 46,
-      "gr": 26,
+      "gp": 47,
+      "gr": 25,
       "w": 21,
-      "l": 17,
+      "l": 18,
       "otl": 6,
       "sol": 2,
-      "pts": 622
+      "pts": 628
     },
     {
       "team": "Bridgeport Islanders",
@@ -81,24 +81,24 @@
     {
       "team": "Hartford Wolf Pack",
       "division": "Other",
-      "gp": 46,
-      "gr": 27,
+      "gp": 47,
+      "gr": 25,
       "w": 17,
-      "l": 23,
+      "l": 24,
       "otl": 4,
       "sol": 2,
-      "pts": 642
+      "pts": 694
     },
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 49,
-      "gr": 23,
+      "gp": 50,
+      "gr": 22,
       "w": 31,
       "l": 14,
       "otl": 2,
-      "sol": 2,
-      "pts": 776
+      "sol": 3,
+      "pts": 809
     },
     {
       "team": "Syracuse Crunch",
@@ -123,6 +123,17 @@
       "pts": 595
     },
     {
+      "team": "Toronto Marlies",
+      "division": "Other",
+      "gp": 47,
+      "gr": 25,
+      "w": 24,
+      "l": 16,
+      "otl": 4,
+      "sol": 3,
+      "pts": 676
+    },
+    {
       "team": "Rochester Americans",
       "division": "Other",
       "gp": 47,
@@ -134,26 +145,15 @@
       "pts": 514
     },
     {
-      "team": "Toronto Marlies",
-      "division": "Other",
-      "gp": 46,
-      "gr": 26,
-      "w": 23,
-      "l": 16,
-      "otl": 4,
-      "sol": 3,
-      "pts": 663
-    },
-    {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 50,
-      "gr": 22,
-      "w": 20,
+      "gp": 51,
+      "gr": 21,
+      "w": 21,
       "l": 22,
       "otl": 8,
       "sol": 0,
-      "pts": 689
+      "pts": 695
     },
     {
       "team": "Utica Comets",
@@ -191,13 +191,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 43,
-      "gr": 29,
+      "gp": 44,
+      "gr": 28,
       "w": 23,
       "l": 17,
       "otl": 3,
-      "sol": 0,
-      "pts": 522
+      "sol": 1,
+      "pts": 530
     },
     {
       "team": "Texas Stars",
@@ -263,7 +263,7 @@
       "l": 15,
       "otl": 1,
       "sol": 1,
-      "pts": 539
+      "pts": 545
     },
     {
       "team": "Bakersfield Condors",
@@ -334,13 +334,13 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 48,
-      "gr": 24,
-      "w": 16,
+      "gp": 49,
+      "gr": 23,
+      "w": 17,
       "l": 20,
       "otl": 10,
       "sol": 2,
-      "pts": 736
+      "pts": 738
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 26,
       "otl": 3,
       "sol": 3,
-      "pts": 665
+      "pts": 673
     }
   ]
 }
