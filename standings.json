@@ -169,20 +169,20 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 46,
-      "gr": 26,
-      "w": 36,
+      "gp": 47,
+      "gr": 25,
+      "w": 37,
       "l": 7,
       "otl": 2,
       "sol": 1,
-      "pts": 534
+      "pts": 550
     },
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 44,
-      "gr": 28,
-      "w": 23,
+      "gp": 45,
+      "gr": 27,
+      "w": 24,
       "l": 11,
       "otl": 5,
       "sol": 5,
@@ -202,10 +202,10 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 46,
-      "gr": 26,
+      "gp": 47,
+      "gr": 25,
       "w": 22,
-      "l": 20,
+      "l": 21,
       "otl": 3,
       "sol": 1,
       "pts": 462
@@ -213,24 +213,24 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 44,
-      "gr": 28,
-      "w": 19,
+      "gp": 45,
+      "gr": 27,
+      "w": 20,
       "l": 21,
       "otl": 2,
       "sol": 2,
-      "pts": 801
+      "pts": 809
     },
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 48,
-      "gr": 24,
+      "gp": 49,
+      "gr": 23,
       "w": 18,
-      "l": 26,
+      "l": 27,
       "otl": 2,
       "sol": 2,
-      "pts": 897
+      "pts": 899
     },
     {
       "team": "Iowa Wild",
@@ -246,10 +246,10 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 45,
-      "gr": 27,
+      "gp": 46,
+      "gr": 26,
       "w": 29,
-      "l": 10,
+      "l": 11,
       "otl": 3,
       "sol": 3,
       "pts": 576
@@ -285,7 +285,7 @@
       "l": 15,
       "otl": 5,
       "sol": 0,
-      "pts": 691
+      "pts": 693
     },
     {
       "team": "San Jose Barracuda",
@@ -329,7 +329,7 @@
       "l": 17,
       "otl": 6,
       "sol": 2,
-      "pts": 570
+      "pts": 572
     },
     {
       "team": "Calgary Wranglers",
