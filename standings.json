@@ -268,9 +268,9 @@
     {
       "team": "Bakersfield Condors",
       "division": "Pacific",
-      "gp": 48,
-      "gr": 24,
-      "w": 26,
+      "gp": 49,
+      "gr": 23,
+      "w": 27,
       "l": 15,
       "otl": 7,
       "sol": 0,
@@ -285,15 +285,15 @@
       "l": 15,
       "otl": 1,
       "sol": 2,
-      "pts": 676
+      "pts": 680
     },
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 47,
-      "gr": 25,
+      "gp": 48,
+      "gr": 24,
       "w": 26,
-      "l": 16,
+      "l": 17,
       "otl": 5,
       "sol": 0,
       "pts": 701
@@ -307,7 +307,7 @@
       "l": 15,
       "otl": 6,
       "sol": 3,
-      "pts": 541
+      "pts": 543
     },
     {
       "team": "Tucson Roadrunners",
