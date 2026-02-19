@@ -180,13 +180,13 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 45,
-      "gr": 27,
-      "w": 24,
+      "gp": 46,
+      "gr": 26,
+      "w": 25,
       "l": 11,
       "otl": 5,
       "sol": 5,
-      "pts": 566
+      "pts": 581
     },
     {
       "team": "Manitoba Moose",
@@ -235,13 +235,13 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 46,
-      "gr": 26,
+      "gp": 47,
+      "gr": 25,
       "w": 13,
-      "l": 28,
+      "l": 29,
       "otl": 4,
       "sol": 1,
-      "pts": 610
+      "pts": 621
     },
     {
       "team": "Ontario Reign",
