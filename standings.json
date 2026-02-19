@@ -202,9 +202,9 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 47,
-      "gr": 25,
-      "w": 22,
+      "gp": 48,
+      "gr": 24,
+      "w": 23,
       "l": 21,
       "otl": 3,
       "sol": 1,
@@ -213,12 +213,12 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 45,
-      "gr": 27,
+      "gp": 46,
+      "gr": 26,
       "w": 20,
       "l": 21,
       "otl": 2,
-      "sol": 2,
+      "sol": 3,
       "pts": 817
     },
     {
@@ -263,7 +263,7 @@
       "l": 16,
       "otl": 1,
       "sol": 1,
-      "pts": 545
+      "pts": 547
     },
     {
       "team": "Bakersfield Condors",
@@ -274,7 +274,7 @@
       "l": 15,
       "otl": 7,
       "sol": 0,
-      "pts": 722
+      "pts": 724
     },
     {
       "team": "San Jose Barracuda",
@@ -285,7 +285,7 @@
       "l": 15,
       "otl": 1,
       "sol": 2,
-      "pts": 672
+      "pts": 676
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -296,7 +296,7 @@
       "l": 16,
       "otl": 5,
       "sol": 0,
-      "pts": 695
+      "pts": 701
     },
     {
       "team": "San Diego Gulls",
@@ -307,7 +307,7 @@
       "l": 15,
       "otl": 6,
       "sol": 3,
-      "pts": 533
+      "pts": 541
     },
     {
       "team": "Tucson Roadrunners",
@@ -351,7 +351,7 @@
       "l": 26,
       "otl": 3,
       "sol": 3,
-      "pts": 673
+      "pts": 677
     }
   ]
 }
