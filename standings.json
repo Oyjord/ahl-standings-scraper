@@ -189,6 +189,17 @@
       "pts": 587
     },
     {
+      "team": "Texas Stars",
+      "division": "Other",
+      "gp": 49,
+      "gr": 23,
+      "w": 24,
+      "l": 21,
+      "otl": 3,
+      "sol": 1,
+      "pts": 474
+    },
+    {
       "team": "Manitoba Moose",
       "division": "Other",
       "gp": 44,
@@ -200,26 +211,15 @@
       "pts": 530
     },
     {
-      "team": "Texas Stars",
-      "division": "Other",
-      "gp": 48,
-      "gr": 24,
-      "w": 23,
-      "l": 21,
-      "otl": 3,
-      "sol": 1,
-      "pts": 474
-    },
-    {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 46,
-      "gr": 26,
+      "gp": 47,
+      "gr": 25,
       "w": 20,
-      "l": 21,
+      "l": 22,
       "otl": 2,
       "sol": 3,
-      "pts": 821
+      "pts": 825
     },
     {
       "team": "Rockford IceHogs",
@@ -263,7 +263,7 @@
       "l": 11,
       "otl": 3,
       "sol": 3,
-      "pts": 576
+      "pts": 586
     },
     {
       "team": "Bakersfield Condors",
@@ -274,7 +274,7 @@
       "l": 15,
       "otl": 7,
       "sol": 0,
-      "pts": 724
+      "pts": 732
     },
     {
       "team": "San Jose Barracuda",
@@ -296,7 +296,7 @@
       "l": 17,
       "otl": 5,
       "sol": 0,
-      "pts": 701
+      "pts": 705
     },
     {
       "team": "San Diego Gulls",
@@ -340,7 +340,7 @@
       "l": 20,
       "otl": 10,
       "sol": 2,
-      "pts": 738
+      "pts": 742
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 27,
       "otl": 3,
       "sol": 3,
-      "pts": 677
+      "pts": 681
     }
   ]
 }
