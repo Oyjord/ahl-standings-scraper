@@ -224,13 +224,13 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 50,
-      "gr": 22,
-      "w": 18,
+      "gp": 51,
+      "gr": 21,
+      "w": 19,
       "l": 28,
       "otl": 2,
       "sol": 2,
-      "pts": 911
+      "pts": 915
     },
     {
       "team": "Iowa Wild",
@@ -252,7 +252,7 @@
       "l": 16,
       "otl": 1,
       "sol": 1,
-      "pts": 562
+      "pts": 566
     },
     {
       "team": "Colorado Eagles",
@@ -301,13 +301,13 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 48,
-      "gr": 24,
+      "gp": 49,
+      "gr": 23,
       "w": 23,
-      "l": 15,
+      "l": 16,
       "otl": 6,
       "sol": 4,
-      "pts": 555
+      "pts": 557
     },
     {
       "team": "Tucson Roadrunners",
@@ -318,7 +318,7 @@
       "l": 18,
       "otl": 8,
       "sol": 0,
-      "pts": 535
+      "pts": 543
     },
     {
       "team": "Henderson Silver Knights",
