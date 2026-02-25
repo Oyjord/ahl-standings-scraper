@@ -213,13 +213,13 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 48,
-      "gr": 24,
+      "gp": 49,
+      "gr": 23,
       "w": 20,
       "l": 22,
-      "otl": 3,
+      "otl": 4,
       "sol": 3,
-      "pts": 833
+      "pts": 843
     },
     {
       "team": "Rockford IceHogs",
@@ -235,13 +235,13 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 49,
-      "gr": 23,
-      "w": 15,
+      "gp": 50,
+      "gr": 22,
+      "w": 16,
       "l": 29,
       "otl": 4,
       "sol": 1,
-      "pts": 631
+      "pts": 635
     },
     {
       "team": "Ontario Reign",
@@ -263,7 +263,7 @@
       "l": 12,
       "otl": 3,
       "sol": 3,
-      "pts": 592
+      "pts": 596
     },
     {
       "team": "Bakersfield Condors",
@@ -274,7 +274,7 @@
       "l": 15,
       "otl": 8,
       "sol": 0,
-      "pts": 732
+      "pts": 740
     },
     {
       "team": "San Jose Barracuda",
@@ -285,7 +285,7 @@
       "l": 15,
       "otl": 2,
       "sol": 2,
-      "pts": 704
+      "pts": 706
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -340,7 +340,7 @@
       "l": 20,
       "otl": 10,
       "sol": 2,
-      "pts": 762
+      "pts": 764
     },
     {
       "team": "Abbotsford Canucks",
