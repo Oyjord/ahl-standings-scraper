@@ -301,24 +301,24 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 49,
-      "gr": 23,
+      "gp": 50,
+      "gr": 22,
       "w": 23,
       "l": 16,
-      "otl": 6,
+      "otl": 7,
       "sol": 4,
-      "pts": 559
+      "pts": 566
     },
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 49,
-      "gr": 23,
-      "w": 22,
+      "gp": 50,
+      "gr": 22,
+      "w": 23,
       "l": 19,
       "otl": 8,
       "sol": 0,
-      "pts": 549
+      "pts": 554
     },
     {
       "team": "Henderson Silver Knights",
