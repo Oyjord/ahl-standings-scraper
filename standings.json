@@ -290,13 +290,13 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 50,
-      "gr": 22,
+      "gp": 51,
+      "gr": 21,
       "w": 27,
-      "l": 18,
+      "l": 19,
       "otl": 5,
       "sol": 0,
-      "pts": 719
+      "pts": 741
     },
     {
       "team": "San Diego Gulls",
@@ -323,13 +323,13 @@
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 47,
-      "gr": 25,
-      "w": 21,
+      "gp": 48,
+      "gr": 24,
+      "w": 22,
       "l": 18,
       "otl": 6,
       "sol": 2,
-      "pts": 597
+      "pts": 611
     },
     {
       "team": "Calgary Wranglers",
