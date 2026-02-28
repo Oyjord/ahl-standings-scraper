@@ -37,13 +37,13 @@
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 51,
-      "gr": 21,
-      "w": 23,
+      "gp": 52,
+      "gr": 20,
+      "w": 24,
       "l": 20,
       "otl": 6,
       "sol": 2,
-      "pts": 709
+      "pts": 714
     },
     {
       "team": "Bridgeport Islanders",
@@ -92,9 +92,9 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 54,
-      "gr": 18,
-      "w": 33,
+      "gp": 55,
+      "gr": 17,
+      "w": 34,
       "l": 16,
       "otl": 2,
       "sol": 3,
@@ -136,10 +136,10 @@
     {
       "team": "Rochester Americans",
       "division": "Other",
-      "gp": 50,
-      "gr": 22,
+      "gp": 51,
+      "gr": 21,
       "w": 24,
-      "l": 18,
+      "l": 19,
       "otl": 5,
       "sol": 3,
       "pts": 547
@@ -167,7 +167,7 @@
       "pts": 603
     },
     {
-      "team": "Grand Rapids Griffins",
+      "team": "x - Grand Rapids Griffins",
       "division": "Other",
       "gp": 52,
       "gr": 20,
@@ -202,10 +202,10 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 50,
-      "gr": 22,
+      "gp": 51,
+      "gr": 21,
       "w": 24,
-      "l": 22,
+      "l": 23,
       "otl": 3,
       "sol": 1,
       "pts": 484
@@ -224,13 +224,13 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 51,
-      "gr": 21,
+      "gp": 52,
+      "gr": 20,
       "w": 19,
-      "l": 28,
+      "l": 29,
       "otl": 2,
       "sol": 2,
-      "pts": 917
+      "pts": 934
     },
     {
       "team": "Iowa Wild",
@@ -301,9 +301,9 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 50,
-      "gr": 22,
-      "w": 23,
+      "gp": 51,
+      "gr": 21,
+      "w": 24,
       "l": 16,
       "otl": 7,
       "sol": 4,
