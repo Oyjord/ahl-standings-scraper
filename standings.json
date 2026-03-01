@@ -4,13 +4,13 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 50,
-      "gr": 22,
-      "w": 39,
+      "gp": 51,
+      "gr": 21,
+      "w": 40,
       "l": 10,
       "otl": 1,
       "sol": 0,
-      "pts": 570
+      "pts": 578
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
@@ -26,79 +26,90 @@
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 51,
-      "gr": 21,
+      "gp": 52,
+      "gr": 20,
       "w": 30,
-      "l": 17,
+      "l": 18,
       "otl": 4,
       "sol": 0,
-      "pts": 619
+      "pts": 636
     },
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 52,
-      "gr": 20,
-      "w": 24,
+      "gp": 53,
+      "gr": 19,
+      "w": 25,
       "l": 20,
       "otl": 6,
       "sol": 2,
-      "pts": 714
+      "pts": 754
     },
     {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 52,
-      "gr": 20,
+      "gp": 53,
+      "gr": 19,
       "w": 22,
       "l": 23,
       "otl": 3,
-      "sol": 4,
-      "pts": 529
+      "sol": 5,
+      "pts": 535
     },
     {
       "team": "Lehigh Valley Phantoms",
       "division": "Other",
-      "gp": 50,
-      "gr": 22,
+      "gp": 51,
+      "gr": 21,
       "w": 23,
       "l": 23,
       "otl": 2,
-      "sol": 2,
-      "pts": 671
+      "sol": 3,
+      "pts": 689
     },
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 52,
-      "gr": 20,
-      "w": 20,
+      "gp": 53,
+      "gr": 19,
+      "w": 21,
       "l": 25,
       "otl": 5,
       "sol": 2,
-      "pts": 554
+      "pts": 569
     },
     {
       "team": "Hartford Wolf Pack",
       "division": "Other",
-      "gp": 50,
-      "gr": 22,
-      "w": 19,
+      "gp": 51,
+      "gr": 21,
+      "w": 20,
       "l": 25,
       "otl": 4,
       "sol": 2,
-      "pts": 732
+      "pts": 740
     },
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 55,
-      "gr": 17,
+      "gp": 56,
+      "gr": 16,
       "w": 34,
-      "l": 16,
+      "l": 17,
       "otl": 2,
       "sol": 3,
-      "pts": 932
+      "pts": 938
+    },
+    {
+      "team": "Syracuse Crunch",
+      "division": "Other",
+      "gp": 52,
+      "gr": 20,
+      "w": 31,
+      "l": 17,
+      "otl": 3,
+      "sol": 1,
+      "pts": 715
     },
     {
       "team": "Cleveland Monsters",
@@ -110,17 +121,6 @@
       "otl": 6,
       "sol": 1,
       "pts": 637
-    },
-    {
-      "team": "Syracuse Crunch",
-      "division": "Other",
-      "gp": 51,
-      "gr": 21,
-      "w": 30,
-      "l": 17,
-      "otl": 3,
-      "sol": 1,
-      "pts": 707
     },
     {
       "team": "Toronto Marlies",
@@ -147,35 +147,35 @@
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 55,
-      "gr": 17,
+      "gp": 56,
+      "gr": 16,
       "w": 21,
-      "l": 26,
+      "l": 27,
       "otl": 8,
       "sol": 0,
-      "pts": 738
+      "pts": 772
     },
     {
       "team": "Utica Comets",
       "division": "Other",
-      "gp": 51,
-      "gr": 21,
-      "w": 17,
+      "gp": 52,
+      "gr": 20,
+      "w": 18,
       "l": 25,
       "otl": 5,
       "sol": 4,
-      "pts": 603
+      "pts": 621
     },
     {
       "team": "x - Grand Rapids Griffins",
       "division": "Other",
-      "gp": 52,
-      "gr": 20,
-      "w": 40,
+      "gp": 53,
+      "gr": 19,
+      "w": 41,
       "l": 8,
       "otl": 3,
       "sol": 1,
-      "pts": 582
+      "pts": 588
     },
     {
       "team": "Chicago Wolves",
@@ -189,59 +189,59 @@
       "pts": 593
     },
     {
-      "team": "Manitoba Moose",
-      "division": "Other",
-      "gp": 47,
-      "gr": 25,
-      "w": 24,
-      "l": 18,
-      "otl": 4,
-      "sol": 1,
-      "pts": 565
-    },
-    {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 51,
-      "gr": 21,
-      "w": 24,
+      "gp": 52,
+      "gr": 20,
+      "w": 25,
       "l": 23,
       "otl": 3,
       "sol": 1,
-      "pts": 484
+      "pts": 495
+    },
+    {
+      "team": "Manitoba Moose",
+      "division": "Other",
+      "gp": 48,
+      "gr": 24,
+      "w": 24,
+      "l": 19,
+      "otl": 4,
+      "sol": 1,
+      "pts": 574
     },
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 49,
-      "gr": 23,
-      "w": 20,
+      "gp": 50,
+      "gr": 22,
+      "w": 21,
       "l": 22,
       "otl": 4,
       "sol": 3,
-      "pts": 843
+      "pts": 856
     },
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 52,
-      "gr": 20,
+      "gp": 53,
+      "gr": 19,
       "w": 19,
-      "l": 29,
+      "l": 30,
       "otl": 2,
       "sol": 2,
-      "pts": 934
+      "pts": 984
     },
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 51,
-      "gr": 21,
+      "gp": 52,
+      "gr": 20,
       "w": 17,
-      "l": 29,
+      "l": 30,
       "otl": 4,
       "sol": 1,
-      "pts": 654
+      "pts": 656
     },
     {
       "team": "Ontario Reign",
@@ -263,7 +263,7 @@
       "l": 12,
       "otl": 4,
       "sol": 3,
-      "pts": 608
+      "pts": 614
     },
     {
       "team": "San Jose Barracuda",
@@ -274,7 +274,7 @@
       "l": 15,
       "otl": 2,
       "sol": 2,
-      "pts": 716
+      "pts": 726
     },
     {
       "team": "Bakersfield Condors",
@@ -285,7 +285,18 @@
       "l": 16,
       "otl": 8,
       "sol": 0,
-      "pts": 758
+      "pts": 764
+    },
+    {
+      "team": "San Diego Gulls",
+      "division": "Pacific",
+      "gp": 52,
+      "gr": 20,
+      "w": 24,
+      "l": 16,
+      "otl": 8,
+      "sol": 4,
+      "pts": 579
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -296,18 +307,7 @@
       "l": 19,
       "otl": 5,
       "sol": 0,
-      "pts": 741
-    },
-    {
-      "team": "San Diego Gulls",
-      "division": "Pacific",
-      "gp": 51,
-      "gr": 21,
-      "w": 24,
-      "l": 16,
-      "otl": 7,
-      "sol": 4,
-      "pts": 566
+      "pts": 745
     },
     {
       "team": "Tucson Roadrunners",
@@ -318,7 +318,7 @@
       "l": 19,
       "otl": 8,
       "sol": 0,
-      "pts": 554
+      "pts": 560
     },
     {
       "team": "Henderson Silver Knights",
@@ -329,7 +329,7 @@
       "l": 18,
       "otl": 6,
       "sol": 2,
-      "pts": 611
+      "pts": 613
     },
     {
       "team": "Calgary Wranglers",
