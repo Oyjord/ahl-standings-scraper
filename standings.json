@@ -103,9 +103,9 @@
     {
       "team": "Syracuse Crunch",
       "division": "Other",
-      "gp": 52,
-      "gr": 20,
-      "w": 31,
+      "gp": 53,
+      "gr": 19,
+      "w": 32,
       "l": 17,
       "otl": 3,
       "sol": 1,
@@ -136,10 +136,10 @@
     {
       "team": "Rochester Americans",
       "division": "Other",
-      "gp": 51,
-      "gr": 21,
+      "gp": 52,
+      "gr": 20,
       "w": 24,
-      "l": 19,
+      "l": 20,
       "otl": 5,
       "sol": 3,
       "pts": 559
@@ -208,7 +208,7 @@
       "l": 19,
       "otl": 4,
       "sol": 1,
-      "pts": 591
+      "pts": 593
     },
     {
       "team": "Milwaukee Admirals",
@@ -219,7 +219,7 @@
       "l": 22,
       "otl": 4,
       "sol": 3,
-      "pts": 871
+      "pts": 873
     },
     {
       "team": "Rockford IceHogs",
