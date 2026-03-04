@@ -26,35 +26,35 @@
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 53,
-      "gr": 19,
-      "w": 30,
+      "gp": 54,
+      "gr": 18,
+      "w": 31,
       "l": 18,
       "otl": 5,
       "sol": 0,
-      "pts": 640
+      "pts": 642
     },
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 54,
-      "gr": 18,
+      "gp": 55,
+      "gr": 17,
       "w": 26,
-      "l": 20,
+      "l": 21,
       "otl": 6,
       "sol": 2,
-      "pts": 754
+      "pts": 762
     },
     {
       "team": "Lehigh Valley Phantoms",
       "division": "Other",
-      "gp": 52,
-      "gr": 20,
+      "gp": 53,
+      "gr": 19,
       "w": 24,
-      "l": 23,
+      "l": 24,
       "otl": 2,
       "sol": 3,
-      "pts": 691
+      "pts": 713
     },
     {
       "team": "Bridgeport Islanders",
@@ -158,13 +158,13 @@
     {
       "team": "Utica Comets",
       "division": "Other",
-      "gp": 52,
-      "gr": 20,
-      "w": 18,
+      "gp": 53,
+      "gr": 19,
+      "w": 19,
       "l": 25,
       "otl": 5,
       "sol": 4,
-      "pts": 621
+      "pts": 631
     },
     {
       "team": "x - Grand Rapids Griffins",
