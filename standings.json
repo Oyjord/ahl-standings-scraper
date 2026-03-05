@@ -4,24 +4,24 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 52,
-      "gr": 20,
-      "w": 41,
+      "gp": 53,
+      "gr": 19,
+      "w": 42,
       "l": 10,
       "otl": 1,
       "sol": 0,
-      "pts": 582
+      "pts": 612
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 55,
-      "gr": 17,
+      "gp": 56,
+      "gr": 16,
       "w": 36,
-      "l": 13,
+      "l": 14,
       "otl": 4,
       "sol": 2,
-      "pts": 727
+      "pts": 745
     },
     {
       "team": "Charlotte Checkers",
@@ -70,46 +70,46 @@
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 53,
-      "gr": 19,
-      "w": 21,
+      "gp": 54,
+      "gr": 18,
+      "w": 22,
       "l": 25,
       "otl": 5,
       "sol": 2,
-      "pts": 571
+      "pts": 577
     },
     {
       "team": "Hartford Wolf Pack",
       "division": "Other",
-      "gp": 52,
-      "gr": 20,
+      "gp": 53,
+      "gr": 19,
       "w": 20,
-      "l": 26,
+      "l": 27,
       "otl": 4,
       "sol": 2,
-      "pts": 746
+      "pts": 759
     },
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 56,
-      "gr": 16,
+      "gp": 57,
+      "gr": 15,
       "w": 34,
-      "l": 17,
+      "l": 18,
       "otl": 2,
       "sol": 3,
-      "pts": 938
+      "pts": 946
     },
     {
       "team": "Syracuse Crunch",
       "division": "Other",
-      "gp": 53,
-      "gr": 19,
-      "w": 32,
+      "gp": 54,
+      "gr": 18,
+      "w": 33,
       "l": 17,
       "otl": 3,
       "sol": 1,
-      "pts": 743
+      "pts": 751
     },
     {
       "team": "Cleveland Monsters",
@@ -169,13 +169,13 @@
     {
       "team": "x - Grand Rapids Griffins",
       "division": "Other",
-      "gp": 53,
-      "gr": 19,
-      "w": 41,
+      "gp": 54,
+      "gr": 18,
+      "w": 42,
       "l": 8,
       "otl": 3,
       "sol": 1,
-      "pts": 590
+      "pts": 592
     },
     {
       "team": "Chicago Wolves",
@@ -224,10 +224,10 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 53,
-      "gr": 19,
+      "gp": 54,
+      "gr": 18,
       "w": 19,
-      "l": 30,
+      "l": 31,
       "otl": 2,
       "sol": 2,
       "pts": 984
