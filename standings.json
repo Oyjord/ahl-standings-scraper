@@ -10,7 +10,7 @@
       "l": 10,
       "otl": 1,
       "sol": 0,
-      "pts": 616
+      "pts": 635
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
@@ -65,7 +65,7 @@
       "l": 25,
       "otl": 3,
       "sol": 5,
-      "pts": 659
+      "pts": 680
     },
     {
       "team": "Springfield Thunderbirds",
@@ -114,10 +114,10 @@
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 55,
-      "gr": 17,
+      "gp": 56,
+      "gr": 16,
       "w": 30,
-      "l": 18,
+      "l": 19,
       "otl": 6,
       "sol": 1,
       "pts": 658
@@ -169,9 +169,9 @@
     {
       "team": "x - Grand Rapids Griffins",
       "division": "Other",
-      "gp": 55,
-      "gr": 17,
-      "w": 42,
+      "gp": 56,
+      "gr": 16,
+      "w": 43,
       "l": 9,
       "otl": 3,
       "sol": 1,
