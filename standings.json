@@ -10,7 +10,7 @@
       "l": 10,
       "otl": 1,
       "sol": 0,
-      "pts": 612
+      "pts": 616
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
@@ -65,7 +65,7 @@
       "l": 25,
       "otl": 3,
       "sol": 5,
-      "pts": 655
+      "pts": 659
     },
     {
       "team": "Springfield Thunderbirds",
@@ -92,13 +92,13 @@
     {
       "team": "Laval Rocket",
       "division": "Other",
-      "gp": 58,
-      "gr": 14,
-      "w": 35,
+      "gp": 59,
+      "gr": 13,
+      "w": 36,
       "l": 18,
       "otl": 2,
       "sol": 3,
-      "pts": 959
+      "pts": 974
     },
     {
       "team": "Syracuse Crunch",
@@ -120,7 +120,7 @@
       "l": 18,
       "otl": 6,
       "sol": 1,
-      "pts": 654
+      "pts": 658
     },
     {
       "team": "Toronto Marlies",
@@ -136,13 +136,13 @@
     {
       "team": "Rochester Americans",
       "division": "Other",
-      "gp": 53,
-      "gr": 19,
+      "gp": 54,
+      "gr": 18,
       "w": 24,
       "l": 21,
       "otl": 5,
-      "sol": 3,
-      "pts": 584
+      "sol": 4,
+      "pts": 595
     },
     {
       "team": "Belleville Senators",
@@ -175,7 +175,7 @@
       "l": 9,
       "otl": 3,
       "sol": 1,
-      "pts": 619
+      "pts": 623
     },
     {
       "team": "Chicago Wolves",
