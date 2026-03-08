@@ -2,7 +2,7 @@
   "division": "All Divisions",
   "teams": [
     {
-      "team": "Providence Bruins",
+      "team": "x - Providence Bruins",
       "division": "Other",
       "gp": 54,
       "gr": 18,
@@ -26,24 +26,24 @@
     {
       "team": "Charlotte Checkers",
       "division": "Other",
-      "gp": 55,
-      "gr": 17,
-      "w": 32,
+      "gp": 56,
+      "gr": 16,
+      "w": 33,
       "l": 18,
       "otl": 5,
       "sol": 0,
-      "pts": 654
+      "pts": 656
     },
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 55,
-      "gr": 17,
+      "gp": 56,
+      "gr": 16,
       "w": 26,
-      "l": 21,
+      "l": 22,
       "otl": 6,
       "sol": 2,
-      "pts": 762
+      "pts": 807
     },
     {
       "team": "Bridgeport Islanders",
@@ -59,35 +59,35 @@
     {
       "team": "Lehigh Valley Phantoms",
       "division": "Other",
-      "gp": 54,
-      "gr": 18,
+      "gp": 55,
+      "gr": 17,
       "w": 24,
       "l": 25,
-      "otl": 2,
+      "otl": 3,
       "sol": 3,
       "pts": 719
     },
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 55,
-      "gr": 17,
+      "gp": 56,
+      "gr": 16,
       "w": 22,
-      "l": 26,
+      "l": 27,
       "otl": 5,
       "sol": 2,
-      "pts": 598
+      "pts": 610
     },
     {
       "team": "Hartford Wolf Pack",
       "division": "Other",
-      "gp": 54,
-      "gr": 18,
-      "w": 21,
+      "gp": 55,
+      "gr": 17,
+      "w": 22,
       "l": 27,
       "otl": 4,
       "sol": 2,
-      "pts": 857
+      "pts": 883
     },
     {
       "team": "Laval Rocket",
@@ -147,24 +147,24 @@
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 57,
-      "gr": 15,
-      "w": 21,
+      "gp": 58,
+      "gr": 14,
+      "w": 22,
       "l": 28,
       "otl": 8,
       "sol": 0,
-      "pts": 794
+      "pts": 817
     },
     {
       "team": "Utica Comets",
       "division": "Other",
-      "gp": 54,
-      "gr": 18,
+      "gp": 55,
+      "gr": 17,
       "w": 20,
-      "l": 25,
+      "l": 26,
       "otl": 5,
       "sol": 4,
-      "pts": 657
+      "pts": 678
     },
     {
       "team": "x - Grand Rapids Griffins",
@@ -186,7 +186,7 @@
       "l": 12,
       "otl": 6,
       "sol": 5,
-      "pts": 619
+      "pts": 627
     },
     {
       "team": "Manitoba Moose",
@@ -208,18 +208,18 @@
       "l": 23,
       "otl": 3,
       "sol": 1,
-      "pts": 495
+      "pts": 503
     },
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 53,
-      "gr": 19,
+      "gp": 54,
+      "gr": 18,
       "w": 22,
-      "l": 24,
+      "l": 25,
       "otl": 4,
       "sol": 3,
-      "pts": 895
+      "pts": 897
     },
     {
       "team": "Rockford IceHogs",
@@ -230,18 +230,18 @@
       "l": 31,
       "otl": 2,
       "sol": 2,
-      "pts": 998
+      "pts": 1004
     },
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 53,
-      "gr": 19,
-      "w": 18,
+      "gp": 54,
+      "gr": 18,
+      "w": 19,
       "l": 30,
       "otl": 4,
       "sol": 1,
-      "pts": 671
+      "pts": 675
     },
     {
       "team": "Ontario Reign",
@@ -263,14 +263,14 @@
       "l": 13,
       "otl": 4,
       "sol": 4,
-      "pts": 653
+      "pts": 655
     },
     {
       "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 53,
-      "gr": 19,
-      "w": 33,
+      "gp": 54,
+      "gr": 18,
+      "w": 34,
       "l": 16,
       "otl": 2,
       "sol": 2,
@@ -296,7 +296,7 @@
       "l": 20,
       "otl": 5,
       "sol": 0,
-      "pts": 774
+      "pts": 778
     },
     {
       "team": "San Diego Gulls",
@@ -307,7 +307,7 @@
       "l": 18,
       "otl": 8,
       "sol": 4,
-      "pts": 593
+      "pts": 603
     },
     {
       "team": "Henderson Silver Knights",
@@ -340,7 +340,7 @@
       "l": 22,
       "otl": 10,
       "sol": 4,
-      "pts": 774
+      "pts": 780
     },
     {
       "team": "Abbotsford Canucks",
@@ -351,7 +351,7 @@
       "l": 30,
       "otl": 3,
       "sol": 3,
-      "pts": 714
+      "pts": 716
     }
   ]
 }
