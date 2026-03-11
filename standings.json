@@ -191,13 +191,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 51,
-      "gr": 21,
-      "w": 26,
+      "gp": 52,
+      "gr": 20,
+      "w": 27,
       "l": 19,
       "otl": 5,
       "sol": 1,
-      "pts": 610
+      "pts": 631
     },
     {
       "team": "Texas Stars",
@@ -312,9 +312,9 @@
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 53,
-      "gr": 19,
-      "w": 24,
+      "gp": 54,
+      "gr": 18,
+      "w": 25,
       "l": 19,
       "otl": 6,
       "sol": 4,
@@ -323,13 +323,13 @@
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 55,
-      "gr": 17,
+      "gp": 56,
+      "gr": 16,
       "w": 25,
-      "l": 22,
+      "l": 23,
       "otl": 8,
       "sol": 0,
-      "pts": 627
+      "pts": 629
     },
     {
       "team": "Calgary Wranglers",
@@ -345,13 +345,13 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 57,
-      "gr": 15,
+      "gp": 58,
+      "gr": 14,
       "w": 21,
-      "l": 30,
+      "l": 31,
       "otl": 3,
       "sol": 3,
-      "pts": 749
+      "pts": 780
     }
   ]
 }
