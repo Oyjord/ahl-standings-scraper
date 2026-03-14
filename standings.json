@@ -191,10 +191,10 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 53,
-      "gr": 19,
+      "gp": 54,
+      "gr": 18,
       "w": 27,
-      "l": 20,
+      "l": 21,
       "otl": 5,
       "sol": 1,
       "pts": 662
@@ -246,13 +246,13 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 57,
-      "gr": 15,
+      "gp": 58,
+      "gr": 14,
       "w": 38,
       "l": 16,
-      "otl": 1,
+      "otl": 2,
       "sol": 2,
-      "pts": 628
+      "pts": 634
     },
     {
       "team": "Colorado Eagles",
@@ -263,7 +263,7 @@
       "l": 14,
       "otl": 4,
       "sol": 4,
-      "pts": 703
+      "pts": 716
     },
     {
       "team": "San Jose Barracuda",
@@ -290,13 +290,13 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 55,
-      "gr": 17,
-      "w": 30,
+      "gp": 56,
+      "gr": 16,
+      "w": 31,
       "l": 20,
       "otl": 5,
       "sol": 0,
-      "pts": 796
+      "pts": 802
     },
     {
       "team": "Henderson Silver Knights",
@@ -318,7 +318,7 @@
       "l": 19,
       "otl": 8,
       "sol": 4,
-      "pts": 611
+      "pts": 622
     },
     {
       "team": "Tucson Roadrunners",
@@ -334,9 +334,9 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 57,
-      "gr": 15,
-      "w": 19,
+      "gp": 58,
+      "gr": 14,
+      "w": 20,
       "l": 24,
       "otl": 10,
       "sol": 4,
