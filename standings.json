@@ -257,9 +257,9 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 56,
-      "gr": 16,
-      "w": 34,
+      "gp": 57,
+      "gr": 15,
+      "w": 35,
       "l": 14,
       "otl": 4,
       "sol": 4,
@@ -312,10 +312,10 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 56,
-      "gr": 16,
+      "gp": 57,
+      "gr": 15,
       "w": 25,
-      "l": 19,
+      "l": 20,
       "otl": 8,
       "sol": 4,
       "pts": 622
