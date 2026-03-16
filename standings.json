@@ -37,10 +37,10 @@
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 59,
-      "gr": 13,
+      "gp": 60,
+      "gr": 12,
       "w": 27,
-      "l": 24,
+      "l": 25,
       "otl": 6,
       "sol": 2,
       "pts": 873
@@ -147,9 +147,9 @@
     {
       "team": "Belleville Senators",
       "division": "Other",
-      "gp": 59,
-      "gr": 13,
-      "w": 23,
+      "gp": 60,
+      "gr": 12,
+      "w": 24,
       "l": 28,
       "otl": 8,
       "sol": 0,
@@ -169,24 +169,24 @@
     {
       "team": "x - Grand Rapids Griffins",
       "division": "Other",
-      "gp": 57,
-      "gr": 15,
+      "gp": 58,
+      "gr": 14,
       "w": 43,
-      "l": 10,
+      "l": 11,
       "otl": 3,
       "sol": 1,
-      "pts": 644
+      "pts": 662
     },
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 55,
-      "gr": 17,
-      "w": 28,
+      "gp": 56,
+      "gr": 16,
+      "w": 29,
       "l": 15,
       "otl": 6,
       "sol": 6,
-      "pts": 714
+      "pts": 736
     },
     {
       "team": "Manitoba Moose",
@@ -274,7 +274,7 @@
       "l": 17,
       "otl": 2,
       "sol": 2,
-      "pts": 805
+      "pts": 807
     },
     {
       "team": "Bakersfield Condors",
@@ -307,7 +307,7 @@
       "l": 19,
       "otl": 6,
       "sol": 4,
-      "pts": 677
+      "pts": 684
     },
     {
       "team": "San Diego Gulls",
@@ -329,7 +329,7 @@
       "l": 23,
       "otl": 9,
       "sol": 0,
-      "pts": 651
+      "pts": 655
     },
     {
       "team": "Calgary Wranglers",
@@ -351,7 +351,7 @@
       "l": 32,
       "otl": 3,
       "sol": 3,
-      "pts": 809
+      "pts": 814
     }
   ]
 }
