@@ -246,24 +246,24 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 59,
-      "gr": 13,
-      "w": 38,
+      "gp": 60,
+      "gr": 12,
+      "w": 39,
       "l": 16,
       "otl": 3,
       "sol": 2,
-      "pts": 648
+      "pts": 659
     },
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 59,
-      "gr": 13,
-      "w": 35,
+      "gp": 60,
+      "gr": 12,
+      "w": 36,
       "l": 15,
       "otl": 4,
       "sol": 5,
-      "pts": 740
+      "pts": 742
     },
     {
       "team": "San Jose Barracuda",
@@ -312,10 +312,10 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 59,
-      "gr": 13,
+      "gp": 60,
+      "gr": 12,
       "w": 27,
-      "l": 20,
+      "l": 21,
       "otl": 8,
       "sol": 4,
       "pts": 646
@@ -345,13 +345,13 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 61,
-      "gr": 11,
+      "gp": 62,
+      "gr": 10,
       "w": 22,
-      "l": 33,
+      "l": 34,
       "otl": 3,
       "sol": 3,
-      "pts": 825
+      "pts": 832
     }
   ]
 }
