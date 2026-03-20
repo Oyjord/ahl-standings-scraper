@@ -288,6 +288,17 @@
       "pts": 875
     },
     {
+      "team": "Henderson Silver Knights",
+      "division": "Pacific",
+      "gp": 59,
+      "gr": 13,
+      "w": 30,
+      "l": 19,
+      "otl": 6,
+      "sol": 4,
+      "pts": 725
+    },
+    {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
       "gp": 58,
@@ -297,17 +308,6 @@
       "otl": 5,
       "sol": 0,
       "pts": 838
-    },
-    {
-      "team": "Henderson Silver Knights",
-      "division": "Pacific",
-      "gp": 58,
-      "gr": 14,
-      "w": 29,
-      "l": 19,
-      "otl": 6,
-      "sol": 4,
-      "pts": 705
     },
     {
       "team": "San Diego Gulls",
@@ -334,13 +334,13 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 60,
-      "gr": 12,
+      "gp": 61,
+      "gr": 11,
       "w": 20,
-      "l": 26,
+      "l": 27,
       "otl": 10,
       "sol": 4,
-      "pts": 844
+      "pts": 890
     },
     {
       "team": "Abbotsford Canucks",
