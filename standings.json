@@ -279,13 +279,13 @@
     {
       "team": "Bakersfield Condors",
       "division": "Pacific",
-      "gp": 59,
-      "gr": 13,
+      "gp": 60,
+      "gr": 12,
       "w": 31,
-      "l": 18,
+      "l": 19,
       "otl": 9,
       "sol": 1,
-      "pts": 877
+      "pts": 881
     },
     {
       "team": "Henderson Silver Knights",
@@ -312,13 +312,13 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 60,
-      "gr": 12,
-      "w": 27,
+      "gp": 61,
+      "gr": 11,
+      "w": 28,
       "l": 21,
       "otl": 8,
       "sol": 4,
-      "pts": 646
+      "pts": 654
     },
     {
       "team": "Tucson Roadrunners",
