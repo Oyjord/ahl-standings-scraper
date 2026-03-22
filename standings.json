@@ -189,6 +189,17 @@
       "pts": 776
     },
     {
+      "team": "Texas Stars",
+      "division": "Other",
+      "gp": 59,
+      "gr": 13,
+      "w": 31,
+      "l": 24,
+      "otl": 3,
+      "sol": 1,
+      "pts": 584
+    },
+    {
       "team": "Manitoba Moose",
       "division": "Other",
       "gp": 58,
@@ -198,17 +209,6 @@
       "otl": 5,
       "sol": 1,
       "pts": 697
-    },
-    {
-      "team": "Texas Stars",
-      "division": "Other",
-      "gp": 58,
-      "gr": 14,
-      "w": 30,
-      "l": 24,
-      "otl": 3,
-      "sol": 1,
-      "pts": 584
     },
     {
       "team": "Milwaukee Admirals",
@@ -279,13 +279,13 @@
     {
       "team": "Bakersfield Condors",
       "division": "Pacific",
-      "gp": 60,
-      "gr": 12,
-      "w": 31,
+      "gp": 61,
+      "gr": 11,
+      "w": 32,
       "l": 19,
       "otl": 9,
       "sol": 1,
-      "pts": 891
+      "pts": 899
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -301,10 +301,10 @@
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 59,
-      "gr": 13,
+      "gp": 60,
+      "gr": 12,
       "w": 30,
-      "l": 19,
+      "l": 20,
       "otl": 6,
       "sol": 4,
       "pts": 727
@@ -334,13 +334,13 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 61,
-      "gr": 11,
+      "gp": 62,
+      "gr": 10,
       "w": 20,
-      "l": 27,
+      "l": 28,
       "otl": 10,
       "sol": 4,
-      "pts": 896
+      "pts": 898
     },
     {
       "team": "Abbotsford Canucks",
