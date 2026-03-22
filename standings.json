@@ -10,7 +10,7 @@
       "l": 13,
       "otl": 1,
       "sol": 0,
-      "pts": 694
+      "pts": 708
     },
     {
       "team": "x - Wilkes-Barre/Scranton Penguins",
@@ -76,7 +76,7 @@
       "l": 28,
       "otl": 6,
       "sol": 2,
-      "pts": 673
+      "pts": 682
     },
     {
       "team": "Hartford Wolf Pack",
@@ -109,7 +109,7 @@
       "l": 19,
       "otl": 3,
       "sol": 2,
-      "pts": 811
+      "pts": 825
     },
     {
       "team": "Cleveland Monsters",
@@ -120,7 +120,7 @@
       "l": 20,
       "otl": 6,
       "sol": 1,
-      "pts": 702
+      "pts": 710
     },
     {
       "team": "Toronto Marlies",
@@ -153,7 +153,7 @@
       "l": 29,
       "otl": 8,
       "sol": 1,
-      "pts": 880
+      "pts": 889
     },
     {
       "team": "Utica Comets",
@@ -164,7 +164,7 @@
       "l": 29,
       "otl": 5,
       "sol": 4,
-      "pts": 725
+      "pts": 745
     },
     {
       "team": "x - Grand Rapids Griffins",
@@ -175,7 +175,7 @@
       "l": 11,
       "otl": 3,
       "sol": 1,
-      "pts": 670
+      "pts": 676
     },
     {
       "team": "Chicago Wolves",
@@ -186,7 +186,7 @@
       "l": 17,
       "otl": 6,
       "sol": 6,
-      "pts": 758
+      "pts": 763
     },
     {
       "team": "Manitoba Moose",
@@ -219,7 +219,7 @@
       "l": 26,
       "otl": 4,
       "sol": 3,
-      "pts": 947
+      "pts": 949
     },
     {
       "team": "Rockford IceHogs",
@@ -230,29 +230,29 @@
       "l": 33,
       "otl": 3,
       "sol": 2,
-      "pts": 1072
+      "pts": 1081
     },
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 57,
-      "gr": 15,
+      "gp": 58,
+      "gr": 14,
       "w": 21,
-      "l": 30,
+      "l": 31,
       "otl": 5,
       "sol": 1,
-      "pts": 709
+      "pts": 713
     },
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 61,
-      "gr": 11,
-      "w": 39,
+      "gp": 62,
+      "gr": 10,
+      "w": 40,
       "l": 17,
       "otl": 3,
       "sol": 2,
-      "pts": 678
+      "pts": 686
     },
     {
       "team": "Colorado Eagles",
@@ -307,7 +307,7 @@
       "l": 21,
       "otl": 5,
       "sol": 0,
-      "pts": 838
+      "pts": 842
     },
     {
       "team": "San Diego Gulls",
