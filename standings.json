@@ -37,13 +37,24 @@
     {
       "team": "Hershey Bears",
       "division": "Other",
-      "gp": 61,
-      "gr": 11,
+      "gp": 62,
+      "gr": 10,
       "w": 27,
-      "l": 25,
+      "l": 26,
       "otl": 6,
       "sol": 3,
       "pts": 888
+    },
+    {
+      "team": "Bridgeport Islanders",
+      "division": "Other",
+      "gp": 61,
+      "gr": 11,
+      "w": 26,
+      "l": 27,
+      "otl": 3,
+      "sol": 5,
+      "pts": 751
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -66,17 +77,6 @@
       "otl": 6,
       "sol": 2,
       "pts": 686
-    },
-    {
-      "team": "Bridgeport Islanders",
-      "division": "Other",
-      "gp": 60,
-      "gr": 12,
-      "w": 25,
-      "l": 27,
-      "otl": 3,
-      "sol": 5,
-      "pts": 751
     },
     {
       "team": "Hartford Wolf Pack",
@@ -169,24 +169,24 @@
     {
       "team": "x - Grand Rapids Griffins",
       "division": "Other",
-      "gp": 60,
-      "gr": 12,
+      "gp": 61,
+      "gr": 11,
       "w": 44,
-      "l": 12,
+      "l": 13,
       "otl": 3,
       "sol": 1,
-      "pts": 682
+      "pts": 684
     },
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 59,
-      "gr": 13,
+      "gp": 60,
+      "gr": 12,
       "w": 29,
-      "l": 18,
+      "l": 19,
       "otl": 6,
       "sol": 6,
-      "pts": 784
+      "pts": 788
     },
     {
       "team": "Texas Stars",
@@ -224,24 +224,24 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 61,
-      "gr": 11,
-      "w": 23,
+      "gp": 62,
+      "gr": 10,
+      "w": 24,
       "l": 33,
       "otl": 3,
       "sol": 2,
-      "pts": 1100
+      "pts": 1106
     },
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 58,
-      "gr": 14,
-      "w": 21,
+      "gp": 59,
+      "gr": 13,
+      "w": 22,
       "l": 31,
       "otl": 5,
       "sol": 1,
-      "pts": 734
+      "pts": 736
     },
     {
       "team": "Ontario Reign",
@@ -257,11 +257,11 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 61,
-      "gr": 11,
+      "gp": 62,
+      "gr": 10,
       "w": 36,
       "l": 16,
-      "otl": 4,
+      "otl": 5,
       "sol": 5,
       "pts": 777
     },
@@ -269,7 +269,7 @@
       "team": "San Jose Barracuda",
       "division": "Pacific",
       "gp": 60,
-      "gr": 13,
+      "gr": 12,
       "w": 38,
       "l": 18,
       "otl": 2,
@@ -290,9 +290,9 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 59,
-      "gr": 13,
-      "w": 33,
+      "gp": 60,
+      "gr": 12,
+      "w": 34,
       "l": 21,
       "otl": 5,
       "sol": 0,
@@ -340,13 +340,13 @@
       "l": 28,
       "otl": 10,
       "sol": 4,
-      "pts": 898
+      "pts": 900
     },
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
       "gp": 64,
-      "gr": 9,
+      "gr": 8,
       "w": 22,
       "l": 36,
       "otl": 3,
