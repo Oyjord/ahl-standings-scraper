@@ -169,11 +169,11 @@
     {
       "team": "x - Grand Rapids Griffins",
       "division": "Other",
-      "gp": 61,
-      "gr": 11,
+      "gp": 62,
+      "gr": 10,
       "w": 44,
       "l": 13,
-      "otl": 3,
+      "otl": 4,
       "sol": 1,
       "pts": 699
     },
@@ -213,13 +213,13 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 59,
-      "gr": 13,
-      "w": 26,
+      "gp": 60,
+      "gr": 12,
+      "w": 27,
       "l": 26,
       "otl": 4,
       "sol": 3,
-      "pts": 964
+      "pts": 968
     },
     {
       "team": "Rockford IceHogs",
