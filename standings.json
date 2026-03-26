@@ -191,13 +191,13 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 60,
-      "gr": 12,
-      "w": 31,
+      "gp": 61,
+      "gr": 11,
+      "w": 32,
       "l": 25,
       "otl": 3,
       "sol": 1,
-      "pts": 594
+      "pts": 596
     },
     {
       "team": "Manitoba Moose",
@@ -246,10 +246,10 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 62,
-      "gr": 10,
+      "gp": 63,
+      "gr": 9,
       "w": 40,
-      "l": 17,
+      "l": 18,
       "otl": 3,
       "sol": 2,
       "pts": 699
@@ -268,13 +268,35 @@
     {
       "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 60,
-      "gr": 12,
+      "gp": 61,
+      "gr": 11,
       "w": 38,
-      "l": 18,
+      "l": 19,
       "otl": 2,
       "sol": 2,
-      "pts": 864
+      "pts": 868
+    },
+    {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 61,
+      "gr": 11,
+      "w": 35,
+      "l": 21,
+      "otl": 5,
+      "sol": 0,
+      "pts": 890
+    },
+    {
+      "team": "Henderson Silver Knights",
+      "division": "Pacific",
+      "gp": 62,
+      "gr": 10,
+      "w": 32,
+      "l": 20,
+      "otl": 6,
+      "sol": 4,
+      "pts": 748
     },
     {
       "team": "Bakersfield Condors",
@@ -286,28 +308,6 @@
       "otl": 9,
       "sol": 1,
       "pts": 899
-    },
-    {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 60,
-      "gr": 12,
-      "w": 34,
-      "l": 21,
-      "otl": 5,
-      "sol": 0,
-      "pts": 876
-    },
-    {
-      "team": "Henderson Silver Knights",
-      "division": "Pacific",
-      "gp": 61,
-      "gr": 11,
-      "w": 31,
-      "l": 20,
-      "otl": 6,
-      "sol": 4,
-      "pts": 746
     },
     {
       "team": "San Diego Gulls",
@@ -334,13 +334,13 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 63,
-      "gr": 9,
+      "gp": 64,
+      "gr": 8,
       "w": 20,
-      "l": 29,
+      "l": 30,
       "otl": 10,
       "sol": 4,
-      "pts": 918
+      "pts": 940
     },
     {
       "team": "Abbotsford Canucks",
