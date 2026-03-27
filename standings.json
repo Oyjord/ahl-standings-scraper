@@ -120,7 +120,7 @@
       "l": 21,
       "otl": 5,
       "sol": 5,
-      "pts": 827
+      "pts": 829
     },
     {
       "team": "Cleveland Monsters",
@@ -142,7 +142,7 @@
       "l": 24,
       "otl": 5,
       "sol": 4,
-      "pts": 673
+      "pts": 675
     },
     {
       "team": "Belleville Senators",
@@ -153,7 +153,7 @@
       "l": 30,
       "otl": 8,
       "sol": 1,
-      "pts": 897
+      "pts": 901
     },
     {
       "team": "Utica Comets",
@@ -208,7 +208,7 @@
       "l": 25,
       "otl": 5,
       "sol": 1,
-      "pts": 707
+      "pts": 709
     },
     {
       "team": "Milwaukee Admirals",
@@ -257,13 +257,13 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 62,
-      "gr": 10,
-      "w": 36,
+      "gp": 63,
+      "gr": 9,
+      "w": 37,
       "l": 16,
       "otl": 5,
       "sol": 5,
-      "pts": 777
+      "pts": 794
     },
     {
       "team": "San Jose Barracuda",
@@ -334,13 +334,13 @@
     {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 64,
-      "gr": 8,
+      "gp": 65,
+      "gr": 7,
       "w": 20,
-      "l": 30,
+      "l": 31,
       "otl": 10,
       "sol": 4,
-      "pts": 945
+      "pts": 972
     },
     {
       "team": "Abbotsford Canucks",
