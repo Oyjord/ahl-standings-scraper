@@ -23,7 +23,7 @@ doc.css("table.standings-table tbody tr").each_with_index do |row, i|
 
   begin
     pacific << {
-      team: cells[0],
+      team: cells[0].sub(/^[xyzp]/, ""),  # ← strip clinch prefix
       gp: cells[2].to_i,
       gr: cells[3].to_i,
       w: cells[4].to_i,
@@ -32,6 +32,7 @@ doc.css("table.standings-table tbody tr").each_with_index do |row, i|
       sol: cells[7].to_i,
       pts: cells[8].to_i
     }
+    
     parsed += 1
     debug_log << "✅ Parsed: #{cells[0]}"
   rescue => e
