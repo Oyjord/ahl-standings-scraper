@@ -2,7 +2,7 @@
   "division": "All Divisions",
   "teams": [
     {
-      "team": "Providence Bruins",
+      "team": "xProvidence Bruins",
       "division": "Other",
       "gp": 63,
       "gr": 9,
@@ -13,7 +13,7 @@
       "pts": 727
     },
     {
-      "team": "Wilkes-Barre/Scranton Penguins",
+      "team": "xWilkes-Barre/Scranton Penguins",
       "division": "Other",
       "gp": 64,
       "gr": 8,
@@ -24,7 +24,7 @@
       "pts": 830
     },
     {
-      "team": "Charlotte Checkers",
+      "team": "xCharlotte Checkers",
       "division": "Other",
       "gp": 64,
       "gr": 8,
@@ -90,7 +90,7 @@
       "pts": 1006
     },
     {
-      "team": "Laval Rocket",
+      "team": "xLaval Rocket",
       "division": "Other",
       "gp": 66,
       "gr": 6,
@@ -101,7 +101,7 @@
       "pts": 1055
     },
     {
-      "team": "Syracuse Crunch",
+      "team": "xSyracuse Crunch",
       "division": "Other",
       "gp": 64,
       "gr": 8,
@@ -167,7 +167,7 @@
       "pts": 761
     },
     {
-      "team": "Grand Rapids Griffins",
+      "team": "yGrand Rapids Griffins",
       "division": "Other",
       "gp": 64,
       "gr": 8,
@@ -244,7 +244,7 @@
       "pts": 752
     },
     {
-      "team": "Ontario Reign",
+      "team": "xOntario Reign",
       "division": "Pacific",
       "gp": 64,
       "gr": 8,
