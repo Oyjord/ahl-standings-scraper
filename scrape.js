@@ -64,9 +64,14 @@ function getDivision(teamName) {
 const teams = rows
   .map(row => {
     if (row.length < 19) return null;
+
+    const rawName = row[3];
+    // Strip clinch prefixes like "x - ", "y - ", etc.
+    const cleanName = rawName.replace(/^[xyzp]\s*[-\s]*/, "");
+
     return {
-      team: row[3],
-      division: getDivision(row[3]),  // 👈 Use helper here
+      team: cleanName,
+      division: getDivision(cleanName),
       gp: parseInt(row[4]),
       gr: parseInt(row[5]),
       w: parseInt(row[6]),
@@ -77,6 +82,7 @@ const teams = rows
     };
   })
   .filter(team => team && team.team);
+
   
   debug.push(`✅ Parsed ${teams.length} teams across all divisions`);
   fs.writeFileSync('debug.txt', debug.join('\n'));
