@@ -2,7 +2,7 @@
   "division": "All Divisions",
   "teams": [
     {
-      "team": "xProvidence Bruins",
+      "team": "x Providence Bruins",
       "division": "Other",
       "gp": 63,
       "gr": 9,
@@ -13,7 +13,7 @@
       "pts": 727
     },
     {
-      "team": "xWilkes-Barre/Scranton Penguins",
+      "team": "x Wilkes-Barre/Scranton Penguins",
       "division": "Other",
       "gp": 64,
       "gr": 8,
@@ -24,7 +24,7 @@
       "pts": 830
     },
     {
-      "team": "xCharlotte Checkers",
+      "team": "x Charlotte Checkers",
       "division": "Other",
       "gp": 64,
       "gr": 8,
@@ -90,7 +90,7 @@
       "pts": 1006
     },
     {
-      "team": "xLaval Rocket",
+      "team": "x Laval Rocket",
       "division": "Other",
       "gp": 66,
       "gr": 6,
@@ -101,7 +101,7 @@
       "pts": 1055
     },
     {
-      "team": "xSyracuse Crunch",
+      "team": "x Syracuse Crunch",
       "division": "Other",
       "gp": 64,
       "gr": 8,
@@ -167,7 +167,7 @@
       "pts": 761
     },
     {
-      "team": "yGrand Rapids Griffins",
+      "team": "y Grand Rapids Griffins",
       "division": "Other",
       "gp": 64,
       "gr": 8,
@@ -244,7 +244,7 @@
       "pts": 752
     },
     {
-      "team": "xOntario Reign",
+      "team": "x Ontario Reign",
       "division": "Pacific",
       "gp": 64,
       "gr": 8,
@@ -274,7 +274,7 @@
       "l": 19,
       "otl": 2,
       "sol": 2,
-      "pts": 875
+      "pts": 877
     },
     {
       "team": "Henderson Silver Knights",
@@ -307,7 +307,7 @@
       "l": 21,
       "otl": 5,
       "sol": 0,
-      "pts": 899
+      "pts": 901
     },
     {
       "team": "San Diego Gulls",
