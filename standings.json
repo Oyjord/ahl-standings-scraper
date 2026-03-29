@@ -224,9 +224,9 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 62,
-      "gr": 10,
-      "w": 24,
+      "gp": 63,
+      "gr": 9,
+      "w": 25,
       "l": 33,
       "otl": 3,
       "sol": 2,
@@ -235,11 +235,11 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 60,
-      "gr": 12,
+      "gp": 61,
+      "gr": 11,
       "w": 22,
       "l": 31,
-      "otl": 5,
+      "otl": 6,
       "sol": 2,
       "pts": 752
     },
