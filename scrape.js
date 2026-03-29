@@ -97,7 +97,7 @@ function getDivision(teamName) {
     const cleanName = rawName.replace(/^[xyzp]\s*[-\s]*/, "");
 
     // Final name shown in your SwiftUI view
-    const finalName = prefix ? `${prefix}${cleanName}` : cleanName;
+    const finalName = prefix ? `${prefix} ${cleanName}` : cleanName;
 
     return {
       team: finalName,              // 👈 This is what ReignStandingsView will display
