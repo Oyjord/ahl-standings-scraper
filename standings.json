@@ -197,7 +197,7 @@
       "l": 26,
       "otl": 3,
       "sol": 1,
-      "pts": 607
+      "pts": 614
     },
     {
       "team": "Manitoba Moose",
@@ -252,7 +252,7 @@
       "l": 18,
       "otl": 3,
       "sol": 2,
-      "pts": 717
+      "pts": 719
     },
     {
       "team": "Colorado Eagles",
@@ -268,10 +268,10 @@
     {
       "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 61,
-      "gr": 11,
+      "gp": 62,
+      "gr": 10,
       "w": 38,
-      "l": 19,
+      "l": 20,
       "otl": 2,
       "sol": 2,
       "pts": 877
@@ -288,6 +288,17 @@
       "pts": 807
     },
     {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 62,
+      "gr": 10,
+      "w": 36,
+      "l": 21,
+      "otl": 5,
+      "sol": 0,
+      "pts": 901
+    },
+    {
       "team": "Bakersfield Condors",
       "division": "Pacific",
       "gp": 62,
@@ -296,18 +307,7 @@
       "l": 19,
       "otl": 9,
       "sol": 1,
-      "pts": 916
-    },
-    {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 61,
-      "gr": 11,
-      "w": 35,
-      "l": 21,
-      "otl": 5,
-      "sol": 0,
-      "pts": 901
+      "pts": 921
     },
     {
       "team": "San Diego Gulls",
@@ -318,7 +318,7 @@
       "l": 21,
       "otl": 8,
       "sol": 4,
-      "pts": 675
+      "pts": 679
     },
     {
       "team": "Tucson Roadrunners",
@@ -329,7 +329,7 @@
       "l": 24,
       "otl": 9,
       "sol": 0,
-      "pts": 690
+      "pts": 692
     },
     {
       "team": "Calgary Wranglers",
@@ -351,7 +351,7 @@
       "l": 36,
       "otl": 3,
       "sol": 3,
-      "pts": 871
+      "pts": 875
     }
   ]
 }
