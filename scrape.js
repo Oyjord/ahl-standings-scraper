@@ -61,17 +61,47 @@ function getDivision(teamName) {
 }
 
 // ✅ Then use it inside your parser
-const teams = rows
+// const teams = rows
+//   .map(row => {
+//     if (row.length < 19) return null;
+
+//     const rawName = row[3];
+//     // Strip clinch prefixes like "x - ", "y - ", etc.
+//     const cleanName = rawName.replace(/^[xyzp]\s*[-\s]*/, "");
+
+//     return {
+//       team: cleanName,
+//       division: getDivision(cleanName),
+//       gp: parseInt(row[4]),
+//       gr: parseInt(row[5]),
+//       w: parseInt(row[6]),
+//       l: parseInt(row[7]),
+//       otl: parseInt(row[8]),
+//       sol: parseInt(row[9]),
+//       pts: parseInt(row[18])
+//     };
+//   })
+//   .filter(team => team && team.team);
+
+  const teams = rows
   .map(row => {
     if (row.length < 19) return null;
 
     const rawName = row[3];
-    // Strip clinch prefixes like "x - ", "y - ", etc.
+
+    // Extract prefix like "x", "y", "z", "p"
+    const prefixMatch = rawName.match(/^([xyzp])/);
+    const prefix = prefixMatch ? prefixMatch[1] : "";
+
+    // Strip prefix + spaces + dash
     const cleanName = rawName.replace(/^[xyzp]\s*[-\s]*/, "");
 
+    // Final name shown in your SwiftUI view
+    const finalName = prefix ? `${prefix}${cleanName}` : cleanName;
+
     return {
-      team: cleanName,
-      division: getDivision(cleanName),
+      team: finalName,              // 👈 This is what ReignStandingsView will display
+      division: getDivision(cleanName), // 👈 Use clean name for division logic
       gp: parseInt(row[4]),
       gr: parseInt(row[5]),
       w: parseInt(row[6]),
@@ -82,6 +112,7 @@ const teams = rows
     };
   })
   .filter(team => team && team.team);
+
 
   
   debug.push(`✅ Parsed ${teams.length} teams across all divisions`);
