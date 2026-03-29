@@ -191,13 +191,13 @@
     {
       "team": "Texas Stars",
       "division": "Other",
-      "gp": 62,
-      "gr": 10,
+      "gp": 63,
+      "gr": 9,
       "w": 32,
-      "l": 26,
+      "l": 27,
       "otl": 3,
       "sol": 1,
-      "pts": 614
+      "pts": 620
     },
     {
       "team": "Manitoba Moose",
@@ -246,13 +246,13 @@
     {
       "team": "x Ontario Reign",
       "division": "Pacific",
-      "gp": 64,
-      "gr": 8,
+      "gp": 65,
+      "gr": 7,
       "w": 41,
-      "l": 18,
+      "l": 19,
       "otl": 3,
       "sol": 2,
-      "pts": 719
+      "pts": 723
     },
     {
       "team": "Colorado Eagles",
@@ -277,6 +277,17 @@
       "pts": 877
     },
     {
+      "team": "Bakersfield Condors",
+      "division": "Pacific",
+      "gp": 63,
+      "gr": 9,
+      "w": 34,
+      "l": 19,
+      "otl": 9,
+      "sol": 1,
+      "pts": 923
+    },
+    {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
       "gp": 64,
@@ -299,37 +310,26 @@
       "pts": 901
     },
     {
-      "team": "Bakersfield Condors",
-      "division": "Pacific",
-      "gp": 62,
-      "gr": 10,
-      "w": 33,
-      "l": 19,
-      "otl": 9,
-      "sol": 1,
-      "pts": 921
-    },
-    {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 62,
-      "gr": 10,
+      "gp": 63,
+      "gr": 9,
       "w": 29,
-      "l": 21,
+      "l": 22,
       "otl": 8,
       "sol": 4,
-      "pts": 679
+      "pts": 681
     },
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 62,
-      "gr": 10,
-      "w": 29,
+      "gp": 63,
+      "gr": 9,
+      "w": 30,
       "l": 24,
       "otl": 9,
       "sol": 0,
-      "pts": 692
+      "pts": 704
     },
     {
       "team": "Calgary Wranglers",
@@ -345,13 +345,13 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 64,
-      "gr": 8,
-      "w": 22,
+      "gp": 65,
+      "gr": 7,
+      "w": 23,
       "l": 36,
       "otl": 3,
       "sol": 3,
-      "pts": 875
+      "pts": 879
     }
   ]
 }
