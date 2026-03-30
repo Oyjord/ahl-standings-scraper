@@ -178,7 +178,7 @@
       "pts": 711
     },
     {
-      "team": "Chicago Wolves",
+      "team": "x Chicago Wolves",
       "division": "Other",
       "gp": 63,
       "gr": 9,
@@ -224,24 +224,24 @@
     {
       "team": "Rockford IceHogs",
       "division": "Other",
-      "gp": 63,
-      "gr": 9,
-      "w": 25,
+      "gp": 64,
+      "gr": 8,
+      "w": 26,
       "l": 33,
       "otl": 3,
       "sol": 2,
-      "pts": 1120
+      "pts": 1122
     },
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 61,
-      "gr": 11,
+      "gp": 62,
+      "gr": 10,
       "w": 22,
       "l": 31,
       "otl": 6,
-      "sol": 2,
-      "pts": 754
+      "sol": 3,
+      "pts": 760
     },
     {
       "team": "x Ontario Reign",
@@ -312,13 +312,13 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 63,
-      "gr": 9,
+      "gp": 64,
+      "gr": 8,
       "w": 29,
-      "l": 22,
+      "l": 23,
       "otl": 8,
       "sol": 4,
-      "pts": 683
+      "pts": 687
     },
     {
       "team": "Tucson Roadrunners",
@@ -332,6 +332,17 @@
       "pts": 704
     },
     {
+      "team": "Abbotsford Canucks",
+      "division": "Pacific",
+      "gp": 66,
+      "gr": 6,
+      "w": 24,
+      "l": 36,
+      "otl": 3,
+      "sol": 3,
+      "pts": 891
+    },
+    {
       "team": "Calgary Wranglers",
       "division": "Pacific",
       "gp": 66,
@@ -341,17 +352,6 @@
       "otl": 10,
       "sol": 4,
       "pts": 978
-    },
-    {
-      "team": "Abbotsford Canucks",
-      "division": "Pacific",
-      "gp": 65,
-      "gr": 7,
-      "w": 23,
-      "l": 36,
-      "otl": 3,
-      "sol": 3,
-      "pts": 885
     }
   ]
 }
