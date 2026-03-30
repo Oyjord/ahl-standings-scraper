@@ -230,7 +230,7 @@
       "l": 33,
       "otl": 3,
       "sol": 2,
-      "pts": 1114
+      "pts": 1120
     },
     {
       "team": "Iowa Wild",
@@ -241,7 +241,7 @@
       "l": 31,
       "otl": 6,
       "sol": 2,
-      "pts": 752
+      "pts": 754
     },
     {
       "team": "x Ontario Reign",
@@ -268,13 +268,24 @@
     {
       "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 62,
-      "gr": 10,
+      "gp": 63,
+      "gr": 9,
       "w": 38,
-      "l": 20,
+      "l": 21,
       "otl": 2,
       "sol": 2,
       "pts": 896
+    },
+    {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 63,
+      "gr": 9,
+      "w": 37,
+      "l": 21,
+      "otl": 5,
+      "sol": 0,
+      "pts": 928
     },
     {
       "team": "Bakersfield Condors",
@@ -297,17 +308,6 @@
       "otl": 7,
       "sol": 4,
       "pts": 807
-    },
-    {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 62,
-      "gr": 10,
-      "w": 36,
-      "l": 21,
-      "otl": 5,
-      "sol": 0,
-      "pts": 914
     },
     {
       "team": "San Diego Gulls",
@@ -351,7 +351,7 @@
       "l": 36,
       "otl": 3,
       "sol": 3,
-      "pts": 881
+      "pts": 885
     }
   ]
 }
