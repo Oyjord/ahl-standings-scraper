@@ -114,10 +114,10 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 64,
-      "gr": 8,
+      "gp": 65,
+      "gr": 7,
       "w": 32,
-      "l": 22,
+      "l": 23,
       "otl": 5,
       "sol": 5,
       "pts": 859
@@ -189,6 +189,17 @@
       "pts": 831
     },
     {
+      "team": "Manitoba Moose",
+      "division": "Other",
+      "gp": 63,
+      "gr": 9,
+      "w": 31,
+      "l": 26,
+      "otl": 5,
+      "sol": 1,
+      "pts": 741
+    },
+    {
       "team": "Texas Stars",
       "division": "Other",
       "gp": 63,
@@ -197,18 +208,7 @@
       "l": 27,
       "otl": 3,
       "sol": 1,
-      "pts": 620
-    },
-    {
-      "team": "Manitoba Moose",
-      "division": "Other",
-      "gp": 62,
-      "gr": 10,
-      "w": 30,
-      "l": 26,
-      "otl": 5,
-      "sol": 1,
-      "pts": 735
+      "pts": 626
     },
     {
       "team": "Milwaukee Admirals",
@@ -274,7 +274,7 @@
       "l": 21,
       "otl": 2,
       "sol": 2,
-      "pts": 896
+      "pts": 898
     },
     {
       "team": "Coachella Valley Firebirds",
