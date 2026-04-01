@@ -189,6 +189,17 @@
       "pts": 831
     },
     {
+      "team": "Texas Stars",
+      "division": "Other",
+      "gp": 64,
+      "gr": 8,
+      "w": 33,
+      "l": 27,
+      "otl": 3,
+      "sol": 1,
+      "pts": 640
+    },
+    {
       "team": "Manitoba Moose",
       "division": "Other",
       "gp": 63,
@@ -198,17 +209,6 @@
       "otl": 5,
       "sol": 1,
       "pts": 741
-    },
-    {
-      "team": "Texas Stars",
-      "division": "Other",
-      "gp": 63,
-      "gr": 9,
-      "w": 32,
-      "l": 27,
-      "otl": 3,
-      "sol": 1,
-      "pts": 626
     },
     {
       "team": "Milwaukee Admirals",
@@ -268,13 +268,13 @@
     {
       "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 63,
-      "gr": 9,
+      "gp": 64,
+      "gr": 8,
       "w": 38,
-      "l": 21,
+      "l": 22,
       "otl": 2,
       "sol": 2,
-      "pts": 898
+      "pts": 912
     },
     {
       "team": "Coachella Valley Firebirds",
