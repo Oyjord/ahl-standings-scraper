@@ -32,29 +32,29 @@
       "l": 21,
       "otl": 5,
       "sol": 0,
-      "pts": 765
-    },
-    {
-      "team": "Hershey Bears",
-      "division": "Other",
-      "gp": 64,
-      "gr": 8,
-      "w": 28,
-      "l": 27,
-      "otl": 6,
-      "sol": 3,
-      "pts": 915
+      "pts": 767
     },
     {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 64,
-      "gr": 8,
-      "w": 28,
+      "gp": 65,
+      "gr": 7,
+      "w": 29,
       "l": 28,
       "otl": 3,
       "sol": 5,
-      "pts": 783
+      "pts": 791
+    },
+    {
+      "team": "Hershey Bears",
+      "division": "Other",
+      "gp": 65,
+      "gr": 7,
+      "w": 28,
+      "l": 28,
+      "otl": 6,
+      "sol": 3,
+      "pts": 919
     },
     {
       "team": "Springfield Thunderbirds",
@@ -142,7 +142,7 @@
       "l": 25,
       "otl": 5,
       "sol": 4,
-      "pts": 719
+      "pts": 721
     },
     {
       "team": "Utica Comets",
