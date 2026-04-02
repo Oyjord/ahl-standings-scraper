@@ -246,9 +246,9 @@
     {
       "team": "x Ontario Reign",
       "division": "Pacific",
-      "gp": 65,
-      "gr": 7,
-      "w": 41,
+      "gp": 66,
+      "gr": 6,
+      "w": 42,
       "l": 19,
       "otl": 3,
       "sol": 2,
@@ -257,9 +257,9 @@
     {
       "team": "x Colorado Eagles",
       "division": "Pacific",
-      "gp": 64,
-      "gr": 8,
-      "w": 38,
+      "gp": 65,
+      "gr": 7,
+      "w": 39,
       "l": 16,
       "otl": 5,
       "sol": 5,
@@ -279,10 +279,10 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 63,
-      "gr": 9,
+      "gp": 64,
+      "gr": 8,
       "w": 37,
-      "l": 21,
+      "l": 22,
       "otl": 5,
       "sol": 0,
       "pts": 932
@@ -290,13 +290,13 @@
     {
       "team": "Bakersfield Condors",
       "division": "Pacific",
-      "gp": 63,
-      "gr": 9,
+      "gp": 64,
+      "gr": 8,
       "w": 34,
-      "l": 19,
+      "l": 20,
       "otl": 9,
       "sol": 1,
-      "pts": 927
+      "pts": 929
     },
     {
       "team": "Henderson Silver Knights",
@@ -312,24 +312,24 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 64,
-      "gr": 8,
-      "w": 29,
+      "gp": 65,
+      "gr": 7,
+      "w": 30,
       "l": 23,
       "otl": 8,
       "sol": 4,
-      "pts": 687
+      "pts": 691
     },
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 63,
-      "gr": 9,
+      "gp": 64,
+      "gr": 8,
       "w": 30,
-      "l": 24,
+      "l": 25,
       "otl": 9,
       "sol": 0,
-      "pts": 704
+      "pts": 712
     },
     {
       "team": "Abbotsford Canucks",
