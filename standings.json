@@ -257,76 +257,76 @@
     {
       "team": "x Colorado Eagles",
       "division": "Pacific",
-      "gp": 65,
-      "gr": 7,
+      "gp": 66,
+      "gr": 6,
       "w": 39,
-      "l": 16,
+      "l": 17,
       "otl": 5,
       "sol": 5,
-      "pts": 806
+      "pts": 814
     },
     {
       "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 64,
-      "gr": 8,
-      "w": 38,
+      "gp": 65,
+      "gr": 7,
+      "w": 39,
       "l": 22,
       "otl": 2,
       "sol": 2,
-      "pts": 916
+      "pts": 920
     },
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 64,
-      "gr": 8,
-      "w": 37,
+      "gp": 65,
+      "gr": 7,
+      "w": 38,
       "l": 22,
       "otl": 5,
       "sol": 0,
-      "pts": 936
-    },
-    {
-      "team": "Bakersfield Condors",
-      "division": "Pacific",
-      "gp": 64,
-      "gr": 8,
-      "w": 34,
-      "l": 20,
-      "otl": 9,
-      "sol": 1,
-      "pts": 937
+      "pts": 940
     },
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 64,
-      "gr": 8,
-      "w": 33,
+      "gp": 65,
+      "gr": 7,
+      "w": 34,
       "l": 20,
       "otl": 7,
       "sol": 4,
       "pts": 821
     },
     {
-      "team": "San Diego Gulls",
+      "team": "Bakersfield Condors",
       "division": "Pacific",
       "gp": 65,
       "gr": 7,
-      "w": 30,
+      "w": 34,
+      "l": 21,
+      "otl": 9,
+      "sol": 1,
+      "pts": 951
+    },
+    {
+      "team": "San Diego Gulls",
+      "division": "Pacific",
+      "gp": 66,
+      "gr": 6,
+      "w": 31,
       "l": 23,
       "otl": 8,
       "sol": 4,
-      "pts": 701
+      "pts": 711
     },
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 64,
-      "gr": 8,
+      "gp": 65,
+      "gr": 7,
       "w": 30,
-      "l": 25,
+      "l": 26,
       "otl": 9,
       "sol": 0,
       "pts": 728
@@ -345,13 +345,13 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 66,
-      "gr": 6,
+      "gp": 67,
+      "gr": 5,
       "w": 24,
-      "l": 36,
+      "l": 37,
       "otl": 3,
       "sol": 3,
-      "pts": 895
+      "pts": 899
     }
   ]
 }
