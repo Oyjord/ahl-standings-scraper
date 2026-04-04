@@ -21,7 +21,7 @@
       "l": 16,
       "otl": 6,
       "sol": 2,
-      "pts": 840
+      "pts": 844
     },
     {
       "team": "x Charlotte Checkers",
@@ -32,7 +32,7 @@
       "l": 21,
       "otl": 5,
       "sol": 0,
-      "pts": 786
+      "pts": 798
     },
     {
       "team": "Bridgeport Islanders",
@@ -43,7 +43,7 @@
       "l": 28,
       "otl": 3,
       "sol": 5,
-      "pts": 791
+      "pts": 810
     },
     {
       "team": "Hershey Bears",
@@ -54,7 +54,7 @@
       "l": 28,
       "otl": 6,
       "sol": 3,
-      "pts": 921
+      "pts": 927
     },
     {
       "team": "Springfield Thunderbirds",
@@ -65,7 +65,7 @@
       "l": 29,
       "otl": 6,
       "sol": 2,
-      "pts": 745
+      "pts": 751
     },
     {
       "team": "Lehigh Valley Phantoms",
@@ -87,7 +87,7 @@
       "l": 32,
       "otl": 5,
       "sol": 3,
-      "pts": 1022
+      "pts": 1041
     },
     {
       "team": "x Laval Rocket",
@@ -98,7 +98,7 @@
       "l": 20,
       "otl": 2,
       "sol": 5,
-      "pts": 1057
+      "pts": 1065
     },
     {
       "team": "x Syracuse Crunch",
@@ -120,7 +120,7 @@
       "l": 23,
       "otl": 5,
       "sol": 5,
-      "pts": 861
+      "pts": 877
     },
     {
       "team": "Cleveland Monsters",
@@ -131,7 +131,7 @@
       "l": 25,
       "otl": 6,
       "sol": 1,
-      "pts": 796
+      "pts": 816
     },
     {
       "team": "Rochester Americans",
@@ -142,7 +142,7 @@
       "l": 26,
       "otl": 5,
       "sol": 4,
-      "pts": 730
+      "pts": 732
     },
     {
       "team": "Utica Comets",
@@ -164,7 +164,7 @@
       "l": 31,
       "otl": 8,
       "sol": 1,
-      "pts": 923
+      "pts": 925
     },
     {
       "team": "y Grand Rapids Griffins",
@@ -219,7 +219,7 @@
       "l": 27,
       "otl": 4,
       "sol": 3,
-      "pts": 1036
+      "pts": 1056
     },
     {
       "team": "Rockford IceHogs",
@@ -230,7 +230,7 @@
       "l": 34,
       "otl": 3,
       "sol": 2,
-      "pts": 1128
+      "pts": 1136
     },
     {
       "team": "Iowa Wild",
@@ -241,7 +241,7 @@
       "l": 32,
       "otl": 6,
       "sol": 3,
-      "pts": 771
+      "pts": 773
     },
     {
       "team": "x Ontario Reign",
@@ -351,7 +351,7 @@
       "l": 32,
       "otl": 10,
       "sol": 4,
-      "pts": 978
+      "pts": 982
     }
   ]
 }
