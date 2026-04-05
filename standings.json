@@ -266,6 +266,17 @@
       "pts": 831
     },
     {
+      "team": "x Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 66,
+      "gr": 6,
+      "w": 39,
+      "l": 22,
+      "otl": 5,
+      "sol": 0,
+      "pts": 946
+    },
+    {
       "team": "x San Jose Barracuda",
       "division": "Pacific",
       "gp": 66,
@@ -286,17 +297,6 @@
       "otl": 7,
       "sol": 4,
       "pts": 823
-    },
-    {
-      "team": "x Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 65,
-      "gr": 7,
-      "w": 38,
-      "l": 22,
-      "otl": 5,
-      "sol": 0,
-      "pts": 942
     },
     {
       "team": "Bakersfield Condors",
@@ -345,11 +345,11 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 67,
-      "gr": 5,
+      "gp": 68,
+      "gr": 4,
       "w": 24,
       "l": 37,
-      "otl": 3,
+      "otl": 4,
       "sol": 3,
       "pts": 899
     }
