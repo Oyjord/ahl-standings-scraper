@@ -114,13 +114,13 @@
     {
       "team": "x Cleveland Monsters",
       "division": "Other",
-      "gp": 67,
-      "gr": 5,
+      "gp": 68,
+      "gr": 4,
       "w": 35,
       "l": 25,
       "otl": 6,
-      "sol": 1,
-      "pts": 849
+      "sol": 2,
+      "pts": 855
     },
     {
       "team": "Toronto Marlies",
@@ -136,13 +136,13 @@
     {
       "team": "Rochester Americans",
       "division": "Other",
-      "gp": 65,
-      "gr": 7,
-      "w": 29,
+      "gp": 66,
+      "gr": 6,
+      "w": 30,
       "l": 27,
       "otl": 5,
       "sol": 4,
-      "pts": 748
+      "pts": 750
     },
     {
       "team": "Utica Comets",
