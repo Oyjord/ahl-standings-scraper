@@ -279,13 +279,13 @@
     {
       "team": "x San Jose Barracuda",
       "division": "Pacific",
-      "gp": 66,
-      "gr": 6,
+      "gp": 67,
+      "gr": 5,
       "w": 39,
-      "l": 23,
+      "l": 24,
       "otl": 2,
       "sol": 2,
-      "pts": 935
+      "pts": 941
     },
     {
       "team": "x Henderson Silver Knights",
@@ -312,13 +312,13 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 66,
-      "gr": 6,
-      "w": 31,
+      "gp": 67,
+      "gr": 5,
+      "w": 32,
       "l": 23,
       "otl": 8,
       "sol": 4,
-      "pts": 711
+      "pts": 719
     },
     {
       "team": "Tucson Roadrunners",
