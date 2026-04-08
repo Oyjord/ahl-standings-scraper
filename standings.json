@@ -191,35 +191,35 @@
     {
       "team": "x Texas Stars",
       "division": "Other",
-      "gp": 66,
-      "gr": 6,
+      "gp": 67,
+      "gr": 5,
       "w": 35,
-      "l": 27,
+      "l": 28,
       "otl": 3,
       "sol": 1,
-      "pts": 656
+      "pts": 664
     },
     {
-      "team": "Manitoba Moose",
+      "team": "x Manitoba Moose",
       "division": "Other",
-      "gp": 65,
-      "gr": 7,
-      "w": 31,
+      "gp": 66,
+      "gr": 6,
+      "w": 32,
       "l": 28,
       "otl": 5,
       "sol": 1,
-      "pts": 755
+      "pts": 764
     },
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 65,
-      "gr": 7,
+      "gp": 66,
+      "gr": 6,
       "w": 29,
-      "l": 29,
+      "l": 30,
       "otl": 4,
       "sol": 3,
-      "pts": 1119
+      "pts": 1128
     },
     {
       "team": "Rockford IceHogs",
@@ -235,13 +235,13 @@
     {
       "team": "Iowa Wild",
       "division": "Other",
-      "gp": 65,
-      "gr": 7,
-      "w": 23,
+      "gp": 66,
+      "gr": 6,
+      "w": 24,
       "l": 33,
       "otl": 6,
       "sol": 3,
-      "pts": 829
+      "pts": 835
     },
     {
       "team": "x Ontario Reign",
@@ -252,7 +252,7 @@
       "l": 19,
       "otl": 3,
       "sol": 2,
-      "pts": 745
+      "pts": 749
     },
     {
       "team": "x Colorado Eagles",
@@ -263,7 +263,7 @@
       "l": 17,
       "otl": 5,
       "sol": 5,
-      "pts": 831
+      "pts": 833
     },
     {
       "team": "x Coachella Valley Firebirds",
