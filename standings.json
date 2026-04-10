@@ -2,7 +2,7 @@
   "division": "All Divisions",
   "teams": [
     {
-      "team": "x Providence Bruins",
+      "team": "y Providence Bruins",
       "division": "Other",
       "gp": 67,
       "gr": 5,
@@ -15,13 +15,13 @@
     {
       "team": "x Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 67,
-      "gr": 5,
+      "gp": 68,
+      "gr": 4,
       "w": 43,
       "l": 16,
-      "otl": 6,
+      "otl": 7,
       "sol": 2,
-      "pts": 901
+      "pts": 918
     },
     {
       "team": "x Charlotte Checkers",
@@ -37,13 +37,13 @@
     {
       "team": "Bridgeport Islanders",
       "division": "Other",
-      "gp": 66,
-      "gr": 6,
-      "w": 30,
+      "gp": 67,
+      "gr": 5,
+      "w": 31,
       "l": 28,
       "otl": 3,
       "sol": 5,
-      "pts": 812
+      "pts": 816
     },
     {
       "team": "Hershey Bears",
