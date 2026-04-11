@@ -290,7 +290,7 @@
     {
       "team": "x San Jose Barracuda",
       "division": "Pacific",
-      "gp": 71,
+      "gp": 68,
       "gr": 4,
       "w": 39,
       "l": 25,
@@ -332,26 +332,26 @@
       "pts": 742
     },
     {
-      "team": "Calgary Wranglers",
-      "division": "Pacific",
-      "gp": 68,
-      "gr": 4,
-      "w": 21,
-      "l": 32,
-      "otl": 10,
-      "sol": 5,
-      "pts": 1009
-    },
-    {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 68,
-      "gr": 4,
-      "w": 24,
+      "gp": 69,
+      "gr": 3,
+      "w": 25,
       "l": 37,
       "otl": 4,
       "sol": 3,
       "pts": 905
+    },
+    {
+      "team": "Calgary Wranglers",
+      "division": "Pacific",
+      "gp": 69,
+      "gr": 3,
+      "w": 21,
+      "l": 33,
+      "otl": 10,
+      "sol": 5,
+      "pts": 1009
     }
   ]
 }
