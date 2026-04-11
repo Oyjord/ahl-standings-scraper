@@ -42,8 +42,6 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-1
 
-      # ⭐ This folding operator (>) forces ONE physical shell line
+      # ⭐ ZERO chance of line breaks — command is on SAME LINE as run:
       - name: Upload standings.json to S3 as reign_standings.json
-        run: >
-          aws s3 cp standings.json s3://${{ secrets.AWS_S3_BUCKET }}/reign_standings.json
-          --cache-control "no-cache, no-store, must-revalidate"
+        run: aws s3 cp standings.json s3://${{ secrets.AWS_S3_BUCKET }}/reign_standings.json --cache-control "no-cache, no-store, must-revalidate"
