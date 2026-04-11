@@ -46,6 +46,5 @@ jobs:
 
       - name: Upload standings.json to S3 as reign_standings.json
         run: |
-          aws s3 cp standings.json s3://${{ secrets.AWS_S3_BUCKET }}/reign_standings.json \
-            --cache-control "no-cache, no-store, must-revalidate"
+          aws s3 cp standings.json s3://${{ secrets.AWS_S3_BUCKET }}/reign_standings.json --cache-control "no-cache, no-store, must-revalidate"
           echo "✅ Uploaded reign_standings.json to S3"
