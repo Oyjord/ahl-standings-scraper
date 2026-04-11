@@ -191,24 +191,24 @@
     {
       "team": "x Texas Stars",
       "division": "Other",
-      "gp": 68,
-      "gr": 4,
+      "gp": 69,
+      "gr": 3,
       "w": 35,
       "l": 29,
       "otl": 3,
-      "sol": 1,
-      "pts": 695
+      "sol": 2,
+      "pts": 697
     },
     {
       "team": "x Manitoba Moose",
       "division": "Other",
-      "gp": 67,
-      "gr": 5,
-      "w": 32,
+      "gp": 68,
+      "gr": 4,
+      "w": 33,
       "l": 29,
       "otl": 5,
       "sol": 1,
-      "pts": 790
+      "pts": 792
     },
     {
       "team": "Milwaukee Admirals",
@@ -257,13 +257,13 @@
     {
       "team": "x Colorado Eagles",
       "division": "Pacific",
-      "gp": 68,
-      "gr": 4,
+      "gp": 69,
+      "gr": 3,
       "w": 40,
-      "l": 17,
+      "l": 18,
       "otl": 6,
       "sol": 5,
-      "pts": 833
+      "pts": 837
     },
     {
       "team": "x Henderson Silver Knights",
@@ -274,7 +274,7 @@
       "l": 20,
       "otl": 7,
       "sol": 4,
-      "pts": 831
+      "pts": 835
     },
     {
       "team": "x Coachella Valley Firebirds",
@@ -285,7 +285,7 @@
       "l": 23,
       "otl": 5,
       "sol": 0,
-      "pts": 950
+      "pts": 954
     },
     {
       "team": "x San Jose Barracuda",
@@ -296,7 +296,7 @@
       "l": 24,
       "otl": 2,
       "sol": 2,
-      "pts": 943
+      "pts": 947
     },
     {
       "team": "x Bakersfield Condors",
@@ -307,7 +307,7 @@
       "l": 22,
       "otl": 9,
       "sol": 1,
-      "pts": 989
+      "pts": 991
     },
     {
       "team": "San Diego Gulls",
@@ -318,18 +318,18 @@
       "l": 23,
       "otl": 8,
       "sol": 4,
-      "pts": 719
+      "pts": 725
     },
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 67,
-      "gr": 5,
-      "w": 30,
+      "gp": 68,
+      "gr": 4,
+      "w": 31,
       "l": 28,
       "otl": 9,
       "sol": 0,
-      "pts": 740
+      "pts": 742
     },
     {
       "team": "Calgary Wranglers",
