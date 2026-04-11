@@ -246,9 +246,9 @@
     {
       "team": "x Ontario Reign",
       "division": "Pacific",
-      "gp": 68,
-      "gr": 4,
-      "w": 44,
+      "gp": 69,
+      "gr": 3,
+      "w": 45,
       "l": 19,
       "otl": 3,
       "sol": 2,
@@ -279,10 +279,10 @@
     {
       "team": "x Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 67,
-      "gr": 5,
+      "gp": 68,
+      "gr": 4,
       "w": 39,
-      "l": 23,
+      "l": 24,
       "otl": 5,
       "sol": 0,
       "pts": 954
@@ -301,9 +301,9 @@
     {
       "team": "x Bakersfield Condors",
       "division": "Pacific",
-      "gp": 67,
-      "gr": 5,
-      "w": 35,
+      "gp": 68,
+      "gr": 4,
+      "w": 36,
       "l": 22,
       "otl": 9,
       "sol": 1,
@@ -312,10 +312,10 @@
     {
       "team": "San Diego Gulls",
       "division": "Pacific",
-      "gp": 67,
-      "gr": 5,
+      "gp": 68,
+      "gr": 4,
       "w": 32,
-      "l": 23,
+      "l": 24,
       "otl": 8,
       "sol": 4,
       "pts": 725
