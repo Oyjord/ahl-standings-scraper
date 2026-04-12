@@ -301,24 +301,24 @@
     {
       "team": "x Bakersfield Condors",
       "division": "Pacific",
-      "gp": 68,
-      "gr": 4,
+      "gp": 69,
+      "gr": 3,
       "w": 36,
-      "l": 22,
+      "l": 23,
       "otl": 9,
       "sol": 1,
       "pts": 999
     },
     {
-      "team": "San Diego Gulls",
+      "team": "x San Diego Gulls",
       "division": "Pacific",
-      "gp": 68,
-      "gr": 4,
-      "w": 32,
+      "gp": 69,
+      "gr": 3,
+      "w": 33,
       "l": 24,
       "otl": 8,
       "sol": 4,
-      "pts": 729
+      "pts": 731
     },
     {
       "team": "Tucson Roadrunners",
