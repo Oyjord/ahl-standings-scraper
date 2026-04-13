@@ -35,15 +35,15 @@
       "pts": 872
     },
     {
-      "team": "Bridgeport Islanders",
+      "team": "x Bridgeport Islanders",
       "division": "Other",
-      "gp": 68,
-      "gr": 4,
-      "w": 31,
+      "gp": 69,
+      "gr": 3,
+      "w": 32,
       "l": 29,
       "otl": 3,
       "sol": 5,
-      "pts": 838
+      "pts": 840
     },
     {
       "team": "Hershey Bears",
@@ -81,13 +81,13 @@
     {
       "team": "Hartford Wolf Pack",
       "division": "Other",
-      "gp": 68,
-      "gr": 4,
+      "gp": 69,
+      "gr": 3,
       "w": 25,
-      "l": 35,
+      "l": 36,
       "otl": 5,
       "sol": 3,
-      "pts": 1107
+      "pts": 1111
     },
     {
       "team": "x Laval Rocket",
