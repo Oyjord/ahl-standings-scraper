@@ -268,46 +268,46 @@
     {
       "team": "x Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 69,
-      "gr": 3,
-      "w": 38,
+      "gp": 70,
+      "gr": 2,
+      "w": 39,
       "l": 20,
       "otl": 7,
       "sol": 4,
-      "pts": 854
+      "pts": 856
     },
     {
       "team": "x Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 69,
-      "gr": 3,
-      "w": 39,
+      "gp": 70,
+      "gr": 2,
+      "w": 40,
       "l": 24,
       "otl": 6,
       "sol": 0,
-      "pts": 969
-    },
-    {
-      "team": "x San Jose Barracuda",
-      "division": "Pacific",
-      "gp": 69,
-      "gr": 3,
-      "w": 39,
-      "l": 26,
-      "otl": 2,
-      "sol": 2,
-      "pts": 965
+      "pts": 975
     },
     {
       "team": "x Bakersfield Condors",
       "division": "Pacific",
-      "gp": 69,
-      "gr": 3,
+      "gp": 70,
+      "gr": 2,
       "w": 36,
       "l": 23,
-      "otl": 9,
+      "otl": 10,
       "sol": 1,
-      "pts": 1003
+      "pts": 1009
+    },
+    {
+      "team": "x San Jose Barracuda",
+      "division": "Pacific",
+      "gp": 70,
+      "gr": 2,
+      "w": 39,
+      "l": 27,
+      "otl": 2,
+      "sol": 2,
+      "pts": 969
     },
     {
       "team": "x San Diego Gulls",
