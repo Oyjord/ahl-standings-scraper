@@ -312,24 +312,24 @@
     {
       "team": "x San Diego Gulls",
       "division": "Pacific",
-      "gp": 69,
-      "gr": 3,
+      "gp": 70,
+      "gr": 2,
       "w": 33,
-      "l": 24,
+      "l": 25,
       "otl": 8,
       "sol": 4,
-      "pts": 731
+      "pts": 733
     },
     {
       "team": "Tucson Roadrunners",
       "division": "Pacific",
-      "gp": 69,
-      "gr": 3,
-      "w": 31,
+      "gp": 70,
+      "gr": 2,
+      "w": 32,
       "l": 28,
       "otl": 10,
       "sol": 0,
-      "pts": 756
+      "pts": 764
     },
     {
       "team": "Abbotsford Canucks",
