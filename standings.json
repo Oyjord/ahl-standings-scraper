@@ -10,7 +10,7 @@
       "l": 15,
       "otl": 2,
       "sol": 0,
-      "pts": 828
+      "pts": 830
     },
     {
       "team": "x Wilkes-Barre/Scranton Penguins",
@@ -21,18 +21,18 @@
       "l": 17,
       "otl": 7,
       "sol": 2,
-      "pts": 942
+      "pts": 988
     },
     {
       "team": "x Charlotte Checkers",
       "division": "Other",
-      "gp": 70,
-      "gr": 2,
+      "gp": 71,
+      "gr": 1,
       "w": 43,
-      "l": 22,
+      "l": 23,
       "otl": 5,
       "sol": 0,
-      "pts": 872
+      "pts": 884
     },
     {
       "team": "x Bridgeport Islanders",
@@ -70,13 +70,13 @@
     {
       "team": "Lehigh Valley Phantoms",
       "division": "Other",
-      "gp": 70,
-      "gr": 2,
-      "w": 30,
+      "gp": 71,
+      "gr": 1,
+      "w": 31,
       "l": 34,
       "otl": 3,
       "sol": 3,
-      "pts": 917
+      "pts": 927
     },
     {
       "team": "Hartford Wolf Pack",
@@ -87,18 +87,18 @@
       "l": 37,
       "otl": 5,
       "sol": 3,
-      "pts": 1143
+      "pts": 1145
     },
     {
       "team": "y Laval Rocket",
       "division": "Other",
-      "gp": 70,
-      "gr": 2,
+      "gp": 71,
+      "gr": 1,
       "w": 41,
-      "l": 21,
+      "l": 22,
       "otl": 3,
       "sol": 5,
-      "pts": 1177
+      "pts": 1186
     },
     {
       "team": "x Syracuse Crunch",
@@ -125,13 +125,13 @@
     {
       "team": "x Toronto Marlies",
       "division": "Other",
-      "gp": 70,
-      "gr": 2,
-      "w": 34,
+      "gp": 71,
+      "gr": 1,
+      "w": 35,
       "l": 26,
       "otl": 5,
       "sol": 5,
-      "pts": 997
+      "pts": 1004
     },
     {
       "team": "Rochester Americans",
@@ -142,7 +142,7 @@
       "l": 30,
       "otl": 5,
       "sol": 4,
-      "pts": 791
+      "pts": 812
     },
     {
       "team": "Utica Comets",
@@ -153,7 +153,7 @@
       "l": 31,
       "otl": 6,
       "sol": 5,
-      "pts": 837
+      "pts": 839
     },
     {
       "team": "Belleville Senators",
@@ -164,7 +164,7 @@
       "l": 34,
       "otl": 8,
       "sol": 1,
-      "pts": 1040
+      "pts": 1042
     },
     {
       "team": "y Grand Rapids Griffins",
@@ -208,7 +208,7 @@
       "l": 29,
       "otl": 5,
       "sol": 3,
-      "pts": 809
+      "pts": 813
     },
     {
       "team": "x Milwaukee Admirals",
