@@ -279,13 +279,13 @@
     {
       "team": "x Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 71,
-      "gr": 1,
+      "gp": 72,
+      "gr": 0,
       "w": 41,
-      "l": 24,
+      "l": 25,
       "otl": 6,
       "sol": 0,
-      "pts": 985
+      "pts": 987
     },
     {
       "team": "x Bakersfield Condors",
@@ -334,9 +334,9 @@
     {
       "team": "Abbotsford Canucks",
       "division": "Pacific",
-      "gp": 71,
-      "gr": 1,
-      "w": 27,
+      "gp": 72,
+      "gr": 0,
+      "w": 28,
       "l": 37,
       "otl": 4,
       "sol": 3,
