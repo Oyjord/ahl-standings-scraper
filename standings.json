@@ -2,6 +2,17 @@
   "division": "All Divisions",
   "teams": [
     {
+      "team": "Hershey Bears",
+      "division": "Other",
+      "gp": 1,
+      "gr": 2,
+      "w": 1,
+      "l": 0,
+      "otl": 0,
+      "sol": 0,
+      "pts": 8
+    },
+    {
       "team": "Providence Bruins",
       "division": "Other",
       "gp": 0,
@@ -35,28 +46,6 @@
       "pts": 0
     },
     {
-      "team": "Hershey Bears",
-      "division": "Other",
-      "gp": 0,
-      "gr": 3,
-      "w": 0,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 0
-    },
-    {
-      "team": "Bridgeport Islanders",
-      "division": "Other",
-      "gp": 0,
-      "gr": 3,
-      "w": 0,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 0
-    },
-    {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
       "gp": 0,
@@ -66,6 +55,17 @@
       "otl": 0,
       "sol": 0,
       "pts": 0
+    },
+    {
+      "team": "Bridgeport Islanders",
+      "division": "Other",
+      "gp": 1,
+      "gr": 2,
+      "w": 0,
+      "l": 1,
+      "otl": 0,
+      "sol": 0,
+      "pts": 4
     },
     {
       "team": "Laval Rocket",
