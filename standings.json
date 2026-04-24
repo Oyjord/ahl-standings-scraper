@@ -24,7 +24,7 @@
       "pts": 12
     },
     {
-      "team": "Wilkes-Barre/Scranton Penguins",
+      "team": "Providence Bruins",
       "division": "Other",
       "gp": 0,
       "gr": 0,
@@ -35,7 +35,7 @@
       "pts": 0
     },
     {
-      "team": "Providence Bruins",
+      "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
       "gp": 0,
       "gr": 0,
@@ -79,10 +79,10 @@
       "pts": 20
     },
     {
-      "team": "Laval Rocket",
+      "team": "Cleveland Monsters",
       "division": "Other",
       "gp": 0,
-      "gr": 0,
+      "gr": 5,
       "w": 0,
       "l": 0,
       "otl": 0,
@@ -90,10 +90,10 @@
       "pts": 0
     },
     {
-      "team": "Cleveland Monsters",
+      "team": "Laval Rocket",
       "division": "Other",
       "gp": 0,
-      "gr": 5,
+      "gr": 0,
       "w": 0,
       "l": 0,
       "otl": 0,
@@ -178,6 +178,17 @@
       "pts": 6
     },
     {
+      "team": "Bakersfield Condors",
+      "division": "Pacific",
+      "gp": 1,
+      "gr": 2,
+      "w": 1,
+      "l": 0,
+      "otl": 0,
+      "sol": 0,
+      "pts": 37
+    },
+    {
       "team": "Colorado Eagles",
       "division": "Pacific",
       "gp": 1,
@@ -200,17 +211,6 @@
       "pts": 10
     },
     {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 0,
-      "gr": 3,
-      "w": 0,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 4
-    },
-    {
       "team": "Ontario Reign",
       "division": "Pacific",
       "gp": 0,
@@ -222,17 +222,6 @@
       "pts": 0
     },
     {
-      "team": "Bakersfield Condors",
-      "division": "Pacific",
-      "gp": 0,
-      "gr": 3,
-      "w": 0,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 6
-    },
-    {
       "team": "San Jose Barracuda",
       "division": "Pacific",
       "gp": 1,
@@ -242,6 +231,17 @@
       "otl": 0,
       "sol": 0,
       "pts": 8
+    },
+    {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 1,
+      "gr": 2,
+      "w": 0,
+      "l": 1,
+      "otl": 0,
+      "sol": 0,
+      "pts": 43
     },
     {
       "team": "San Diego Gulls",
