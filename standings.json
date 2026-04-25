@@ -125,13 +125,24 @@
     {
       "team": "Milwaukee Admirals",
       "division": "Other",
-      "gp": 1,
-      "gr": 2,
+      "gp": 2,
+      "gr": 1,
       "w": 1,
-      "l": 0,
+      "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 18
+      "pts": 30
+    },
+    {
+      "team": "Manitoba Moose",
+      "division": "Other",
+      "gp": 2,
+      "gr": 1,
+      "w": 1,
+      "l": 1,
+      "otl": 0,
+      "sol": 0,
+      "pts": 28
     },
     {
       "team": "Texas Stars",
@@ -167,15 +178,26 @@
       "pts": 0
     },
     {
-      "team": "Manitoba Moose",
-      "division": "Other",
-      "gp": 1,
-      "gr": 2,
-      "w": 0,
-      "l": 1,
+      "team": "Colorado Eagles",
+      "division": "Pacific",
+      "gp": 2,
+      "gr": 5,
+      "w": 2,
+      "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 16
+      "pts": 44
+    },
+    {
+      "team": "Henderson Silver Knights",
+      "division": "Pacific",
+      "gp": 2,
+      "gr": 5,
+      "w": 2,
+      "l": 0,
+      "otl": 0,
+      "sol": 0,
+      "pts": 20
     },
     {
       "team": "Bakersfield Condors",
@@ -189,28 +211,6 @@
       "pts": 37
     },
     {
-      "team": "Colorado Eagles",
-      "division": "Pacific",
-      "gp": 1,
-      "gr": 2,
-      "w": 1,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 8
-    },
-    {
-      "team": "Henderson Silver Knights",
-      "division": "Pacific",
-      "gp": 1,
-      "gr": 2,
-      "w": 1,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 18
-    },
-    {
       "team": "Ontario Reign",
       "division": "Pacific",
       "gp": 0,
@@ -220,17 +220,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 0
-    },
-    {
-      "team": "San Jose Barracuda",
-      "division": "Pacific",
-      "gp": 1,
-      "gr": 2,
-      "w": 0,
-      "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 18
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -244,15 +233,26 @@
       "pts": 43
     },
     {
-      "team": "San Diego Gulls",
+      "team": "San Jose Barracuda",
       "division": "Pacific",
-      "gp": 1,
-      "gr": 2,
+      "gp": 2,
+      "gr": 0,
       "w": 0,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 12
+      "pts": 20
+    },
+    {
+      "team": "San Diego Gulls",
+      "division": "Pacific",
+      "gp": 2,
+      "gr": 0,
+      "w": 0,
+      "l": 2,
+      "otl": 0,
+      "sol": 0,
+      "pts": 50
     }
   ]
 }
