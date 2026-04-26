@@ -35,7 +35,7 @@
       "pts": 58
     },
     {
-      "team": "Wilkes-Barre/Scranton Penguins",
+      "team": "Providence Bruins",
       "division": "Other",
       "gp": 0,
       "gr": 5,
@@ -46,7 +46,7 @@
       "pts": 0
     },
     {
-      "team": "Providence Bruins",
+      "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
       "gp": 0,
       "gr": 5,
@@ -145,10 +145,10 @@
       "pts": 28
     },
     {
-      "team": "Texas Stars",
+      "team": "Grand Rapids Griffins",
       "division": "Other",
       "gp": 0,
-      "gr": 5,
+      "gr": 0,
       "w": 0,
       "l": 0,
       "otl": 0,
@@ -167,10 +167,10 @@
       "pts": 0
     },
     {
-      "team": "Grand Rapids Griffins",
+      "team": "Texas Stars",
       "division": "Other",
       "gp": 0,
-      "gr": 0,
+      "gr": 5,
       "w": 0,
       "l": 0,
       "otl": 0,
@@ -202,13 +202,24 @@
     {
       "team": "Bakersfield Condors",
       "division": "Pacific",
-      "gp": 1,
-      "gr": 2,
+      "gp": 2,
+      "gr": 1,
       "w": 1,
-      "l": 0,
+      "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 47
+      "pts": 53
+    },
+    {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 2,
+      "gr": 1,
+      "w": 1,
+      "l": 1,
+      "otl": 0,
+      "sol": 0,
+      "pts": 55
     },
     {
       "team": "Ontario Reign",
@@ -220,17 +231,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 0
-    },
-    {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 1,
-      "gr": 2,
-      "w": 0,
-      "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 53
     },
     {
       "team": "San Jose Barracuda",
