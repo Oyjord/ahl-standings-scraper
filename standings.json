@@ -5,7 +5,7 @@
       "team": "Hershey Bears",
       "division": "Other",
       "gp": 2,
-      "gr": 0,
+      "gr": 5,
       "w": 2,
       "l": 0,
       "otl": 0,
@@ -13,32 +13,32 @@
       "pts": 22
     },
     {
-      "team": "Charlotte Checkers",
-      "division": "Other",
-      "gp": 2,
-      "gr": 1,
-      "w": 1,
-      "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 56
-    },
-    {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 2,
-      "gr": 1,
-      "w": 1,
+      "gp": 3,
+      "gr": 5,
+      "w": 2,
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 60
+      "pts": 64
+    },
+    {
+      "team": "Charlotte Checkers",
+      "division": "Other",
+      "gp": 3,
+      "gr": 0,
+      "w": 1,
+      "l": 2,
+      "otl": 0,
+      "sol": 0,
+      "pts": 58
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
       "gp": 0,
-      "gr": 0,
+      "gr": 5,
       "w": 0,
       "l": 0,
       "otl": 0,
@@ -49,7 +49,7 @@
       "team": "Providence Bruins",
       "division": "Other",
       "gp": 0,
-      "gr": 0,
+      "gr": 5,
       "w": 0,
       "l": 0,
       "otl": 0,
@@ -208,7 +208,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 37
+      "pts": 47
     },
     {
       "team": "Ontario Reign",
@@ -230,7 +230,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 43
+      "pts": 53
     },
     {
       "team": "San Jose Barracuda",
