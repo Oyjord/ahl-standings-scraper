@@ -2,11 +2,9 @@ name: Scrape AHL Standings
 
 on:
   workflow_dispatch:
-  # Covers 4 PM to 11 PM PT (which is 23:00–06:59 UTC)
   schedule:
-    - cron: '*/30 23-23 * * *'  # 4 PM PT
-    - cron: '*/15 0-7 * * *'    # 5 PM to 11 PM PT
-
+    - cron: '*/30 23-23 * * *'
+    - cron: '*/15 0-7 * * *'
 
 jobs:
   scrape:
@@ -26,13 +24,20 @@ jobs:
       - name: Install Playwright browsers
         run: npx playwright install
 
-      - name: Run scraper
+      # ⭐ Regular season scraper (unchanged)
+      - name: Run regular-season scraper
         run: npm run scrape
 
-      - name: Commit updated standings
+      # ⭐ NEW — Playoffs scraper
+      - name: Run playoffs scraper
+        run: npm run playoffs
+
+      # ⭐ Commit both outputs
+      - name: Commit updated standings + playoffs
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add standings.json debug.txt raw.html
-          git commit -m "Update Pacific Division standings"
-          git push
+          git add playoffs.json playoffs_debug.txt raw_playoffs.html
+          git commit -m "Update AHL regular + playoff standings" || echo "No changes to commit"
+          git push || echo "No changes to push"
