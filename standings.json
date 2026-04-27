@@ -145,7 +145,7 @@
       "pts": 34
     },
     {
-      "team": "Grand Rapids Griffins",
+      "team": "Texas Stars",
       "division": "Other",
       "gp": 0,
       "gr": 5,
@@ -167,7 +167,7 @@
       "pts": 0
     },
     {
-      "team": "Texas Stars",
+      "team": "Grand Rapids Griffins",
       "division": "Other",
       "gp": 0,
       "gr": 5,
@@ -200,32 +200,32 @@
       "pts": 20
     },
     {
-      "team": "Bakersfield Condors",
-      "division": "Pacific",
-      "gp": 2,
-      "gr": 1,
-      "w": 1,
-      "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 53
-    },
-    {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 2,
-      "gr": 1,
-      "w": 1,
+      "gp": 3,
+      "gr": 5,
+      "w": 2,
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 55
+      "pts": 61
+    },
+    {
+      "team": "Bakersfield Condors",
+      "division": "Pacific",
+      "gp": 3,
+      "gr": 0,
+      "w": 1,
+      "l": 2,
+      "otl": 0,
+      "sol": 0,
+      "pts": 59
     },
     {
       "team": "Ontario Reign",
       "division": "Pacific",
       "gp": 0,
-      "gr": 0,
+      "gr": 5,
       "w": 0,
       "l": 0,
       "otl": 0,
