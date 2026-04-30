@@ -178,6 +178,17 @@
       "pts": 8
     },
     {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 4,
+      "gr": 4,
+      "w": 3,
+      "l": 1,
+      "otl": 0,
+      "sol": 0,
+      "pts": 79
+    },
+    {
       "team": "Colorado Eagles",
       "division": "Pacific",
       "gp": 2,
@@ -200,17 +211,6 @@
       "pts": 20
     },
     {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 3,
-      "gr": 5,
-      "w": 2,
-      "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 63
-    },
-    {
       "team": "Bakersfield Condors",
       "division": "Pacific",
       "gp": 3,
@@ -224,13 +224,13 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 0,
-      "gr": 5,
+      "gp": 1,
+      "gr": 4,
       "w": 0,
-      "l": 0,
+      "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 6
+      "pts": 30
     },
     {
       "team": "San Jose Barracuda",
