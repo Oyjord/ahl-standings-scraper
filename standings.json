@@ -70,13 +70,24 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 3,
-      "gr": 5,
+      "gp": 4,
+      "gr": 4,
       "w": 2,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 52
+      "pts": 56
+    },
+    {
+      "team": "Laval Rocket",
+      "division": "Other",
+      "gp": 1,
+      "gr": 4,
+      "w": 1,
+      "l": 0,
+      "otl": 0,
+      "sol": 0,
+      "pts": 6
     },
     {
       "team": "Syracuse Crunch",
@@ -110,17 +121,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 62
-    },
-    {
-      "team": "Laval Rocket",
-      "division": "Other",
-      "gp": 0,
-      "gr": 5,
-      "w": 0,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 4
     },
     {
       "team": "Manitoba Moose",
@@ -208,7 +208,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 61
+      "pts": 63
     },
     {
       "team": "Bakersfield Condors",
@@ -230,7 +230,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 0
+      "pts": 6
     },
     {
       "team": "San Jose Barracuda",
