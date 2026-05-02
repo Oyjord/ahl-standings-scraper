@@ -21,7 +21,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 32
+      "pts": 40
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
@@ -32,7 +32,7 @@
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 6
+      "pts": 12
     },
     {
       "team": "Charlotte Checkers",
@@ -125,13 +125,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 3,
-      "gr": 5,
-      "w": 2,
+      "gp": 4,
+      "gr": 4,
+      "w": 3,
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 32
+      "pts": 42
     },
     {
       "team": "Texas Stars",
@@ -169,13 +169,13 @@
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 0,
-      "gr": 5,
+      "gp": 1,
+      "gr": 4,
       "w": 0,
-      "l": 0,
+      "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 0
+      "pts": 10
     },
     {
       "team": "Colorado Eagles",
