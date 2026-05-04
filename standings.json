@@ -15,13 +15,13 @@
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 4,
-      "gr": 4,
+      "gp": 5,
+      "gr": 3,
       "w": 3,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 76
+      "pts": 88
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
@@ -35,6 +35,17 @@
       "pts": 12
     },
     {
+      "team": "Providence Bruins",
+      "division": "Other",
+      "gp": 2,
+      "gr": 3,
+      "w": 1,
+      "l": 1,
+      "otl": 0,
+      "sol": 0,
+      "pts": 42
+    },
+    {
       "team": "Charlotte Checkers",
       "division": "Other",
       "gp": 3,
@@ -44,17 +55,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 58
-    },
-    {
-      "team": "Providence Bruins",
-      "division": "Other",
-      "gp": 1,
-      "gr": 4,
-      "w": 0,
-      "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 28
     },
     {
       "team": "Bridgeport Islanders",
