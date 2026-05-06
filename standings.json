@@ -202,10 +202,10 @@
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 5,
-      "gr": 3,
+      "gp": 6,
+      "gr": 2,
       "w": 3,
-      "l": 2,
+      "l": 3,
       "otl": 0,
       "sol": 0,
       "pts": 81
@@ -213,13 +213,13 @@
     {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 2,
-      "gr": 3,
-      "w": 1,
+      "gp": 3,
+      "gr": 2,
+      "w": 2,
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 42
+      "pts": 46
     },
     {
       "team": "Bakersfield Condors",
