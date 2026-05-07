@@ -123,17 +123,6 @@
       "pts": 39
     },
     {
-      "team": "Manitoba Moose",
-      "division": "Other",
-      "gp": 5,
-      "gr": 3,
-      "w": 3,
-      "l": 2,
-      "otl": 0,
-      "sol": 0,
-      "pts": 60
-    },
-    {
       "team": "Chicago Wolves",
       "division": "Other",
       "gp": 5,
@@ -145,6 +134,28 @@
       "pts": 48
     },
     {
+      "team": "Manitoba Moose",
+      "division": "Other",
+      "gp": 6,
+      "gr": 2,
+      "w": 3,
+      "l": 3,
+      "otl": 0,
+      "sol": 0,
+      "pts": 62
+    },
+    {
+      "team": "Grand Rapids Griffins",
+      "division": "Other",
+      "gp": 3,
+      "gr": 2,
+      "w": 2,
+      "l": 1,
+      "otl": 0,
+      "sol": 0,
+      "pts": 32
+    },
+    {
       "team": "Texas Stars",
       "division": "Other",
       "gp": 5,
@@ -154,17 +165,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 52
-    },
-    {
-      "team": "Grand Rapids Griffins",
-      "division": "Other",
-      "gp": 2,
-      "gr": 3,
-      "w": 1,
-      "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 26
     },
     {
       "team": "Milwaukee Admirals",
@@ -186,7 +186,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 58
+      "pts": 62
     },
     {
       "team": "Henderson Silver Knights",
@@ -197,7 +197,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 34
+      "pts": 54
     },
     {
       "team": "Coachella Valley Firebirds",
