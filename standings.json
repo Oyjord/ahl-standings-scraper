@@ -180,9 +180,9 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 4,
-      "gr": 3,
-      "w": 3,
+      "gp": 5,
+      "gr": 2,
+      "w": 4,
       "l": 1,
       "otl": 0,
       "sol": 0,
@@ -191,10 +191,10 @@
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 4,
-      "gr": 3,
+      "gp": 5,
+      "gr": 2,
       "w": 3,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
       "pts": 54
