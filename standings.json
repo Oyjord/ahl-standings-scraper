@@ -4,35 +4,35 @@
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 6,
-      "gr": 2,
-      "w": 4,
+      "gp": 7,
+      "gr": 5,
+      "w": 5,
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 98
-    },
-    {
-      "team": "Hershey Bears",
-      "division": "Other",
-      "gp": 5,
-      "gr": 2,
-      "w": 3,
-      "l": 2,
-      "otl": 0,
-      "sol": 0,
-      "pts": 53
+      "pts": 102
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 3,
-      "gr": 2,
-      "w": 2,
+      "gp": 4,
+      "gr": 5,
+      "w": 3,
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 27
+      "pts": 39
+    },
+    {
+      "team": "Hershey Bears",
+      "division": "Other",
+      "gp": 6,
+      "gr": 0,
+      "w": 3,
+      "l": 3,
+      "otl": 0,
+      "sol": 0,
+      "pts": 61
     },
     {
       "team": "Charlotte Checkers",
@@ -48,13 +48,13 @@
     {
       "team": "Providence Bruins",
       "division": "Other",
-      "gp": 3,
-      "gr": 2,
+      "gp": 4,
+      "gr": 0,
       "w": 1,
-      "l": 2,
+      "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 48
+      "pts": 56
     },
     {
       "team": "Bridgeport Islanders",
@@ -208,7 +208,7 @@
       "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 81
+      "pts": 87
     },
     {
       "team": "Ontario Reign",
@@ -219,7 +219,7 @@
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 46
+      "pts": 54
     },
     {
       "team": "Bakersfield Condors",
