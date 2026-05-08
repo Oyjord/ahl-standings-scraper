@@ -189,6 +189,17 @@
       "pts": 62
     },
     {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 7,
+      "gr": 1,
+      "w": 4,
+      "l": 3,
+      "otl": 0,
+      "sol": 0,
+      "pts": 91
+    },
+    {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
       "gp": 5,
@@ -200,26 +211,15 @@
       "pts": 54
     },
     {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 6,
-      "gr": 2,
-      "w": 3,
-      "l": 3,
-      "otl": 0,
-      "sol": 0,
-      "pts": 87
-    },
-    {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 3,
-      "gr": 2,
+      "gp": 4,
+      "gr": 1,
       "w": 2,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 54
+      "pts": 58
     },
     {
       "team": "Bakersfield Condors",
