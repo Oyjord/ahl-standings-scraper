@@ -123,10 +123,21 @@
       "pts": 39
     },
     {
+      "team": "Grand Rapids Griffins",
+      "division": "Other",
+      "gp": 4,
+      "gr": 5,
+      "w": 3,
+      "l": 1,
+      "otl": 0,
+      "sol": 0,
+      "pts": 36
+    },
+    {
       "team": "Chicago Wolves",
       "division": "Other",
       "gp": 5,
-      "gr": 0,
+      "gr": 5,
       "w": 3,
       "l": 2,
       "otl": 0,
@@ -136,24 +147,13 @@
     {
       "team": "Manitoba Moose",
       "division": "Other",
-      "gp": 6,
-      "gr": 2,
+      "gp": 7,
+      "gr": 0,
       "w": 3,
-      "l": 3,
+      "l": 4,
       "otl": 0,
       "sol": 0,
-      "pts": 64
-    },
-    {
-      "team": "Grand Rapids Griffins",
-      "division": "Other",
-      "gp": 3,
-      "gr": 2,
-      "w": 2,
-      "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 32
+      "pts": 70
     },
     {
       "team": "Texas Stars",
