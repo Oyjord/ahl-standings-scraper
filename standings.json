@@ -180,13 +180,13 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 5,
-      "gr": 2,
-      "w": 4,
+      "gp": 6,
+      "gr": 0,
+      "w": 5,
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 62
+      "pts": 66
     },
     {
       "team": "Coachella Valley Firebirds",
@@ -197,18 +197,18 @@
       "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 91
+      "pts": 97
     },
     {
       "team": "Henderson Silver Knights",
       "division": "Pacific",
-      "gp": 5,
-      "gr": 2,
+      "gp": 6,
+      "gr": 0,
       "w": 3,
-      "l": 2,
+      "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 54
+      "pts": 60
     },
     {
       "team": "Ontario Reign",
