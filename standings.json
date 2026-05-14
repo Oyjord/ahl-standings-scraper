@@ -180,21 +180,21 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 6,
-      "gr": 5,
-      "w": 5,
+      "gp": 7,
+      "gr": 4,
+      "w": 6,
       "l": 1,
       "otl": 0,
       "sol": 0,
-      "pts": 68
+      "pts": 72
     },
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 8,
-      "gr": 5,
+      "gp": 9,
+      "gr": 4,
       "w": 5,
-      "l": 3,
+      "l": 4,
       "otl": 0,
       "sol": 0,
       "pts": 101
