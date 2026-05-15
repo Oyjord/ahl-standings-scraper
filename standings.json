@@ -4,24 +4,24 @@
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 8,
-      "gr": 4,
-      "w": 5,
+      "gp": 9,
+      "gr": 3,
+      "w": 6,
       "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 124
+      "pts": 128
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 5,
-      "gr": 4,
+      "gp": 6,
+      "gr": 3,
       "w": 4,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 57
+      "pts": 63
     },
     {
       "team": "Hershey Bears",
@@ -70,24 +70,24 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 8,
-      "gr": 5,
-      "w": 5,
+      "gp": 9,
+      "gr": 4,
+      "w": 6,
       "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 140
+      "pts": 157
     },
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 4,
-      "gr": 5,
+      "gp": 5,
+      "gr": 4,
       "w": 3,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 57
+      "pts": 76
     },
     {
       "team": "Laval Rocket",
@@ -123,26 +123,26 @@
       "pts": 39
     },
     {
-      "team": "Grand Rapids Griffins",
-      "division": "Other",
-      "gp": 4,
-      "gr": 5,
-      "w": 3,
-      "l": 1,
-      "otl": 0,
-      "sol": 0,
-      "pts": 36
-    },
-    {
       "team": "Chicago Wolves",
       "division": "Other",
+      "gp": 6,
+      "gr": 4,
+      "w": 4,
+      "l": 2,
+      "otl": 0,
+      "sol": 0,
+      "pts": 64
+    },
+    {
+      "team": "Grand Rapids Griffins",
+      "division": "Other",
       "gp": 5,
-      "gr": 5,
+      "gr": 4,
       "w": 3,
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 48
+      "pts": 56
     },
     {
       "team": "Manitoba Moose",
