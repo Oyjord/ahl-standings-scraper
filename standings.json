@@ -70,24 +70,24 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 9,
-      "gr": 4,
+      "gp": 10,
+      "gr": 3,
       "w": 6,
-      "l": 3,
+      "l": 4,
       "otl": 0,
       "sol": 0,
-      "pts": 159
+      "pts": 167
     },
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 5,
-      "gr": 4,
-      "w": 3,
+      "gp": 6,
+      "gr": 3,
+      "w": 4,
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 80
+      "pts": 82
     },
     {
       "team": "Laval Rocket",
@@ -125,24 +125,24 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 6,
-      "gr": 4,
-      "w": 4,
+      "gp": 7,
+      "gr": 3,
+      "w": 5,
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 70
+      "pts": 76
     },
     {
       "team": "Grand Rapids Griffins",
       "division": "Other",
-      "gp": 5,
-      "gr": 4,
+      "gp": 6,
+      "gr": 3,
       "w": 3,
-      "l": 2,
+      "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 60
+      "pts": 64
     },
     {
       "team": "Manitoba Moose",
