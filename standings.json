@@ -180,24 +180,24 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 8,
-      "gr": 3,
-      "w": 6,
+      "gp": 9,
+      "gr": 2,
+      "w": 7,
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 82
+      "pts": 92
     },
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 10,
-      "gr": 3,
+      "gp": 11,
+      "gr": 2,
       "w": 6,
-      "l": 4,
+      "l": 5,
       "otl": 0,
       "sol": 0,
-      "pts": 113
+      "pts": 125
     },
     {
       "team": "Henderson Silver Knights",
