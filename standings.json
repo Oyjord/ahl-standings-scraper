@@ -70,24 +70,24 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 10,
-      "gr": 3,
+      "gp": 11,
+      "gr": 2,
       "w": 6,
-      "l": 4,
+      "l": 5,
       "otl": 0,
       "sol": 0,
-      "pts": 169
+      "pts": 175
     },
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 6,
-      "gr": 3,
-      "w": 4,
+      "gp": 7,
+      "gr": 2,
+      "w": 5,
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 82
+      "pts": 90
     },
     {
       "team": "Laval Rocket",
@@ -180,24 +180,24 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 9,
-      "gr": 2,
-      "w": 7,
+      "gp": 10,
+      "gr": 0,
+      "w": 8,
       "l": 2,
       "otl": 0,
       "sol": 0,
-      "pts": 92
+      "pts": 100
     },
     {
       "team": "Coachella Valley Firebirds",
       "division": "Pacific",
-      "gp": 11,
-      "gr": 2,
+      "gp": 12,
+      "gr": 0,
       "w": 6,
-      "l": 5,
+      "l": 6,
       "otl": 0,
       "sol": 0,
-      "pts": 125
+      "pts": 133
     },
     {
       "team": "Henderson Silver Knights",
