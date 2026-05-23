@@ -70,24 +70,24 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 11,
-      "gr": 2,
-      "w": 6,
+      "gp": 12,
+      "gr": 1,
+      "w": 7,
       "l": 5,
       "otl": 0,
       "sol": 0,
-      "pts": 183
+      "pts": 230
     },
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 7,
-      "gr": 2,
+      "gp": 8,
+      "gr": 1,
       "w": 5,
-      "l": 2,
+      "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 101
+      "pts": 134
     },
     {
       "team": "Laval Rocket",
