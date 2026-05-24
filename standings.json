@@ -4,24 +4,24 @@
     {
       "team": "Springfield Thunderbirds",
       "division": "Other",
-      "gp": 11,
-      "gr": 1,
+      "gp": 12,
+      "gr": 0,
       "w": 7,
-      "l": 4,
+      "l": 5,
       "otl": 0,
       "sol": 0,
-      "pts": 147
+      "pts": 153
     },
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 8,
-      "gr": 1,
-      "w": 5,
+      "gp": 9,
+      "gr": 0,
+      "w": 6,
       "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 78
+      "pts": 84
     },
     {
       "team": "Hershey Bears",
