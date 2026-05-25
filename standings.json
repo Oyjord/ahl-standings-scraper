@@ -16,7 +16,7 @@
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
       "gp": 9,
-      "gr": 0,
+      "gr": 7,
       "w": 6,
       "l": 3,
       "otl": 0,
@@ -70,24 +70,24 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 12,
-      "gr": 1,
-      "w": 7,
+      "gp": 13,
+      "gr": 7,
+      "w": 8,
       "l": 5,
       "otl": 0,
       "sol": 0,
-      "pts": 230
+      "pts": 236
     },
     {
       "team": "Cleveland Monsters",
       "division": "Other",
-      "gp": 8,
-      "gr": 1,
+      "gp": 9,
+      "gr": 0,
       "w": 5,
-      "l": 3,
+      "l": 4,
       "otl": 0,
       "sol": 0,
-      "pts": 134
+      "pts": 142
     },
     {
       "team": "Laval Rocket",
