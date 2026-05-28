@@ -15,13 +15,13 @@
     {
       "team": "Wilkes-Barre/Scranton Penguins",
       "division": "Other",
-      "gp": 9,
-      "gr": 7,
+      "gp": 10,
+      "gr": 6,
       "w": 6,
-      "l": 3,
+      "l": 4,
       "otl": 0,
       "sol": 0,
-      "pts": 84
+      "pts": 125
     },
     {
       "team": "Hershey Bears",
@@ -70,13 +70,13 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 13,
-      "gr": 7,
-      "w": 8,
+      "gp": 14,
+      "gr": 6,
+      "w": 9,
       "l": 5,
       "otl": 0,
       "sol": 0,
-      "pts": 238
+      "pts": 266
     },
     {
       "team": "Cleveland Monsters",
