@@ -2,6 +2,17 @@
   "division": "All Divisions",
   "teams": [
     {
+      "team": "Wilkes-Barre/Scranton Penguins",
+      "division": "Other",
+      "gp": 12,
+      "gr": 4,
+      "w": 7,
+      "l": 5,
+      "otl": 0,
+      "sol": 0,
+      "pts": 163
+    },
+    {
       "team": "Springfield Thunderbirds",
       "division": "Other",
       "gp": 12,
@@ -11,17 +22,6 @@
       "otl": 0,
       "sol": 0,
       "pts": 153
-    },
-    {
-      "team": "Wilkes-Barre/Scranton Penguins",
-      "division": "Other",
-      "gp": 11,
-      "gr": 5,
-      "w": 6,
-      "l": 5,
-      "otl": 0,
-      "sol": 0,
-      "pts": 135
     },
     {
       "team": "Hershey Bears",
@@ -70,13 +70,13 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 15,
-      "gr": 5,
+      "gp": 16,
+      "gr": 4,
       "w": 10,
-      "l": 5,
+      "l": 6,
       "otl": 0,
       "sol": 0,
-      "pts": 278
+      "pts": 302
     },
     {
       "team": "Cleveland Monsters",
