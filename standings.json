@@ -125,13 +125,13 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 11,
-      "gr": 5,
+      "gp": 12,
+      "gr": 4,
       "w": 7,
-      "l": 4,
+      "l": 5,
       "otl": 0,
       "sol": 0,
-      "pts": 135
+      "pts": 147
     },
     {
       "team": "Grand Rapids Griffins",
@@ -180,13 +180,13 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 12,
-      "gr": 5,
-      "w": 9,
+      "gp": 13,
+      "gr": 4,
+      "w": 10,
       "l": 3,
       "otl": 0,
       "sol": 0,
-      "pts": 118
+      "pts": 124
     },
     {
       "team": "Coachella Valley Firebirds",
