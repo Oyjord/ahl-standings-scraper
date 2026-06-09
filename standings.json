@@ -125,9 +125,9 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 15,
-      "gr": 8,
-      "w": 9,
+      "gp": 16,
+      "gr": 7,
+      "w": 10,
       "l": 6,
       "otl": 0,
       "sol": 0,
@@ -180,10 +180,10 @@
     {
       "team": "Colorado Eagles",
       "division": "Pacific",
-      "gp": 16,
-      "gr": 1,
+      "gp": 17,
+      "gr": 0,
       "w": 11,
-      "l": 5,
+      "l": 6,
       "otl": 0,
       "sol": 0,
       "pts": 156
