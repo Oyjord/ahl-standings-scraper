@@ -71,7 +71,7 @@
       "team": "Toronto Marlies",
       "division": "Other",
       "gp": 19,
-      "gr": 0,
+      "gr": 7,
       "w": 12,
       "l": 7,
       "otl": 0,
@@ -126,12 +126,12 @@
       "team": "Chicago Wolves",
       "division": "Other",
       "gp": 15,
-      "gr": 1,
+      "gr": 8,
       "w": 9,
       "l": 6,
       "otl": 0,
       "sol": 0,
-      "pts": 195
+      "pts": 199
     },
     {
       "team": "Grand Rapids Griffins",
@@ -186,7 +186,7 @@
       "l": 5,
       "otl": 0,
       "sol": 0,
-      "pts": 152
+      "pts": 156
     },
     {
       "team": "Coachella Valley Firebirds",
