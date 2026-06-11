@@ -29,7 +29,7 @@
 				var mi_version = '10.2.2';
 				var mi_track_user = true;
 				var mi_no_track_reason = '';
-								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/theahl.com\/?htSvfPage=index.php&htSvfPage=standings"};
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/theahl.com\/?htSvfPage=index.php&htSvfPage=standings","page_referrer":"https:\/\/theahl.com\/stats\/schedule"};
 								MonsterInsightsDefaultLocations.page_location = window.location.href;
 								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
 					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
@@ -508,9 +508,9 @@ body.mobile-menu-opened > #hello-bar {
 #hello-bar {
 	display: flex;
 	width: 100%;
-	height: 0px;
+	height: 90px;
 	align-items: center;
-	background-color: #000000;
+	background-color: #131733;
 			position: absolute;
 		top: calc(0px + 0px);
 	z-index: 999;
@@ -539,16 +539,16 @@ hellobar .hello-content a.hello-button {
 hellobar .hello-content .hello-image {
 	display: flex;
 	align-items: center;
-	height: 0px;
+	height: 90px;
 }
 hellobar .hello-content .hello-image img {
-	max-height: 0px;
+	max-height: 90px;
 	padding: 10px 0;
 }
 
 .site.hello {
 	position: absolute;
-	top: calc(0px + 0px);
+	top: calc(90px + 0px);
 }
 
 /* Team Navigation Bar */
@@ -860,7 +860,7 @@ socialnav#mobile-social-nav {
 		top: calc(0px + 0px);
 	}
 	.site.hello {
-		top: calc(0px + 0px);
+		top: calc(90px + 0px);
 	}
 	.main-navigation.sticky-nav {
 					top: calc(0px + 0px);
@@ -1570,8 +1570,17 @@ i.fas.fa-search:hover {
 
 <body class="wp-theme-jaws ctct-jaws hfeed">
 
+	<hellobar id="hello-bar">
+		<div class="hello-content">
+										<div class="hello-image">
+											<a href="https://flosports.link/4cC9sC3" target="_self">
+							<img src="//theahl.com/wp-content/uploads/sites/3/2026/06/ahltv260610_970.jpg">
+						</a>
+									</div>
+								</div>
+	</hellobar>
 
-	<div id="page" class="site">
+	<div id="page" class="site hello">
 
 <nav id="site-navigation-mobile" class="main-navigation">
 	<section class="navigation-container">
@@ -1652,6 +1661,45 @@ i.fas.fa-search:hover {
 						<section class="ht-recent-posts">
 								<div class="ht-recent-post">
 									<div class="ht-recent-image">
+										<a href="https://theahl.com/news/2025-26-ahl-top-prospects-team" title="AHL announces 2025-26 Top Prospects Team">
+											<img src="https://theahl.com/wp-content/uploads/sites/3/2025/06/topprospects260610-300x200.jpg">
+										</a>
+									</div>
+									<div class="ht-recent-title">
+										<a href="https://theahl.com/news/2025-26-ahl-top-prospects-team" title="AHL announces 2025-26 Top Prospects Team">
+											AHL announces 2025-26 Top Prospects Team										</a>
+									</div>
+								</div>
+
+								
+								<div class="ht-recent-post">
+									<div class="ht-recent-image">
+										<a href="https://theahl.com/news/firebirds-captain-mccormick-retires" title="Firebirds captain McCormick retires">
+											<img src="https://theahl.com/wp-content/uploads/sites/3/2026/06/mccormick_max260609-300x200.jpg">
+										</a>
+									</div>
+									<div class="ht-recent-title">
+										<a href="https://theahl.com/news/firebirds-captain-mccormick-retires" title="Firebirds captain McCormick retires">
+											Firebirds captain McCormick retires										</a>
+									</div>
+								</div>
+
+								
+								<div class="ht-recent-post">
+									<div class="ht-recent-image">
+										<a href="https://theahl.com/news/blues-sign-thunderbirds-ott-to-extension" title="Blues sign Thunderbirds’ Ott to extension">
+											<img src="https://theahl.com/wp-content/uploads/sites/3/2026/06/ott_steve260610-300x200.jpg">
+										</a>
+									</div>
+									<div class="ht-recent-title">
+										<a href="https://theahl.com/news/blues-sign-thunderbirds-ott-to-extension" title="Blues sign Thunderbirds’ Ott to extension">
+											Blues sign Thunderbirds’ Ott to extension										</a>
+									</div>
+								</div>
+
+								
+								<div class="ht-recent-post">
+									<div class="ht-recent-image">
 										<a href="https://theahl.com/news/2026-calder-cup-finals-begin-friday" title="2026 Calder Cup Finals begin Friday">
 											<img src="https://theahl.com/wp-content/uploads/sites/3/2026/06/brackets260608_CHI-TOR-300x200.jpg">
 										</a>
@@ -1688,45 +1736,6 @@ i.fas.fa-search:hover {
 									</div>
 								</div>
 
-								
-								<div class="ht-recent-post">
-									<div class="ht-recent-image">
-										<a href="https://theahl.com/news/ahl-morning-skate-june-8-2026" title="AHL Morning Skate: June 8, 2026">
-											<img src="https://theahl.com/wp-content/uploads/sites/3/2026/06/skate260608-300x200.jpg">
-										</a>
-									</div>
-									<div class="ht-recent-title">
-										<a href="https://theahl.com/news/ahl-morning-skate-june-8-2026" title="AHL Morning Skate: June 8, 2026">
-											AHL Morning Skate: June 8, 2026										</a>
-									</div>
-								</div>
-
-								
-								<div class="ht-recent-post">
-									<div class="ht-recent-image">
-										<a href="https://theahl.com/news/marlies-win-eastern-conference-championship" title="Marlies win Eastern Conference championship">
-											<img src="https://theahl.com/wp-content/uploads/sites/3/2026/06/tor-celeb260607a-300x200.jpg">
-										</a>
-									</div>
-									<div class="ht-recent-title">
-										<a href="https://theahl.com/news/marlies-win-eastern-conference-championship" title="Marlies win Eastern Conference championship">
-											Marlies win Eastern Conference championship										</a>
-									</div>
-								</div>
-
-								
-								<div class="ht-recent-post">
-									<div class="ht-recent-image">
-										<a href="https://theahl.com/news/wolves-surge-past-eagles-to-force-game-7" title="Wolves surge past Eagles to force Game 7">
-											<img src="https://theahl.com/wp-content/uploads/sites/3/2026/06/chi-celeb260607-300x200.jpg">
-										</a>
-									</div>
-									<div class="ht-recent-title">
-										<a href="https://theahl.com/news/wolves-surge-past-eagles-to-force-game-7" title="Wolves surge past Eagles to force Game 7">
-											Wolves surge past Eagles to force Game 7										</a>
-									</div>
-								</div>
-
 								</section>			</div>		<div class="mega-menu-widget">			<div class="textwidget"><p><a href="https://theahl.com/tag/ahl-on-the-beat">&gt;&gt; AHL On The Beat</a><br>
 <a href="https://theahl.com/author/pwilliams">&gt;&gt; Patrick Williams archive</a></p>
 </div>
@@ -1745,32 +1754,7 @@ i.fas.fa-search:hover {
 
 
 
-<ht-scorebar-pro ispro="1" display-team="" team="" daysback="2" daysahead="7" displaytiles="8" lang="en"><!-- Hockeytech Scoreboard Pro -->
-<div class="scoreboardheader">
-	<div id="scorecontainer-pro">
-		<div class="scoreboard">
-			<div ng-show="loadError" class="ng-hide">
-				
-			</div>
-			<div ng-hide="loadError">
-				<span class="loading ng-hide" ng-show="loading"></span>
-				<!----><div ng-if="teamDisplay === 'teamCode'">
-					<!---->
-					<div class="ht-scorebar-sch-container">
-						<!----><a ng-if="language == 'en'" ng-href="/stats/schedule" class="ht-scorebar-sch-btn" target="_self" title="" href="/stats/schedule">
-							<i class="ht-calendar-select"></i>
-						</a><!---->
-						<!---->
-					</div>
-				</div><!---->
-				<!-- Scorebar Team Name -->
-				<!---->
-			</div>
-		</div>
-	</div>
-</div>
-<!-- End Hockeytech Scoreboard -->
-</ht-scorebar-pro><nav id="site-navigation" class="main-navigation">
+<ht-scorebar-pro ispro="1" display-team="" team="" daysback="2" daysahead="10" displaytiles="7" lang="en"></ht-scorebar-pro><nav id="site-navigation" class="main-navigation">
 	<section class="navigation-container">
 					<div class="show-menu-logo">
 				<a href="https://theahl.com/" target="_top" title="TheAHL.com | The American Hockey League" rel="home">
@@ -1851,6 +1835,45 @@ i.fas.fa-search:hover {
 						<section class="ht-recent-posts">
 								<div class="ht-recent-post">
 									<div class="ht-recent-image">
+										<a href="https://theahl.com/news/2025-26-ahl-top-prospects-team" title="AHL announces 2025-26 Top Prospects Team">
+											<img src="https://theahl.com/wp-content/uploads/sites/3/2025/06/topprospects260610-300x200.jpg">
+										</a>
+									</div>
+									<div class="ht-recent-title">
+										<a href="https://theahl.com/news/2025-26-ahl-top-prospects-team" title="AHL announces 2025-26 Top Prospects Team">
+											AHL announces 2025-26 Top Prospects Team										</a>
+									</div>
+								</div>
+
+								
+								<div class="ht-recent-post">
+									<div class="ht-recent-image">
+										<a href="https://theahl.com/news/firebirds-captain-mccormick-retires" title="Firebirds captain McCormick retires">
+											<img src="https://theahl.com/wp-content/uploads/sites/3/2026/06/mccormick_max260609-300x200.jpg">
+										</a>
+									</div>
+									<div class="ht-recent-title">
+										<a href="https://theahl.com/news/firebirds-captain-mccormick-retires" title="Firebirds captain McCormick retires">
+											Firebirds captain McCormick retires										</a>
+									</div>
+								</div>
+
+								
+								<div class="ht-recent-post">
+									<div class="ht-recent-image">
+										<a href="https://theahl.com/news/blues-sign-thunderbirds-ott-to-extension" title="Blues sign Thunderbirds’ Ott to extension">
+											<img src="https://theahl.com/wp-content/uploads/sites/3/2026/06/ott_steve260610-300x200.jpg">
+										</a>
+									</div>
+									<div class="ht-recent-title">
+										<a href="https://theahl.com/news/blues-sign-thunderbirds-ott-to-extension" title="Blues sign Thunderbirds’ Ott to extension">
+											Blues sign Thunderbirds’ Ott to extension										</a>
+									</div>
+								</div>
+
+								
+								<div class="ht-recent-post">
+									<div class="ht-recent-image">
 										<a href="https://theahl.com/news/2026-calder-cup-finals-begin-friday" title="2026 Calder Cup Finals begin Friday">
 											<img src="https://theahl.com/wp-content/uploads/sites/3/2026/06/brackets260608_CHI-TOR-300x200.jpg">
 										</a>
@@ -1884,45 +1907,6 @@ i.fas.fa-search:hover {
 									<div class="ht-recent-title">
 										<a href="https://theahl.com/news/on-to-game-7-wolves-still-have-work-to-do" title="On to Game 7, Wolves still have work to do">
 											On to Game 7, Wolves still have work to do										</a>
-									</div>
-								</div>
-
-								
-								<div class="ht-recent-post">
-									<div class="ht-recent-image">
-										<a href="https://theahl.com/news/ahl-morning-skate-june-8-2026" title="AHL Morning Skate: June 8, 2026">
-											<img src="https://theahl.com/wp-content/uploads/sites/3/2026/06/skate260608-300x200.jpg">
-										</a>
-									</div>
-									<div class="ht-recent-title">
-										<a href="https://theahl.com/news/ahl-morning-skate-june-8-2026" title="AHL Morning Skate: June 8, 2026">
-											AHL Morning Skate: June 8, 2026										</a>
-									</div>
-								</div>
-
-								
-								<div class="ht-recent-post">
-									<div class="ht-recent-image">
-										<a href="https://theahl.com/news/marlies-win-eastern-conference-championship" title="Marlies win Eastern Conference championship">
-											<img src="https://theahl.com/wp-content/uploads/sites/3/2026/06/tor-celeb260607a-300x200.jpg">
-										</a>
-									</div>
-									<div class="ht-recent-title">
-										<a href="https://theahl.com/news/marlies-win-eastern-conference-championship" title="Marlies win Eastern Conference championship">
-											Marlies win Eastern Conference championship										</a>
-									</div>
-								</div>
-
-								
-								<div class="ht-recent-post">
-									<div class="ht-recent-image">
-										<a href="https://theahl.com/news/wolves-surge-past-eagles-to-force-game-7" title="Wolves surge past Eagles to force Game 7">
-											<img src="https://theahl.com/wp-content/uploads/sites/3/2026/06/chi-celeb260607-300x200.jpg">
-										</a>
-									</div>
-									<div class="ht-recent-title">
-										<a href="https://theahl.com/news/wolves-surge-past-eagles-to-force-game-7" title="Wolves surge past Eagles to force Game 7">
-											Wolves surge past Eagles to force Game 7										</a>
 									</div>
 								</div>
 
@@ -2446,6 +2430,6 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 		ga('htTracker.send', 'pageview');
 	</script>
 
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a097022499e9e61b',t:'MTc4MTA4MDE2Nw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; visibility: hidden;"></iframe>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a09c7486cdfbaf1b',t:'MTc4MTEzNzI4MQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; visibility: hidden;"></iframe>
 
-<div id="sbi_lightboxOverlay" class="sbi_lightboxOverlay" style="display: none;"></div><div id="sbi_lightbox" class="sbi_lightbox" style="display: none;"><div class="sbi_lb-outerContainer"><div class="sbi_lb-nav"><a class="sbi_lb-prev" href="#"><p class="sbi-screenreader">Previous Slide</p><span></span></a><a class="sbi_lb-next" href="#"><p class="sbi-screenreader">Next Slide</p><span></span></a></div><div class="sbi_lb-container-wrapper"><div class="sbi_lb-container" style="overflow: hidden; touch-action: pan-y; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><div class="sbi_lb-image-wrap-outer"><div class="sbi_lb-image-wrap"><img class="sbi_lb-image" src="" alt="Lightbox image placeholder"></div></div><div class="sbi_lb-loader"><i class="fa fa-spin"></i></div></div><div class="sbi_lb-dataContainer"><div class="sbi_lb-data"><div class="sbi_lb-details"><span class="sbi_lb-caption"></span><span class="sbi_lb-number"></span><div class="sbi_lightbox_action sbi_share"><a href="JavaScript:void(0);"><i class="fa fa-share"></i>Share</a><p class="sbi_lightbox_tooltip sbi_tooltip_social"><a href="" target="_blank" rel="noopener" id="sbi_facebook_icon"><span class="sbi-screenreader">Facebook</span><i class="fa fab fa-facebook-square"></i></a><a href="" target="_blank" rel="noopener" id="sbi_twitter_icon"><span class="sbi-screenreader">Twitter</span><i class="fa fab fa-twitter"></i></a><a href="" target="_blank" rel="noopener" id="sbi_linkedin_icon"><span class="sbi-screenreader">Linkedin</span><i class="fa fab fa-linkedin"></i></a><a href="" id="sbi_pinterest_icon" target="_blank" rel="noopener"><span class="sbi-screenreader">Pinterest</span><i class="fa fab fa-pinterest"></i></a><a href="" id="sbi_email_icon" target="_blank" rel="noopener"><span class="sbi-screenreader">Email</span><i class="fa fa-envelope"></i></a><a class="sbi_share_close"><svg class="svg-inline--fa fa-times fa-w-12" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="times" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path fill="currentColor" d="M323.1 441l53.9-53.9c9.4-9.4 9.4-24.5 0-33.9L279.8 256l97.2-97.2c9.4-9.4 9.4-24.5 0-33.9L323.1 71c-9.4-9.4-24.5-9.4-33.9 0L192 168.2 94.8 71c-9.4-9.4-24.5-9.4-33.9 0L7 124.9c-9.4 9.4-9.4 24.5 0 33.9l97.2 97.2L7 353.2c-9.4 9.4-9.4 24.5 0 33.9L60.9 441c9.4 9.4 24.5 9.4 33.9 0l97.2-97.2 97.2 97.2c9.3 9.3 24.5 9.3 33.9 0z"></path></svg></a></p></div><div class="sbi_lightbox_action sbi_instagram"><a href="https://www.instagram.com/" target="_blank" rel="noopener nofollow"><i class="fa fab fa-instagram"></i>Instagram</a></div><div id="sbi_mod_link" class="sbi_lightbox_action"><a href="JavaScript:void(0);"><i class="fa fa-times"></i>Hide photo (admin)</a><p id="sbi_mod_box" class="sbi_lightbox_tooltip">Add ID to the <strong>Hide Specific Photos</strong> setting: <span id="sbi_photo_id"></span></p></div></div><div class="sbi_lb-closeContainer"><a class="sbi_lb-close"><i class="fa fa-times"></i></a></div></div></div></div></div></div><script type="text/javascript" src="https://lscluster.hockeytech.com/feed/index.php?feed=statviewfeed&amp;view=bootstrap&amp;season=latest&amp;game_id=&amp;pageName=scorebar&amp;key=ccb91f29d6744675&amp;client_code=ahl&amp;site_id=3&amp;league_id=&amp;league_code=&amp;conference=-1&amp;division=-1&amp;lang=en&amp;callback=angular.callbacks._0" async=""></script><script type="text/javascript" src="https://lscluster.hockeytech.com/feed/index.php?feed=statviewfeed&amp;view=scorebarRollover&amp;key=ccb91f29d6744675&amp;client_code=ahl&amp;callback=angular.callbacks._1" async=""></script></body></html>
+<div id="sbi_lightboxOverlay" class="sbi_lightboxOverlay" style="display: none;"></div><div id="sbi_lightbox" class="sbi_lightbox" style="display: none;"><div class="sbi_lb-outerContainer"><div class="sbi_lb-nav"><a class="sbi_lb-prev" href="#"><p class="sbi-screenreader">Previous Slide</p><span></span></a><a class="sbi_lb-next" href="#"><p class="sbi-screenreader">Next Slide</p><span></span></a></div><div class="sbi_lb-container-wrapper"><div class="sbi_lb-container" style="overflow: hidden; touch-action: pan-y; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><div class="sbi_lb-image-wrap-outer"><div class="sbi_lb-image-wrap"><img class="sbi_lb-image" src="" alt="Lightbox image placeholder"></div></div><div class="sbi_lb-loader"><i class="fa fa-spin"></i></div></div><div class="sbi_lb-dataContainer"><div class="sbi_lb-data"><div class="sbi_lb-details"><span class="sbi_lb-caption"></span><span class="sbi_lb-number"></span><div class="sbi_lightbox_action sbi_share"><a href="JavaScript:void(0);"><i class="fa fa-share"></i>Share</a><p class="sbi_lightbox_tooltip sbi_tooltip_social"><a href="" target="_blank" rel="noopener" id="sbi_facebook_icon"><span class="sbi-screenreader">Facebook</span><i class="fa fab fa-facebook-square"></i></a><a href="" target="_blank" rel="noopener" id="sbi_twitter_icon"><span class="sbi-screenreader">Twitter</span><i class="fa fab fa-twitter"></i></a><a href="" target="_blank" rel="noopener" id="sbi_linkedin_icon"><span class="sbi-screenreader">Linkedin</span><i class="fa fab fa-linkedin"></i></a><a href="" id="sbi_pinterest_icon" target="_blank" rel="noopener"><span class="sbi-screenreader">Pinterest</span><i class="fa fab fa-pinterest"></i></a><a href="" id="sbi_email_icon" target="_blank" rel="noopener"><span class="sbi-screenreader">Email</span><i class="fa fa-envelope"></i></a><a class="sbi_share_close"><svg class="svg-inline--fa fa-times fa-w-12" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="times" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path fill="currentColor" d="M323.1 441l53.9-53.9c9.4-9.4 9.4-24.5 0-33.9L279.8 256l97.2-97.2c9.4-9.4 9.4-24.5 0-33.9L323.1 71c-9.4-9.4-24.5-9.4-33.9 0L192 168.2 94.8 71c-9.4-9.4-24.5-9.4-33.9 0L7 124.9c-9.4 9.4-9.4 24.5 0 33.9l97.2 97.2L7 353.2c-9.4 9.4-9.4 24.5 0 33.9L60.9 441c9.4 9.4 24.5 9.4 33.9 0l97.2-97.2 97.2 97.2c9.3 9.3 24.5 9.3 33.9 0z"></path></svg></a></p></div><div class="sbi_lightbox_action sbi_instagram"><a href="https://www.instagram.com/" target="_blank" rel="noopener nofollow"><i class="fa fab fa-instagram"></i>Instagram</a></div><div id="sbi_mod_link" class="sbi_lightbox_action"><a href="JavaScript:void(0);"><i class="fa fa-times"></i>Hide photo (admin)</a><p id="sbi_mod_box" class="sbi_lightbox_tooltip">Add ID to the <strong>Hide Specific Photos</strong> setting: <span id="sbi_photo_id"></span></p></div></div><div class="sbi_lb-closeContainer"><a class="sbi_lb-close"><i class="fa fa-times"></i></a></div></div></div></div></div></div></body></html>
