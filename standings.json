@@ -70,13 +70,13 @@
     {
       "team": "Toronto Marlies",
       "division": "Other",
-      "gp": 19,
-      "gr": 7,
-      "w": 12,
+      "gp": 20,
+      "gr": 6,
+      "w": 13,
       "l": 7,
       "otl": 0,
       "sol": 0,
-      "pts": 389
+      "pts": 397
     },
     {
       "team": "Cleveland Monsters",
@@ -125,13 +125,13 @@
     {
       "team": "Chicago Wolves",
       "division": "Other",
-      "gp": 16,
-      "gr": 7,
+      "gp": 17,
+      "gr": 6,
       "w": 10,
-      "l": 6,
+      "l": 7,
       "otl": 0,
       "sol": 0,
-      "pts": 199
+      "pts": 207
     },
     {
       "team": "Grand Rapids Griffins",
