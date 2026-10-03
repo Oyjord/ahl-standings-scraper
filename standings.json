@@ -244,48 +244,48 @@
       "pts": 0
     },
     {
-      "team": "Coachella Valley Firebirds",
-      "division": "Pacific",
-      "gp": 0,
-      "gr": 72,
-      "w": 0,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 4
-    },
-    {
       "team": "Calgary Wranglers",
       "division": "Pacific",
-      "gp": 0,
-      "gr": 72,
-      "w": 0,
+      "gp": 1,
+      "gr": 71,
+      "w": 1,
       "l": 0,
       "otl": 0,
       "sol": 0,
       "pts": 8
     },
     {
-      "team": "Abbotsford Canucks",
-      "division": "Pacific",
-      "gp": 0,
-      "gr": 72,
-      "w": 0,
-      "l": 0,
-      "otl": 0,
-      "sol": 0,
-      "pts": 6
-    },
-    {
       "team": "Ontario Reign",
       "division": "Pacific",
-      "gp": 0,
-      "gr": 72,
-      "w": 0,
+      "gp": 1,
+      "gr": 71,
+      "w": 1,
       "l": 0,
       "otl": 0,
       "sol": 0,
-      "pts": 2
+      "pts": 13
+    },
+    {
+      "team": "Coachella Valley Firebirds",
+      "division": "Pacific",
+      "gp": 1,
+      "gr": 71,
+      "w": 0,
+      "l": 0,
+      "otl": 1,
+      "sol": 0,
+      "pts": 29
+    },
+    {
+      "team": "Abbotsford Canucks",
+      "division": "Pacific",
+      "gp": 1,
+      "gr": 71,
+      "w": 0,
+      "l": 1,
+      "otl": 0,
+      "sol": 0,
+      "pts": 8
     },
     {
       "team": "Henderson Silver Knights",
